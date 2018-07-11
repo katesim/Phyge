@@ -46,7 +46,6 @@ def pdf2json(pdf_path = 'test.pdf', json_path_article = 'test_article.json', jso
     article['title'] = title
     request['title'] = title
     
-    #TODO ?Надо бросать ошибки, если в тексте нету Abstract или Introduction?
     abstract = text[:text.find('Introduction')]
     article_text = text[text.find('Introduction'):]   
 
