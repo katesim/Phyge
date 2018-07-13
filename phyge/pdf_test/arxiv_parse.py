@@ -36,13 +36,15 @@ def load(save_pth,art_list): #also checks if downloaded file is actually pdf, an
     for i in range(len(loc_arts)):
         filename = loc_arts[i]['pdf_url'].split('/')[-1]+'.pdf'
         urllib.request.urlretrieve(loc_arts[i]['pdf_url'],save_pth + filename)
+        print('Downloaded {}/{} articles ...'.format(i+1,len(loc_arts)))
         if not filetype.guess(save_pth + filename):
             print('File {} removed (not pdf)'.format(filename))
             os.remove(save_pth + filename)
             false_pdf.append(i)
     for elem in false_pdf:
         del loc_arts[elem]
+    print('Number of successfully downloaded articles: {}'.format(len(loc_arts)))
     return loc_arts
 
 if __name__ == '__main__':
-    load('/home/alex/MLX/articles/',request('astro-ph',10))
+    load('',request('astro-ph',10))
