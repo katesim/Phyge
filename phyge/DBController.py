@@ -56,7 +56,11 @@ class DBController:
 
 #замена get_all_documents?
     @classmethod
-    def get_all_articles(cls, filter_fields=None) -> [BaseArticle]:
+    def get_all_articles(cls, filter_fields=None, limit = None) -> [BaseArticle]:
         filter_fields = filter_fields if filter_fields else dict()
-        articles = cls.articles.find(filter_fields)#.sort('serial_id', pymongo.ASCENDING)
+        if limit:
+            articles = cls.articles.find(filter_fields).limit(limit)
+        else:
+            articles = cls.articles.find(filter_fields)
         return articles
+    

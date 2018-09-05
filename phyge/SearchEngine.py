@@ -15,10 +15,10 @@ class SearchEngine:
             found_articles = list()
 
             for index, similarity in similarities[:amount]:
-                answer = {'id': articles[index]['serial_id'],
-                          'title': articles[index]['title'],
-                          'source': articles[index]['source'],
-                          'text': (articles[index]['text'][0:200])\
+                answer = {'id': articles[index].id,
+                          'title': articles[index].title,
+                          'source': articles[index].source,
+                          'text': (articles[index].text[0:200])\
                                       .replace("', '", '')\
                                       .replace("[, ", '')\
                                       .replace("'", '')\

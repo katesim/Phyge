@@ -64,5 +64,5 @@ if __name__ == "__main__":
     lda = Storage.load_model('out/lda', 'phyge', 'lda')
 
     search_engine = SearchEngine(models=[lsi, lda])
-    test_path = os.path.join(PhyVariables.testsDir, 'test'+str(PhyVariables.queriesId))
+    test_path = os.path.join(PhyVariables.testsDir, 'test_'+str(PhyVariables.queriesId))
     run_search(os.path.join(test_path, PhyVariables.queriesFileName), os.path.join(test_path, PhyVariables.answersFileName), 1)

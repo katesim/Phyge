@@ -44,15 +44,22 @@ def search_articles():
     return Response(json.dumps(search_results, ensure_ascii=False), status=200, mimetype='application/json')
 
 
-if __name__ == "__main__":
-    log_of_result = []
-
-    if len(DBController.get_all_documents()) == 0:
+def check_db_status():
+    db_len = 0
+    for _ in DBController.get_all_articles():
+        db_len += 1
+    if db_len == 0:
         print('Seeding database...')
         DatabaseSeeder.seed()
 
+if __name__ == "__main__":
+    log_of_result = []
+
+    check_db_status()
+
     lsi = Storage.load_model('out/lsi', 'phyge', 'lsi')
     lda = Storage.load_model('out/lda', 'phyge', 'lda')
+    d2v = Storage.load_model('out/d2v', 'phyge', 'd2v')
 
     search_engine = SearchEngine(models=[lsi, lda])
 

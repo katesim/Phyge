@@ -84,10 +84,10 @@ class ArticleFetcher:
     def __transform_to_single_line(raw_html):
         soup = BeautifulSoup(raw_html, 'lxml')
         result = str(soup.findAll(text=True)) \
-            .replace("\\n", '') \
-            .replace("\\r", '') \
-            .replace('\\xa0', '') \
-            .replace('\'', '') \
-            .replace('\\t', '')
+            .replace("\\n", ' ') \
+            .replace("\\r", ' ') \
+            .replace('\\xa0', ' ') \
+            .replace('\'', ' ') \
+            .replace('\\t', ' ')
 
         return result
