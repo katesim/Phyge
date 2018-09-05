@@ -46,7 +46,7 @@ class IterArticles:
         if isinstance(key,slice):
             return [BaseArticle(DBController.get_article(self.articles_id[ii])) 
                 for ii in range(*key.indices(len(self)))]
-        elif np.issubdtype(key,np.integer):
+        elif np.issubdtype(type(key), np.integer):
             if key < 0:
                 key += len(self)
             if key < 0 or key >= len(self):
