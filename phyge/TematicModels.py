@@ -127,7 +127,7 @@ if __name__ == '__main__':
 
 class FastTextModel(BaseModel):
     def __init__(self, model_name: str):
-        BaseModel.__init__(self, name=model_name, model_type='d2v') 
+        BaseModel.__init__(self, name=model_name, model_type='ft') 
     
     def train_model(self,training_sample: TrainingSample):
         self.training_sample = training_sample
