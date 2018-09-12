@@ -124,3 +124,18 @@ class D2vModel(BaseModel):
 
 if __name__ == '__main__':
     pass
+
+class FastTextModel(BaseModel):
+    def __init__(self, model_name: str):
+        BaseModel.__init__(self, name=model_name, model_type='d2v') 
+    
+    def train_model(self,training_sample: TrainingSample):
+        self.training_sample = training_sample
+        self.documents = training_sample.get_documents()
+        print('\nfastText model: Обучаем модель...')
+        start_time = time.time()
+        self.model = models.FastText(self.documents,sg=1,hs=1,size=100,alpha=0.025,
+                                        window=5,min_count=3,workers=3,min_alpha=0.0001,
+                                        negative=10,cbow_mean=1,iter=10,min_n=3,max_n=6,
+                                        sorted_vocab=0)
+        print('Learning time:', round((time.time() - start_time), 3), 's')
