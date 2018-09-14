@@ -60,9 +60,10 @@ if __name__ == "__main__":
         print('Seeding database...')
         DatabaseSeeder.seed()
 
-    lsi = Storage.load_model('out/lsi', 'phyge', 'lsi')
-    lda = Storage.load_model('out/lda', 'phyge', 'lda')
-
-    search_engine = SearchEngine(models=[lsi, lda])
+    #lsi = Storage.load_model('out/lsi', 'phyge', 'lsi')
+    #lda = Storage.load_model('out/lda', 'phyge', 'lda')
+    fast_text = Storage.load_model('out/fast_text', 'phyge', 'ft')
+    #search_engine = SearchEngine(models=[lsi, lda])
+    search_engine = SearchEngine(models=[fast_text])
     test_path = os.path.join(PhyVariables.testsDir, 'test_'+str(PhyVariables.queriesId))
     run_search(os.path.join(test_path, PhyVariables.queriesFileName), os.path.join(test_path, PhyVariables.answersFileName), 1)
