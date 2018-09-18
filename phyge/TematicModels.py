@@ -92,9 +92,6 @@ class D2vModel(BaseModel):
         BaseModel.__init__(self, name=model_name, model_type='d2v')
 
     def train_model(self,training_sample: TrainingSample):
-        max_epochs = 100
-        vec_size = 30
-        alpha = 0.025
         self.training_sample = training_sample
         self.documents = training_sample.articles
         print('\nD2V model: Обучаем модель...')
@@ -102,24 +99,17 @@ class D2vModel(BaseModel):
         tagged_data = [models.doc2vec.TaggedDocument(words=doc.normalized_words, 
                     tags=[num]) 
                     for num, doc in enumerate(self.documents)]
-        self.model = models.doc2vec.Doc2Vec(size=vec_size,
-                        alpha=alpha,
-                        #window=3,
+        self.model = models.doc2vec.Doc2Vec(size=100,
+                        alpha=0.025,
+                        window=5,
                         min_alpha=0.00025,
-                        negative=5,
-                        min_count=1,
+                        negative=10,
+                        min_count=3,
                         seed=12345,
                         dm =1)
         self.model.build_vocab(tagged_data)
-        for epoch in range(max_epochs):
-            #print('iteration {0}'.format(epoch))
-            self.model.train(tagged_data,
-                        total_examples=self.model.corpus_count,
-                        epochs=self.model.epochs)
-            # decrease the learning rate
-            self.model.alpha -= 0.0002
-            # fix the learning rate, no decay
-            self.model.min_alpha = self.model.alpha
+        self.model.train(tagged_data,
+                        total_examples=self.model.corpus_count,epochs=30)
         print('Learning time:', round((time.time() - start_time), 3), 's')
 
 if __name__ == '__main__':

@@ -26,9 +26,7 @@ if __name__ == "__main__":
     d2v = D2vModel(model_name='phyge')
 
     lsi.train_model(testing_sample)
-    lsi.model.print_topics()
     lda.train_model(testing_sample)
-    lda.model.print_topics()
     d2v.train_model(testing_sample)
 
     Storage.save_model(lsi, path='out/lsi')
