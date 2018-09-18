@@ -43,7 +43,7 @@ class BaseModel(object):
             index = similarities.Similarity(output_prefix=os.path.join('out', self.type, 'index_shard'),
                                             corpus=self.model[self.corpus],
                                             shardsize=self.SHARD_SIZE,
-                                            num_features=self.dictionary.num_pos)
+                                            num_features=self.TOPIC_NUMBER)
 
             query_vec = self.query_to_vec(normalized_query)
             query = self.model[query_vec]
