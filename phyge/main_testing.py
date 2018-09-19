@@ -48,7 +48,10 @@ def save_results(result_path, search_results, query_list):
         output_answer = []
         for i, answer in enumerate(search_results):
             for model_name in answer.keys():
-                output_answer.append(dict(true_id=query_list[i].id, model=model_name, id=answer[model_name][0]['id'],
+                output_answer.append(dict(req_id=query_list[i].id, model=model_name,
+                                    req_url=query_list[i].source,
+                                    art_url=answer[model_name][0]['source'],
+                                    art_id=answer[model_name][0]['id'],
                                     title=answer[model_name][0]['title'],
                                     similarity=answer[model_name][0]['similarity']))
         file.write(json.dumps(output_answer, indent=2, ensure_ascii=False))
@@ -60,10 +63,11 @@ if __name__ == "__main__":
         print('Seeding database...')
         DatabaseSeeder.seed()
 
-    #lsi = Storage.load_model('out/lsi', 'phyge', 'lsi')
-    #lda = Storage.load_model('out/lda', 'phyge', 'lda')
+    lsi = Storage.load_model('out/lsi', 'phyge', 'lsi')
+    lda = Storage.load_model('out/lda', 'phyge', 'lda')
+    d2v = Storage.load_model('out/d2v', 'phyge', 'd2v')
     fast_text = Storage.load_model('out/fast_text', 'phyge', 'ft')
     #search_engine = SearchEngine(models=[lsi, lda])
-    search_engine = SearchEngine(models=[fast_text])
+    search_engine = SearchEngine(models=[lsi,lda,d2v,fast_text])
     test_path = os.path.join(PhyVariables.testsDir, 'test_'+str(PhyVariables.queriesId))
     run_search(os.path.join(test_path, PhyVariables.queriesFileName), os.path.join(test_path, PhyVariables.answersFileName), 1)
