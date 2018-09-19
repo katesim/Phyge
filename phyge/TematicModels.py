@@ -44,6 +44,7 @@ class BaseModel(object):
             query_vec = self.model.infer_vector(normalized_query)
             sims = self.model.docvecs.most_similar([query_vec])
         else:
+            #print("\n\n\n",self.dictionary.num_pos,"\n\n\n")
             index = similarities.Similarity(output_prefix=os.path.join('out', self.type, 'index_shard'),
                                             corpus=self.model[self.corpus],
                                             shardsize=self.SHARD_SIZE,
@@ -95,7 +96,10 @@ class D2vModel(BaseModel):
     def __init__(self, model_name: str):
         BaseModel.__init__(self, name=model_name, model_type='d2v')
 
-    def train_model(self,training_sample: TrainingSample):
+    def train_model(self, training_sample: TrainingSample):
+        max_epochs = 15
+        vec_size = 100
+        alpha = 0.025
         self.training_sample = training_sample
         self.documents = training_sample.articles
         print('\nD2V model: Обучаем модель...')
@@ -103,8 +107,8 @@ class D2vModel(BaseModel):
         tagged_data = [models.doc2vec.TaggedDocument(words=doc.normalized_words, 
                     tags=[num]) 
                     for num, doc in enumerate(self.documents)]
-        self.model = models.doc2vec.Doc2Vec(size=100,
-                        alpha=0.025,
+        self.model = models.doc2vec.Doc2Vec(size=vec_size,
+                        alpha=alpha,
                         window=5,
                         min_alpha=0.00025,
                         negative=10,
@@ -113,7 +117,8 @@ class D2vModel(BaseModel):
                         dm =1)
         self.model.build_vocab(tagged_data)
         self.model.train(tagged_data,
-                        total_examples=self.model.corpus_count,epochs=30)
+                         total_examples=self.model.corpus_count,
+                         epochs=max_epochs)
         print('Learning time:', round((time.time() - start_time), 3), 's')
 
 

@@ -14,11 +14,11 @@ class DatabaseSeeder:
     def seed(cls):
         DBController.first_setup()
         cls.__seed_web_articles()
-        cls.__seed_pdf_articles()
+        #cls.__seed_pdf_articles()
 
     @classmethod
     def __seed_web_articles(cls):
-        data_path = 'Resources/ru_slack_short_urls_list.json'
+        data_path = 'Resources/ru_slack_urls_clear.json'
 
         if not os.path.isfile(data_path):
             print('Resource does not exist!')
@@ -41,7 +41,7 @@ class DatabaseSeeder:
 
     @classmethod
     def __seed_pdf_articles(cls):
-        data_path = 'Resources/pdf_articles_short.json'
+        data_path = 'Resources/pdf_articles.json'
 
         if not os.path.isfile(data_path):
             print('Resource does not exist!')
