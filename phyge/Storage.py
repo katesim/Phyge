@@ -20,7 +20,7 @@ class Storage:
     def save_model(cls, model: BaseModel, path: str):
         if not os.path.exists(path):
             os.makedirs(path)
-        if model.type not in ['d2v', 'ft']:
+        if model.type != 'd2v':
             model.dictionary.save(os.path.join(path, f'{model.name}.dict'))
             corpora.MmCorpus.serialize(os.path.join(path, f'{model.name}.mm'), model.corpus)
         if model.type == 'ft':

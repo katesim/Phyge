@@ -50,14 +50,15 @@ def save_results(result_path, search_results, query_list):
         output_answer = []
         for i, answer in enumerate(search_results):
             for model_name in answer.keys():
-                true_id = query_list[i].id
-                found_id = answer[model_name][0]['id']
-                if true_id != found_id:
+                true_sourse = query_list[i].source
+                #found_title = answer[model_name][0]['title']
+                found_sourse = answer[model_name][0]['source']
+                if true_sourse != found_sourse:
                     if model_name not in wrong_ids.keys():
-                        wrong_ids[model_name] = [("true", "found"), (true_id, found_id)]
+                        wrong_ids[model_name] = [("true", "found"), (true_sourse, found_sourse)]
                     else:
-                        wrong_ids[model_name].append((true_id, found_id))
-                output_answer.append(dict(true_id=true_id, id=found_id, model=model_name,
+                        wrong_ids[model_name].append((true_sourse, found_sourse))
+                output_answer.append(dict(true_sourse=true_sourse, sourse=found_sourse, model=model_name,
                                     title=answer[model_name][0]['title'],
                                     similarity=answer[model_name][0]['similarity']))
         file.write(json.dumps(output_answer, indent=2, ensure_ascii=False))

@@ -129,6 +129,8 @@ class FastTextModel(BaseModel):
     def train_model(self, training_sample: TrainingSample):
         self.training_sample = training_sample
         self.documents = training_sample.get_documents()
+        self.dictionary = training_sample.dictionary
+        self.corpus = training_sample.corpus
         print('\nfastText model: Обучаем модель...')
         start_time = time.time()
         self.model = models.FastText(self.documents, sg=1, hs=1, size=100, alpha=0.025,
