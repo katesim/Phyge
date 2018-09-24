@@ -6,11 +6,13 @@ import os
 from gensim import corpora, models
 
 from PhygeVariables import PhyVariables
-from DBController import DBController
+# from DBController import DBController
 from TematicModels import BaseModel, LsiModel, LdaModel, D2vModel
 from Models.TrainingSample import TrainingSample
 from Models.PhygeArticle import BaseArticle
 
+
+from BooksFetcher import BooksFetcher
 
 class Storage:
 
@@ -31,8 +33,17 @@ class Storage:
             dictionary = corpora.Dictionary.load(os.path.join(path, f'{model_name}.dict'))
             corpus = corpora.MmCorpus(os.path.join(path, f'{model_name}.mm'))
 
-        articles_id = cls.load_articles_id(path)
-        articles = DBController.get_all_articles({'serial_id': {'$in': articles_id}})
+        # articles_id = cls.load_articles_id(path)
+        # articles = DBController.get_all_articles({'serial_id': {'$in': articles_id}})
+
+
+        with open('Tests/test_mif/books.json', 'r', encoding='utf-8') as fh:  # открываем файл на чтение
+            books = json.load(fh)  # загружаем из файла данные в словарь data
+        # pprint(books)
+
+        book_fetcher = BooksFetcher(books)
+        articles = book_fetcher.create_article()
+
         training_sample = TrainingSample(articles)
 
         def load_func(model_path: str, model_type: str):

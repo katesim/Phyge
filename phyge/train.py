@@ -1,24 +1,36 @@
-from DBController import DBController
-from DatabaseSeeder import DatabaseSeeder
+# from DBController import DBController
+# from DatabaseSeeder import DatabaseSeeder
 from Models.TrainingSample import TrainingSample
 from TematicModels import LsiModel, LdaModel, D2vModel
 
 from Storage import Storage
 
-
-def check_db_status():
-    db_len = 0
-    for _ in DBController.get_all_articles():
-        db_len += 1
-    if db_len == 0:
-        print('Seeding database...')
-        DatabaseSeeder.seed()
+import json
+from BooksFetcher import BooksFetcher
+#
+# def check_db_status():
+#     db_len = 0
+#     for _ in DBController.get_all_articles():
+#         db_len += 1
+#     if db_len == 0:
+#         print('Seeding database...')
+#         DatabaseSeeder.seed()
 
 if __name__ == "__main__":
 
-    check_db_status()
+    # check_db_status()
     
-    articles = DBController.get_all_articles(limit=1000)
+    # articles = DBController.get_all_articles(limit=1000)
+
+    with open('Tests/test_mif/books.json', 'r', encoding='utf-8') as fh:  # открываем файл на чтение
+        books = json.load(fh)  # загружаем из файла данные в словарь data
+    # pprint(books)
+
+    book_fetcher = BooksFetcher(books)
+    articles = book_fetcher.create_article()
+    print(articles[0].normalized_words)
+
+
     testing_sample = TrainingSample(articles)
 
     lsi = LsiModel(model_name='phyge')
