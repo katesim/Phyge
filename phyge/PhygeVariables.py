@@ -6,7 +6,7 @@ class PhyVariables:
     articlesIdFileName = 'articles_id.json'
     queriesFileName = 'queries.json'
     answersFileName = 'answers.json'
-    queriesId = 1
+    queriesId = 2
 
     resourcesDir = 'Resources'
     stopwordsDir = 'stopwords'

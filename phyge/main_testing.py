@@ -72,10 +72,11 @@ if __name__ == "__main__":
         DatabaseSeeder.seed()
 
     lsi = Storage.load_model('out/lsi', 'phyge', 'lsi')
+
     lda = Storage.load_model('out/lda', 'phyge', 'lda')
     d2v = Storage.load_model('out/d2v', 'phyge', 'd2v')
     fast_text = Storage.load_model('out/fast_text', 'phyge', 'ft')
     search_engine = SearchEngine(models=[fast_text, d2v, lda, lsi])
-    #search_engine = SearchEngine(models=[lsi])
     test_path = os.path.join(PhyVariables.testsDir, 'test_'+str(PhyVariables.queriesId))
     run_search(os.path.join(test_path, PhyVariables.queriesFileName), os.path.join(test_path, PhyVariables.answersFileName), 1)
+    #run_search('Resources/pdf_articles.json','Resources/answers.json',1)

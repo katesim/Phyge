@@ -107,6 +107,7 @@ class D2vModel(BaseModel):
         tagged_data = [models.doc2vec.TaggedDocument(words=doc.normalized_words, 
                     tags=[num]) 
                     for num, doc in enumerate(self.documents)]
+
         self.model = models.doc2vec.Doc2Vec(size=vec_size,
                         alpha=alpha,
                         window=5,
@@ -119,6 +120,7 @@ class D2vModel(BaseModel):
         self.model.train(tagged_data,
                          total_examples=self.model.corpus_count,
                          epochs=max_epochs)
+
         print('Learning time:', round((time.time() - start_time), 3), 's')
 
 
