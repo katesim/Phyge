@@ -32,9 +32,15 @@ def create_book_json(url='https://www.mann-ivanov-ferber.ru/books/mashina-pravdy
                                               '= "description"]/div/p/text()')).replace("\xa0", ' ')
     books['excerption'] = ' '.join(tree.xpath('//div[@class="border slider-pane"]/div'
                                               '/div[@class = "item slider-item"]/div/p/text()')).replace("\xa0", ' ')
+    img = 'https://www.mann-ivanov-ferber.ru/' + tree.xpath('//div[@class="img-wrapper"]/img/@src')[0]
+    p = requests.get(img)
+    with open('./img/' + str(books['title']) + '.png', "wb") as file:
+        file.write(p.content)
+
     return books
 
-#список ссылок на книжки с главной страницы
+
+# список ссылок на книжки с главной страницы
 books_list_lxml = create_list_books()
 print(books_list_lxml)
 # with open('books_list_lxml.json', 'w+', encoding='utf8') as file:
@@ -49,3 +55,6 @@ pprint(books)
 
 with open('phy_books.json', 'w+') as file:
     json.dump(books, file, indent=2)
+#
+# books = create_book_json()
+# print(books)
