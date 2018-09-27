@@ -17,7 +17,7 @@ class BooksFetcher:
     def create_article(self):
         article = []
         for book in self.books:
-            text = book['description'] + book['stikers']
+            text = book['description'] + '. ' + book['stikers'] +'. ' + book["about_book"] +'. ' + book["excerption"] +'. ' + book["title"]
             article.append(  self.parse_books(book, text) )
         return article
 
@@ -52,7 +52,7 @@ class BooksFetcher:
 
 
 if __name__ == '__main__':
-    with open('Tests/test_mif/phy_books.json', 'r', encoding='utf-8') as fh:  # открываем файл на чтение
+    with open('phy-books/phy_books.json', 'r', encoding='utf-8') as fh:  # открываем файл на чтение
         books = json.load(fh)  # загружаем из файла данные в словарь data
     # pprint(books)
 

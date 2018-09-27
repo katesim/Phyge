@@ -37,7 +37,7 @@ class Storage:
         # articles = DBController.get_all_articles({'serial_id': {'$in': articles_id}})
 
 
-        with open('Tests/test_mif/books.json', 'r', encoding='utf-8') as fh:  # открываем файл на чтение
+        with open('phy-books/phy_books.json', 'r', encoding='utf-8') as fh:  # открываем файл на чтение
             books = json.load(fh)  # загружаем из файла данные в словарь data
         # pprint(books)
 

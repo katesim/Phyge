@@ -22,7 +22,7 @@ if __name__ == "__main__":
     
     # articles = DBController.get_all_articles(limit=1000)
 
-    with open('Tests/test_mif/books.json', 'r', encoding='utf-8') as fh:  # открываем файл на чтение
+    with open('phy-books/phy_books.json', 'r', encoding='utf-8') as fh:  # открываем файл на чтение
         books = json.load(fh)  # загружаем из файла данные в словарь data
     # pprint(books)
 
@@ -34,13 +34,13 @@ if __name__ == "__main__":
     testing_sample = TrainingSample(articles)
 
     lsi = LsiModel(model_name='phyge')
-    lda = LdaModel(model_name='phyge')
-    d2v = D2vModel(model_name='phyge')
+    # lda = LdaModel(model_name='phyge')
+    # d2v = D2vModel(model_name='phyge')
 
     lsi.train_model(testing_sample)
-    lda.train_model(testing_sample)
-    d2v.train_model(testing_sample)
+    # lda.train_model(testing_sample)
+    # d2v.train_model(testing_sample)
 
     Storage.save_model(lsi, path='out/lsi')
-    Storage.save_model(lda, path='out/lda')
-    Storage.save_model(d2v, path='out/d2v')
+    # Storage.save_model(lda, path='out/lda')
+    # Storage.save_model(d2v, path='out/d2v')
