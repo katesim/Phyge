@@ -26,8 +26,8 @@ if __name__ == "__main__":
         books = json.load(fh)  # загружаем из файла данные в словарь data
     # pprint(books)
 
-    book_fetcher = BooksFetcher(books)
-    articles = book_fetcher.create_article()
+    book_fetcher = BooksFetcher(books[1:3])
+    articles = book_fetcher.create_phy_book()
     print(articles[0].normalized_words)
 
 

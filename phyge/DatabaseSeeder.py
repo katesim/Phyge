@@ -2,11 +2,15 @@ import uuid
 import json
 import os
 import asyncio
+from pprint import pprint
 
-from DBController import DBController
+# from DBController import DBController
 from ArticleFetcher import ArticleFetcher
 from Models.PhygeArticle import PhyPdfArticle
 from TextNormalizer import TextNormalizer
+
+from BooksFetcher import BooksFetcher
+from Models.PhygeBook import PhyBook
 
 
 class DatabaseSeeder:
@@ -15,6 +19,7 @@ class DatabaseSeeder:
         DBController.first_setup()
         cls.__seed_web_articles()
         cls.__seed_pdf_articles()
+        cls.__seed_books()
 
     @classmethod
     def __seed_web_articles(cls):
@@ -25,7 +30,6 @@ class DatabaseSeeder:
             return
 
         with open(data_path, 'r', encoding='utf8') as data_file:
-
             data = json.load(data_file)
 
             article_fetcher = ArticleFetcher()
@@ -61,5 +65,25 @@ class DatabaseSeeder:
 
                 print(f'add {index+1} of the {len(data)} articles: {title}')
 
-                if article is not None:
-                    DBController.add_document(article, str(uuid.uuid4()))
+                # if article is not None:
+                #     DBController.add_document(article, str(uuid.uuid4()))
+
+    @classmethod
+
+    def __seed_books(cls):
+        data_path = 'Resources/books_list_lxml.json'
+
+        if not os.path.isfile(data_path):
+            print('Resource books does not exist!')
+            return
+
+        with open(data_path, 'r', encoding='utf8') as data_file:
+            books = json.load(data_file)
+            pprint(books)
+            # TODO parser for books
+            book_fetcher = BooksFetcher(books[1:3])
+            for index, book in enumerate(books):
+                current_book = book_fetcher.create_phy_book(book)
+                print(f'add {index+1} of the {len(books)} books: {current_book.title}')
+                # if current_book is not None:
+                    # DBController.add_document(current_book, str(uuid.uuid4()))

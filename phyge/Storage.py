@@ -1,8 +1,5 @@
-
-
 import json
 import os
-
 from gensim import corpora, models
 
 from PhygeVariables import PhyVariables
@@ -10,9 +7,8 @@ from PhygeVariables import PhyVariables
 from TematicModels import BaseModel, LsiModel, LdaModel, D2vModel
 from Models.TrainingSample import TrainingSample
 from Models.PhygeArticle import BaseArticle
-
-
 from BooksFetcher import BooksFetcher
+
 
 class Storage:
 
@@ -41,8 +37,8 @@ class Storage:
             books = json.load(fh)  # загружаем из файла данные в словарь data
         # pprint(books)
 
-        book_fetcher = BooksFetcher(books)
-        articles = book_fetcher.create_article()
+        book_fetcher = BooksFetcher(books[1:3])
+        articles = book_fetcher.create_phy_book()
 
         training_sample = TrainingSample(articles)
 
