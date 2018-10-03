@@ -33,11 +33,11 @@ class Storage:
         # articles = DBController.get_all_articles({'serial_id': {'$in': articles_id}})
 
 
-        with open('phy-books/phy_books.json', 'r', encoding='utf-8') as fh:  # открываем файл на чтение
+        with open('phy-books/phy_books.json', 'r', encoding='utf8') as fh:  # открываем файл на чтение
             books = json.load(fh)  # загружаем из файла данные в словарь data
         # pprint(books)
 
-        book_fetcher = BooksFetcher(books[1:3])
+        book_fetcher = BooksFetcher(books)
         articles = book_fetcher.create_phy_book()
 
         training_sample = TrainingSample(articles)
