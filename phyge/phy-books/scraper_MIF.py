@@ -76,10 +76,10 @@ def create_book_json(url='https://www.mann-ivanov-ferber.ru/books/mashina-pravdy
 
 
 # список ссылок на книжки с главной страницы
-# list_urls_books = create_list_books()
-# print(list_urls_books)
-# with open('list_urls_books.json', 'w+') as file:
-#     json.dump(list_urls_books, file, indent=2)
+list_urls_books = create_list_books()
+print(list_urls_books)
+with open('list_urls_books.json', 'w+') as file:
+    json.dump(list_urls_books, file, indent=2)
 
 with open('list_urls_books.json', 'r', encoding='utf-8') as fh:
     list_urls_books = json.load(fh)
