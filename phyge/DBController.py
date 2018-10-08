@@ -9,7 +9,6 @@ class DBController:
     mongo_client = MongoClient('mongo-db', 27017)
     db = mongo_client.phyge
     articles = db.articles
-    books = db.books
     counters = db.counters
 
     article_serial_id_sequence_key = 'article_serial_id'
