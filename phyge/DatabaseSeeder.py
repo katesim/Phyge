@@ -4,7 +4,7 @@ import os
 import asyncio
 from pprint import pprint
 
-# from DBController import DBController
+from DBController import DBController
 from ArticleFetcher import ArticleFetcher
 from Models.PhygeArticle import PhyPdfArticle
 from TextNormalizer import TextNormalizer
@@ -17,8 +17,8 @@ class DatabaseSeeder:
     @classmethod
     def seed(cls):
         DBController.first_setup()
-        cls.__seed_web_articles()
-        cls.__seed_pdf_articles()
+        # cls.__seed_web_articles()
+        # cls.__seed_pdf_articles()
         cls.__seed_books()
 
     @classmethod
@@ -65,25 +65,37 @@ class DatabaseSeeder:
 
                 print(f'add {index+1} of the {len(data)} articles: {title}')
 
-                # if article is not None:
-                #     DBController.add_document(article, str(uuid.uuid4()))
+                if article is not None:
+                    DBController.add_document(article, str(uuid.uuid4()))
 
     @classmethod
-
     def __seed_books(cls):
-        data_path = 'Resources/books_list_lxml.json'
+
+        data_path = 'phy-books/articles_books.json'
 
         if not os.path.isfile(data_path):
-            print('Resource books does not exist!')
-            return
+            print('Resource books does not exist! Сreation is in progress...')
+
+            with open('phy-books/phy_books.json', 'r', encoding='utf8') as fh:  # собранные с сайта МИФ данные
+                books = json.load(fh)
+            book_fetcher = BooksFetcher(books[1:5])
+            phy_books = book_fetcher.create_phy_book()
+            books_list = []
+            for obj in phy_books:
+                books_list.append(obj.serialize())
+
+            with open('phy-books/articles_books.json', 'w+',
+                      encoding='utf8') as file:  # сереализованные обьекты PhyBooks
+                json.dump(books_list, file, indent=2)
+            print('Resource created')
+
 
         with open(data_path, 'r', encoding='utf8') as data_file:
             books = json.load(data_file)
-            pprint(books)
-            # TODO parser for books
-            book_fetcher = BooksFetcher(books[1:3])
+
             for index, book in enumerate(books):
-                current_book = book_fetcher.create_phy_book(book)
-                print(f'add {index+1} of the {len(books)} books: {current_book.title}')
-                # if current_book is not None:
-                    # DBController.add_document(current_book, str(uuid.uuid4()))
+                # current_book = book_fetcher.create_phy_book(book)
+                phy_book = PhyBook(book)
+                print(f'add {index+1} of the {len(books)} books: {phy_book.title}')
+                if phy_book is not None:
+                    DBController.add_document(phy_book, str(uuid.uuid4()))
