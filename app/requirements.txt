@@ -1,0 +1,11 @@
+pymorphy2 == 0.8
+newspaper3k == 0.2.6
+beautifulsoup4 == 4.6.0
+pandas == 0.22.0
+gensim == 3.4.0
+googletrans == 2.3.0
+scikit-learn == 0.19.2
+flask == 1.0.2
+pymongo == 3.7.1
+aiohttp == 3.3.2
+

@@ -1,0 +1,5042 @@
+[
+  {
+    "id": 0,
+    "data": "2017-03-25",
+    "title": "«Всплеск, который быстро затухает»",
+    "url": "https://nplus1.ru/material/2017/03/24/abel-prize",
+    "chanel": "research"
+  },
+  {
+    "id": 1,
+    "data": "2017-12-08",
+    "title": "Microsoft Announces Simplygon Cloud; Optimizes Mixed Reality Development - Building Apps for Windows",
+    "url": "https://blogs.windows.com/buildingapps/2017/12/07/microsoft-announces-simplygon-cloud-optimizes-mixed-reality-development/",
+    "chanel": "research"
+  },
+  {
+    "id": 2,
+    "data": "2017-07-31",
+    "title": "SIGGRAPH: Neurable Lets You Control A Virtual World With Your Mind",
+    "url": "https://uploadvr.com/siggraph-neurable-lets-control-virtual-world-thought/",
+    "chanel": "research"
+  },
+  {
+    "id": 3,
+    "data": "2017-04-21",
+    "title": "Эксперт Oculus: \"Переход к полной AR произойдет через 5-10 лет\"",
+    "url": "https://hightech.fm/2017/04/21/f8-ar?utm_source=telegram&utm_campaign=online_channel",
+    "chanel": "research"
+  },
+  {
+    "id": 4,
+    "data": "2017-08-02",
+    "title": "Bridging The Gap: кросс-платформенный AR-опыт теперь поддерживает HoloLens и ARKit - VR geek",
+    "url": "https://vrgeek.ru/2017/08/01/10594_bridging-the-gap-kross-platformennyj-ar-opyt-teper-podderzhivaet-hololens-i-arkit/",
+    "chanel": "research"
+  },
+  {
+    "id": 5,
+    "data": "2018-01-24",
+    "title": "Распределённые вычисления: краткое введение в проекты BOINC",
+    "url": "https://geektimes.ru/post/271288/",
+    "chanel": "research"
+  },
+  {
+    "id": 6,
+    "data": "2018-03-19",
+    "title": "«Все на улицу!». NASA просит пользователей фотографировать облака | dev.by",
+    "url": "https://dev.by/lenta/main/nasa-globe-initiative",
+    "chanel": "research"
+  },
+  {
+    "id": 7,
+    "data": "2017-03-09",
+    "title": "HoleLenz Gate",
+    "url": "https://youtu.be/NyPToOisahU",
+    "chanel": "research"
+  },
+  {
+    "id": 8,
+    "data": "2017-10-19",
+    "title": "NVIDIA: для фотореализма в ВР графика должна быть мощнее в 40 раз | Голографика",
+    "url": "https://holographica.space/news/nvidia-40x-13049",
+    "chanel": "research"
+  },
+  {
+    "id": 9,
+    "data": "2017-12-24",
+    "title": "Битва &amp;quot;космических&amp;quot; миллиардеров выходит на финишную прямую",
+    "url": "https://m.pikabu.ru/story/_5574677",
+    "chanel": "research"
+  },
+  {
+    "id": 10,
+    "data": "2017-02-24",
+    "title": "10 Breakthrough Technologies 2017",
+    "url": "https://www.technologyreview.com/lists/technologies/2017/",
+    "chanel": "research"
+  },
+  {
+    "id": 11,
+    "data": "2018-03-23",
+    "title": "USens открыла доступ к бета-версии AR движка USensAR",
+    "url": "http://telegra.ph/USens-otkryla-dostup-k-beta-versii-AR-dvizhka-USensAR-03-23",
+    "chanel": "research"
+  },
+  {
+    "id": 12,
+    "data": "2017-06-30",
+    "title": "What does VR reveal about the 4th dimension?",
+    "url": "https://www.youtube.com/watch?v=S-yRYmdsnGs",
+    "chanel": "research"
+  },
+  {
+    "id": 13,
+    "data": "2017-09-23",
+    "title": "Как работает видеопроцессор",
+    "url": "https://habrahabr.ru/post/337484/",
+    "chanel": "research"
+  },
+  {
+    "id": 14,
+    "data": "2017-06-06",
+    "title": "Как выпускник МФТИ изобретает снег, магию и говорящую воду для мультиков Disney",
+    "url": "https://daily.afisha.ru/technology/5701-kak-vypusknik-mfti-izobretaet-sneg-magiyu-i-govoryaschuyu-vodu-dlya-multikov-disney/",
+    "chanel": "research"
+  },
+  {
+    "id": 15,
+    "data": "2017-08-18",
+    "title": "Story Baker Demo 1 - Microsoft Research",
+    "url": "https://www.microsoft.com/en-us/research/video/story-baker-demo-1/",
+    "chanel": "research"
+  },
+  {
+    "id": 16,
+    "data": "2018-01-28",
+    "title": "Эти 3D-проекции, похожие на Звездные войны — эпичнее любой голограммы, которую вы когда-либо видели",
+    "url": "https://zen.yandex.ru/media/funscience/eti-3dproekcii-pohojie-na-zvezdnye-voiny--epichnee-liuboi-gologrammy-kotoruiu-vy-kogdalibo-videli--5a6b1d751410c38f01d134ae",
+    "chanel": "research"
+  },
+  {
+    "id": 17,
+    "data": "2017-04-17",
+    "title": "Ученые из Университета ИТМО предложили новую систему передачи энергии на расстояние",
+    "url": "https://habrahabr.ru/company/spbifmo/blog/326644/",
+    "chanel": "research"
+  },
+  {
+    "id": 18,
+    "data": "2017-09-19",
+    "title": "Introducing: Unity Machine Learning Agents — Unity Blog",
+    "url": "https://blogs.unity3d.com/ru/2017/09/19/introducing-unity-machine-learning-agents/",
+    "chanel": "research"
+  },
+  {
+    "id": 19,
+    "data": "2017-02-28",
+    "title": "Компания AT&amp;T анонсировала начало работы над «городом будущего» в Сан-Диего | Apparat",
+    "url": "https://apparat.cc/news/smart-streetlights/",
+    "chanel": "research"
+  },
+  {
+    "id": 20,
+    "data": "2017-03-05",
+    "title": "The incredible inventions of intuitive AI | Maurice Conti",
+    "url": "https://www.youtube.com/watch?v=aR5N2Jl8k14",
+    "chanel": "research"
+  },
+  {
+    "id": 21,
+    "data": "2017-08-22",
+    "title": "Шесть мифов о блокчейне и Биткойне, или Почему это не такая уж эффективная технология",
+    "url": "https://www.kaspersky.ru/blog/bitcoin-blockchain-issues/18442/",
+    "chanel": "research"
+  },
+  {
+    "id": 22,
+    "data": "2017-07-11",
+    "title": "CocoaHeads Russia и Jetbrains (Санкт-Петербург, 20 июля 2017)",
+    "url": "https://www.eventbrite.com/e/cocoaheads-russia-jetbrains-20-2017-tickets-36083150675",
+    "chanel": "research"
+  },
+  {
+    "id": 23,
+    "data": "2018-02-03",
+    "title": "Создан сверхтонкий дисплей, работающий от отраженного света",
+    "url": "https://hightech.fm/2018/01/29/bodle?utm_source=telegram&utm_campaign=online_channel",
+    "chanel": "research"
+  },
+  {
+    "id": 24,
+    "data": "2018-05-07",
+    "title": "Valve Knuckles controllers: Everything you need to know!",
+    "url": "https://www.imore.com/valve-knuckles-controllers-everything-you-need-know",
+    "chanel": "research"
+  },
+  {
+    "id": 25,
+    "data": "2017-03-12",
+    "title": "Куда движется интернет вещей?",
+    "url": "https://habrahabr.ru/company/huawei/blog/317176/",
+    "chanel": "research"
+  },
+  {
+    "id": 26,
+    "data": "2018-04-10",
+    "title": null,
+    "url": "https://twitter.com/alientrap/status/983745526255538177?s=21",
+    "chanel": "research"
+  },
+  {
+    "id": 27,
+    "data": "2017-12-13",
+    "title": "Indoor Real Time Navigation with SLAM on your Mobile",
+    "url": "https://community.arm.com/graphics/b/blog/posts/indoor-real-time-navigation-with-slam-on-your-mobile",
+    "chanel": "research"
+  },
+  {
+    "id": 28,
+    "data": "2018-03-14",
+    "title": "Яндекс открывает Алису для всех разработчиков. Платформа Яндекс.Диалоги (бета)",
+    "url": "https://habrahabr.ru/company/yandex/blog/350968/",
+    "chanel": "research"
+  },
+  {
+    "id": 29,
+    "data": "2017-05-01",
+    "title": "Vuforia Smart Terrain to Bring New Level of AR Interactivity to Tango-Enabled Devices",
+    "url": "https://www.youtube.com/watch?v=jAmU0L_wfV0",
+    "chanel": "research"
+  },
+  {
+    "id": 30,
+    "data": "2017-06-11",
+    "title": null,
+    "url": "https://www.facebook.com/studiojoanielemercier/videos/600373000167580/",
+    "chanel": "research"
+  },
+  {
+    "id": 31,
+    "data": "2017-03-28",
+    "title": "luanfujun/deep-photo-styletransfer",
+    "url": "https://github.com/luanfujun/deep-photo-styletransfer",
+    "chanel": "research"
+  },
+  {
+    "id": 32,
+    "data": "2018-04-06",
+    "title": "Enhancing Facebook’s AR platform with target tracking capabilities",
+    "url": "https://research.fb.com/enhancing-facebooks-ar-platform-with-target-tracking-capabilities/",
+    "chanel": "research"
+  },
+  {
+    "id": 33,
+    "data": "2018-03-22",
+    "title": null,
+    "url": "https://twitter.com/keiichiban/status/976850288949809154?s=21",
+    "chanel": "research"
+  },
+  {
+    "id": 34,
+    "data": "2017-05-21",
+    "title": "Holographic Near-Eye Displays for Virtual and Augmented Reality",
+    "url": "https://www.youtube.com/watch?v=lN4tFV16mU8",
+    "chanel": "research"
+  },
+  {
+    "id": 35,
+    "data": "2017-02-25",
+    "title": "Introducing Draco: compression for 3D graphics",
+    "url": "https://opensource.googleblog.com/2017/01/introducing-draco-compression-for-3d.html",
+    "chanel": "research"
+  },
+  {
+    "id": 36,
+    "data": "2017-06-27",
+    "title": "How to walk through walls using the 4th Dimension [Miegakure: a 4D game]",
+    "url": "https://m.youtube.com/watch?v=9yW--eQaA2I&amp;feature=youtu.be",
+    "chanel": "research"
+  },
+  {
+    "id": 37,
+    "data": "2017-10-22",
+    "title": "Чип от AdHawk изменит размер VR / AR устройств",
+    "url": "https://vr-j.ru/news/chip-ot-adhawk-izmenit-razmer-vr-ar-ustrojstv/",
+    "chanel": "research"
+  },
+  {
+    "id": 38,
+    "data": "2017-07-26",
+    "title": "Magic Bench",
+    "url": "https://www.youtube.com/watch?v=JnLk2_Xbr90",
+    "chanel": "research"
+  },
+  {
+    "id": 39,
+    "data": "2017-04-20",
+    "title": "This Tiny Microscope Can Read Your Mind, in Real-Time",
+    "url": "https://www.youtube.com/watch?v=RuTPEqm1xfc",
+    "chanel": "research"
+  },
+  {
+    "id": 40,
+    "data": "2017-02-09",
+    "title": null,
+    "url": "https://www.stereolabs.com/zed/specs/",
+    "chanel": "research"
+  },
+  {
+    "id": 41,
+    "data": "2017-12-09",
+    "title": "Руководство по дополненной реальности",
+    "url": "http://hbr-russia.ru/management/strategiya/a24111/",
+    "chanel": "research"
+  },
+  {
+    "id": 42,
+    "data": "2018-04-01",
+    "title": "NB-IoT VS LoRA VS Wi-Fi и почему ZigBee мертв. Часть первая",
+    "url": "http://telegra.ph/NB-IoT-VS-LoRA-VS-Wi-Fi-i-pochemu-ZigBee-mertv-03-25",
+    "chanel": "research"
+  },
+  {
+    "id": 43,
+    "data": "2018-02-28",
+    "title": "«Космический интернет» от SpaceX будет работать без IP-адресов | dev.by",
+    "url": "https://dev.by/lenta/main/starlink-will-function-with-no-ip-addresses",
+    "chanel": "research"
+  },
+  {
+    "id": 44,
+    "data": "2017-09-25",
+    "title": "Holographic communication on ARKit with Mimesys",
+    "url": "https://www.youtube.com/watch?v=Ezki0iuM7QU",
+    "chanel": "research"
+  },
+  {
+    "id": 45,
+    "data": "2017-05-10",
+    "title": "Sci-Hub: устраняя преграды на пути распространения знаний",
+    "url": "https://sci-hub.cc",
+    "chanel": "research"
+  },
+  {
+    "id": 46,
+    "data": "2018-02-12",
+    "title": "Google представила API и Toolkit сервиса Poly | Голографика",
+    "url": "https://holographica.space/news/google-poly-api-toolkit-13779",
+    "chanel": "research"
+  },
+  {
+    "id": 47,
+    "data": "2016-10-16",
+    "title": "Do It Yourself Meetup",
+    "url": "https://corp.mail.ru/ru/press/events/275/",
+    "chanel": "research"
+  },
+  {
+    "id": 48,
+    "data": "2017-03-15",
+    "title": "IIC выпустил стандарт подключения для промышленного интернета вещей",
+    "url": "https://hightech.fm/2017/03/15/iic-standart",
+    "chanel": "research"
+  },
+  {
+    "id": 49,
+    "data": "2017-11-28",
+    "title": "На МКС нашли внеземную жизнь",
+    "url": "http://telegra.ph/Na-MKS-nashli-vnezemnuyu-zhizn-11-28",
+    "chanel": "research"
+  },
+  {
+    "id": 50,
+    "data": "2017-04-07",
+    "title": "«Мы уже можем с точностью более 90% определить по фото сексуальную ориентацию человека» | Colta.ru",
+    "url": "http://www.colta.ru/articles/society/14312",
+    "chanel": "research"
+  },
+  {
+    "id": 51,
+    "data": "2018-02-24",
+    "title": "Google выпустила платформу дополненной реальности ARCore 1.0",
+    "url": "https://3dnews.ru/software-news/966126?ext=subscribe&source=subscribeRu",
+    "chanel": "research"
+  },
+  {
+    "id": 52,
+    "data": "2017-04-27",
+    "title": "Apple запатентовала способ зарядки айфонов через вайфай – Афиша Daily",
+    "url": "https://daily.afisha.ru/news/7804-apple-planiruet-ispolzovat-besprovodnuyu-tehnologiyu-dlya-zaryadki-ayfonov-cherez-wi-fi/?utm_source=afishafb&utm_medium=social&utm_campaign=chuma-kakaya!-daily.afisha",
+    "chanel": "research"
+  },
+  {
+    "id": 53,
+    "data": "2018-01-22",
+    "title": "Moscow Python Meetup 52",
+    "url": "https://corp.mail.ru/ru/press/events/413/",
+    "chanel": "research"
+  },
+  {
+    "id": 54,
+    "data": "2017-03-19",
+    "title": "Google Tango - Computerphile",
+    "url": "https://youtu.be/z1gMRZiM9RY?t=3m25s",
+    "chanel": "research"
+  },
+  {
+    "id": 55,
+    "data": "2018-01-18",
+    "title": "Google анонсировал бесплатный сервис по созданию нейросетей с простым интерфейсом | Rusbase",
+    "url": "https://rb.ru/news/automl/",
+    "chanel": "research"
+  },
+  {
+    "id": 56,
+    "data": "2018-02-09",
+    "title": "DensePose: Dense Human Pose Estimation In The Wild",
+    "url": "https://www.youtube.com/watch?v=Dhkd_bAwwMc",
+    "chanel": "research"
+  },
+  {
+    "id": 57,
+    "data": "2017-08-29",
+    "title": "ARCore: Augmented reality at Android scale",
+    "url": "https://www.blog.google/products/google-vr/arcore-augmented-reality-android-scale/",
+    "chanel": "research"
+  },
+  {
+    "id": 58,
+    "data": "2017-10-08",
+    "title": "Симуляция физического мира",
+    "url": "https://habrahabr.ru/post/338992/",
+    "chanel": "research"
+  },
+  {
+    "id": 59,
+    "data": "2017-06-21",
+    "title": "Vitaliy Goncharuk",
+    "url": "https://www.facebook.com/vactivity/posts/10209753619182725",
+    "chanel": "research"
+  },
+  {
+    "id": 60,
+    "data": "2017-02-19",
+    "title": "Сталь, нефть и искусственный интеллект: Yandex Data Factory о новой промышленной революции — Блог Яндекса",
+    "url": "https://yandex.ru/blog/company/stal-neft-i-iskusstvennyy-intellekt-yandex-data-factory-o-novoy-promyshlennoy-revolyutsii",
+    "chanel": "research"
+  },
+  {
+    "id": 61,
+    "data": "2017-12-19",
+    "title": "Teddy",
+    "url": "http://uniteddy.info",
+    "chanel": "research"
+  },
+  {
+    "id": 62,
+    "data": "2017-08-13",
+    "title": "Unreal Engine SIGGRAPH User Group (official) | Unreal Engine",
+    "url": "https://www.youtube.com/watch?v=otmxoK4lCNw",
+    "chanel": "research"
+  },
+  {
+    "id": 63,
+    "data": "2017-09-28",
+    "title": "Материалы с VLDB, конференции о будущем баз данных",
+    "url": "https://habrahabr.ru/company/avito/blog/338180/",
+    "chanel": "research"
+  },
+  {
+    "id": 64,
+    "data": "2018-03-28",
+    "title": "Magic Leap выпустили SDK. Посмотрим, что внутри?",
+    "url": "https://habrahabr.ru/company/funcorp/blog/352230/",
+    "chanel": "research"
+  },
+  {
+    "id": 65,
+    "data": "2018-02-05",
+    "title": "Intel показала умные очки Vaunt. Они похожи на обычные",
+    "url": "https://nplus1.ru/news/2018/02/05/vaunt",
+    "chanel": "research"
+  },
+  {
+    "id": 66,
+    "data": "2018-05-01",
+    "title": null,
+    "url": "https://www.facebook.com/FacebookforDevelopers/videos/10155606814678553/",
+    "chanel": "research"
+  },
+  {
+    "id": 67,
+    "data": "2017-10-04",
+    "title": "NEXTREALITY",
+    "url": "https://nextreality.tv/augmented-reality-resources",
+    "chanel": "research"
+  },
+  {
+    "id": 68,
+    "data": "2017-04-10",
+    "title": "Qualcomm готовит чипы для Wi-Fi следующего поколения",
+    "url": "https://www.osp.ru/cw/2017/04/13051752/",
+    "chanel": "research"
+  },
+  {
+    "id": 69,
+    "data": "2018-02-13",
+    "title": "Специальный мод для VR контроллера, позволяющий чувствовать вес предметов в VR",
+    "url": "http://telegra.ph/Specialnyj-mod-dlya-VR-kontrollera-pozvolyayushchij-chuvstvovat-ves-predmetov-v-VR-02-13",
+    "chanel": "research"
+  },
+  {
+    "id": 70,
+    "data": "2018-04-16",
+    "title": "Какие задачи хорошо подходят для научных исследований?",
+    "url": "https://geektimes.ru/post/299885/",
+    "chanel": "research"
+  },
+  {
+    "id": 71,
+    "data": "2016-11-16",
+    "title": "Умный дом для АЛРОСА",
+    "url": "http://www.croc.ru/news/detail/67325/?utm_source=facebook&utm_medium=social&utm_campaign=realese",
+    "chanel": "research"
+  },
+  {
+    "id": 72,
+    "data": "2018-03-12",
+    "title": "Simplelink SensorTag - TI.com",
+    "url": "http://www.ti.com/ww/en/wireless_connectivity/sensortag/",
+    "chanel": "research"
+  },
+  {
+    "id": 73,
+    "data": "2017-03-01",
+    "title": "Apple reportedly has ‘over 1,000 engineers’ working on AR, could show up in next iPhone",
+    "url": "http://www.theverge.com/circuitbreaker/2017/3/1/14782430/apple-rumored-oled-iphone-augmented-reality-tech?utm_campaign=theverge&utm_content=entry&utm_medium=social&utm_source=facebook",
+    "chanel": "research"
+  },
+  {
+    "id": 74,
+    "data": "2017-03-17",
+    "title": "Консорциум OpenFog опубликовал эталонную архитектуру туманных вычислений",
+    "url": "https://www.pcweek.ru/infrastructure/article/detail.php?ID=192666&param=mail",
+    "chanel": "research"
+  },
+  {
+    "id": 75,
+    "data": "2017-10-07",
+    "title": "Как Минковский во Flappy Bird играл",
+    "url": "https://habrahabr.ru/post/217645/",
+    "chanel": "research"
+  },
+  {
+    "id": 76,
+    "data": "2017-07-03",
+    "title": "ARKit: Augmented Reality Food Nutritional Value",
+    "url": "https://www.youtube.com/watch?v=hfxfx-XXLEo",
+    "chanel": "research"
+  },
+  {
+    "id": 77,
+    "data": "2018-02-10",
+    "title": "tarantool/tarantool",
+    "url": "https://github.com/tarantool/tarantool/releases/tag/1.8.1",
+    "chanel": "research"
+  },
+  {
+    "id": 78,
+    "data": "2017-08-30",
+    "title": "Unity 2017: обзор новых возможностей",
+    "url": "https://habrahabr.ru/company/everydaytools/blog/336714/",
+    "chanel": "research"
+  },
+  {
+    "id": 79,
+    "data": "2018-04-15",
+    "title": "Создатели JPEG представили новый формат сжатия без видимых потерь",
+    "url": "http://telegra.ph/Sozdateli-JPEG-predstavili-novyj-format-szhatiya-bez-vidimyh-poter-04-11",
+    "chanel": "research"
+  },
+  {
+    "id": 80,
+    "data": "2016-11-15",
+    "title": "WorldViz is Creating a VR Platform for Enterprise Collaboration - Road to VR",
+    "url": "http://www.roadtovr.com/worldviz-skofield-creating-social-vr-platform-for-enterprise-communication/?platform=hootsuite",
+    "chanel": "research"
+  },
+  {
+    "id": 81,
+    "data": "2017-06-02",
+    "title": "Monocular 6-DoF Positional Tracking from Occipital",
+    "url": "https://www.youtube.com/watch?v=aVdWED6kfKc&amp;feature=share",
+    "chanel": "research"
+  },
+  {
+    "id": 82,
+    "data": "2018-04-03",
+    "title": "DropMeFiles – free one-click file sharing service",
+    "url": "http://dropmefiles.com/zt8S2",
+    "chanel": "research"
+  },
+  {
+    "id": 83,
+    "data": "2017-04-09",
+    "title": "Just testing stuff",
+    "url": "https://www.youtube.com/watch?v=ulFX2sw0sm0",
+    "chanel": "research"
+  },
+  {
+    "id": 84,
+    "data": "2017-05-24",
+    "title": "Realtime Simulation and Volume Modelling Plugin | Live Training | Unreal Engine",
+    "url": "https://www.youtube.com/watch?v=CWzPP5FAYAg",
+    "chanel": "research"
+  },
+  {
+    "id": 85,
+    "data": "2018-04-23",
+    "title": "Research at NVIDIA: AI Reconstructs Photos with Realistic Results",
+    "url": "https://youtu.be/gg0F5JjKmhA",
+    "chanel": "research"
+  },
+  {
+    "id": 86,
+    "data": "2017-11-26",
+    "title": "4D Toys: a box of four-dimensional toys, and how objects bounce and roll in 4D",
+    "url": "https://www.youtube.com/watch?v=0t4aKJuKP0Q",
+    "chanel": "research"
+  },
+  {
+    "id": 87,
+    "data": "2017-08-10",
+    "title": "Implementing a Light Field Renderer",
+    "url": "https://www.youtube.com/watch?v=p2w1DNkITI8",
+    "chanel": "research"
+  },
+  {
+    "id": 88,
+    "data": "2018-01-20",
+    "title": "Свой pix2code с блэкджеком, но без нейронок",
+    "url": "https://habrahabr.ru/post/347120/",
+    "chanel": "research"
+  },
+  {
+    "id": 89,
+    "data": "2017-04-25",
+    "title": "Видео: подробная демонстрация работы очков дополненной реальности Meta 2 — Голографика",
+    "url": "http://holographica.space/video-of-the-day/meta-2-demo-9558",
+    "chanel": "research"
+  },
+  {
+    "id": 90,
+    "data": "2017-05-08",
+    "title": "Waveguides: What You Need To Know To Understand Smartglasses",
+    "url": "https://uploadvr.com/waveguides-smartglasses/",
+    "chanel": "research"
+  },
+  {
+    "id": 91,
+    "data": "2017-10-31",
+    "title": "«Google X — единственная компания, которая поощряет исследования абсурдных вещей»",
+    "url": "https://vc.ru/28149-google-x-edinstvennaya-kompaniya-kotoraya-pooshchryaet-issledovaniya-absurdnyh-veshchey",
+    "chanel": "research"
+  },
+  {
+    "id": 92,
+    "data": "2017-03-20",
+    "title": "Cisco, Bosch, and Foxconn are building blockchain tech for the internet of things",
+    "url": "http://venturebeat.com/2017/01/28/cisco-bosch-and-foxconn-are-building-blockchain-tech-for-the-internet-of-things/",
+    "chanel": "research"
+  },
+  {
+    "id": 93,
+    "data": "2017-05-09",
+    "title": "Google выпустила конструктор для Raspberry Pi с уклоном в ИИ",
+    "url": "https://nplus1.ru/news/2017/05/05/aiy?utm_source=telegram&utm_campaign=2017",
+    "chanel": "research"
+  },
+  {
+    "id": 94,
+    "data": "2017-06-19",
+    "title": null,
+    "url": "https://twitter.com/heyadam/status/872278723700994048",
+    "chanel": "research"
+  },
+  {
+    "id": 95,
+    "data": "2017-01-27",
+    "title": "Технологии ускоренной разработки встраиваемых систем с применением Симулинк и аппаратных комплексов реального времени",
+    "url": "http://matlab.ru/seminars/tehnologii-uskorennoi-razrabotki-vstraivaemikh-system",
+    "chanel": "research"
+  },
+  {
+    "id": 96,
+    "data": "2018-04-22",
+    "title": "Oracle анонсировала универсальную виртуальную машину GraalVM",
+    "url": "https://tproger.ru/news/oracle-graalvm/",
+    "chanel": "research"
+  },
+  {
+    "id": 97,
+    "data": "2017-04-08",
+    "title": "Google изобрела распределённый ИИ для миллиарда смартфонов",
+    "url": "https://geektimes.ru/post/287826/?mobile=no",
+    "chanel": "research"
+  },
+  {
+    "id": 98,
+    "data": "2017-06-15",
+    "title": "PQ Labs G9 AR Touch for Business, Augmented Reality for Business",
+    "url": "http://www.pqlabs.com/g9-ar-touch.html",
+    "chanel": "research"
+  },
+  {
+    "id": 99,
+    "data": "2017-05-05",
+    "title": "SIGGRAPH 2017 : Technical Papers Preview Trailer",
+    "url": "https://m.youtube.com/watch?v=5YvIHREdVX4&amp;feature=share",
+    "chanel": "research"
+  },
+  {
+    "id": 100,
+    "data": "2017-05-13",
+    "title": "Holodeck: Intersection of Virtual Reality and AI, NVIDIA Jensen Huang, GTC 2017 Keynote 3",
+    "url": "https://www.youtube.com/watch?v=7VspC5XvQjs",
+    "chanel": "research"
+  },
+  {
+    "id": 101,
+    "data": "2017-11-07",
+    "title": "Realistic 3D Avatars for Games, VR and AR | Avatar SDK",
+    "url": "https://avatarsdk.com",
+    "chanel": "research"
+  },
+  {
+    "id": 102,
+    "data": "2018-02-11",
+    "title": "Get SMART - Seamless AR Tracking with ARCore and ARKit",
+    "url": "https://www.wikitude.com/blog-smart-wikitude-seamless-ar-tracking/",
+    "chanel": "research"
+  },
+  {
+    "id": 103,
+    "data": "2017-08-31",
+    "title": "ARCore vs. ARKit: Google Counters Apple – IoT For All – Medium",
+    "url": "https://medium.com/iotforall/arcore-vs-arkit-google-counters-apple-33483c08d3da",
+    "chanel": "research"
+  },
+  {
+    "id": 104,
+    "data": "2017-10-10",
+    "title": "Tesla Autopilot 2.0 - Level 5 Autonomy. Full Self-Driving Hardware",
+    "url": "https://www.youtube.com/watch?time_continue=226&amp;v=C3DbrYx-SN4",
+    "chanel": "research"
+  },
+  {
+    "id": 105,
+    "data": "2018-05-03",
+    "title": "50 (или 60) лет разработки процессоров… ради этого?",
+    "url": "https://geektimes.com/post/300365/",
+    "chanel": "research"
+  },
+  {
+    "id": 106,
+    "data": "2017-04-04",
+    "title": "Совершен первый голографический звонок на 5G",
+    "url": "https://hightech.fm/2017/04/04/hologram-video-chat-verizon?utm_source=telegram&utm_campaign=online_channel",
+    "chanel": "research"
+  },
+  {
+    "id": 107,
+    "data": "2017-07-14",
+    "title": "Introducing Unity 2017 – Unity Blog",
+    "url": "https://blogs.unity3d.com/2017/07/11/introducing-unity-2017/",
+    "chanel": "research"
+  },
+  {
+    "id": 108,
+    "data": "2017-05-29",
+    "title": "Открыт новый способ управления светом электрическими полями",
+    "url": "https://m.hightech.fm/2017/05/29/light-electric-fields?utm_source=telegram&utm_campaign=online_channel",
+    "chanel": "research"
+  },
+  {
+    "id": 109,
+    "data": "2018-03-21",
+    "title": "Augmented Reality's A-ha Moment",
+    "url": "https://www.youtube.com/watch?v=ZBdRAdSosv4",
+    "chanel": "research"
+  },
+  {
+    "id": 110,
+    "data": "2017-12-26",
+    "title": "Разработчик технологии по составлению карты дна мирового океана получит $7 миллионов | Rusbase",
+    "url": "https://rb.ru/story/underwater-contest/",
+    "chanel": "research"
+  },
+  {
+    "id": 111,
+    "data": "2017-11-20",
+    "title": "Американский провайдер PTC создает лабораторию",
+    "url": "http://telegra.ph/Amerikanskij-provajder-PTC-sozdaet-laboratoriyu-11-18",
+    "chanel": "research"
+  },
+  {
+    "id": 112,
+    "data": "2017-04-19",
+    "title": "Умная одежда будущего",
+    "url": "https://community.hpe.com/t5/ИТ-для-нового-стиля-бизнеса/Умная-одежда-будущего/ba-p/6952597?jumpid=em_2w76ngtyvb_AID-510057841&em_taw_RU_apr17_eg-xbu_999020_hpc_ru_1657444_0&DIMID=EMID_AE49736C37AE9E4B42615C7F9D3A5047&mrm=1-4BVUP#.WPcmlLFh1-V",
+    "chanel": "research"
+  },
+  {
+    "id": 113,
+    "data": "2017-07-09",
+    "title": "AR Experiments 2017",
+    "url": "https://vimeo.com/224592268",
+    "chanel": "research"
+  },
+  {
+    "id": 114,
+    "data": "2017-03-31",
+    "title": "Upskill &amp; GE Healthcare: Pick &amp; Pack Productivity Study Using Skylight",
+    "url": "https://www.youtube.com/watch?v=AwZ3yYydOH4&amp;feature=youtu.be",
+    "chanel": "research"
+  },
+  {
+    "id": 115,
+    "data": "2017-08-16",
+    "title": "Qualcomm показала высокоэффективную камеру с датчиком глубины",
+    "url": "https://3dnews.ru/news/956999?ext=subscribe&source=subscribeRu",
+    "chanel": "research"
+  },
+  {
+    "id": 116,
+    "data": "2017-05-18",
+    "title": "NVIDIA: Через 20 лет разрешение виртуальной реальности сравняется с разрешением глаз — Голографика",
+    "url": "http://holographica.space/news/nvidia-vr-resolution-9984",
+    "chanel": "research"
+  },
+  {
+    "id": 117,
+    "data": "2017-04-23",
+    "title": "Электростимуляция мышц помогла имитировать стены в виртуальной реальности",
+    "url": "https://nplus1.ru/news/2017/04/18/muscles?utm_source=telegram&utm_campaign=2017",
+    "chanel": "research"
+  },
+  {
+    "id": 118,
+    "data": "2018-01-30",
+    "title": "Sony Patents Reveal New Motion Controller Technologies",
+    "url": "https://www.vrfocus.com/2018/01/sony-patents-reveal-new-motion-controller-technologies/",
+    "chanel": "research"
+  },
+  {
+    "id": 119,
+    "data": "2017-03-27",
+    "title": "Журналисты NPR рассказали об использовании Google Glass на производствах крупных компаний",
+    "url": "https://vc.ru/n/google-glass-enterprise",
+    "chanel": "research"
+  },
+  {
+    "id": 120,
+    "data": "2017-10-17",
+    "title": "Компании Evrythng и Zappar объединят возможности IoT и AR",
+    "url": "https://hightech.fm/2017/10/18/zappar-evrythng?utm_source=telegram&utm_campaign=online_channel",
+    "chanel": "research"
+  },
+  {
+    "id": 121,
+    "data": "2018-01-06",
+    "title": "Будущее интернет-протоколов",
+    "url": "https://habrahabr.ru/post/345472/",
+    "chanel": "research"
+  },
+  {
+    "id": 122,
+    "data": "2017-04-15",
+    "title": "Diet with AR technology? Aim for elimination of obesity by manipulating food size",
+    "url": "https://www.youtube.com/watch?v=HB8b7_jisdw",
+    "chanel": "research"
+  },
+  {
+    "id": 123,
+    "data": "2017-06-28",
+    "title": "HADO by ARKit",
+    "url": "https://m.youtube.com/watch?v=qbgunF_B2ro",
+    "chanel": "research"
+  },
+  {
+    "id": 124,
+    "data": "2017-12-10",
+    "title": "Oracle Open World 2017: анонсы «Автономного AI»",
+    "url": "https://habrahabr.ru/company/muk/blog/344230/",
+    "chanel": "research"
+  },
+  {
+    "id": 125,
+    "data": "2017-09-21",
+    "title": "Predictive Analytics With Spark ML - DZone AI",
+    "url": "https://dzone.com/articles/predictive-analytics-with-spark-ml?edition=326503&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202017-09-21",
+    "chanel": "research"
+  },
+  {
+    "id": 126,
+    "data": "2017-11-17",
+    "title": "Илон Маск показал «выносящий мозг» грузовик и электрический суперкар",
+    "url": "https://hightech.fm/2017/11/17/semi_roadster?utm_source=telegram&utm_campaign=online_channel",
+    "chanel": "research"
+  },
+  {
+    "id": 127,
+    "data": "2017-09-20",
+    "title": "Calcflow is now open source &amp; will integrate with Matryx",
+    "url": "https://www.youtube.com/watch?v=uoS7A-y7UwM&amp;feature=youtu.be&amp;t=16",
+    "chanel": "research"
+  },
+  {
+    "id": 128,
+    "data": "2017-07-28",
+    "title": "Design Expo 2017: University of Washington, Interaction Design Program",
+    "url": "https://www.youtube.com/watch?v=1HFnBIuoLpQ",
+    "chanel": "research"
+  },
+  {
+    "id": 129,
+    "data": "2018-04-12",
+    "title": "New Jersey Utility Uses Augmented Reality to Visualise Underground Infrastructure",
+    "url": "https://www.roadtovr.com/utility-company-uses-augmented-reality-visualise-underground-infrastructure/",
+    "chanel": "research"
+  },
+  {
+    "id": 130,
+    "data": "2017-12-11",
+    "title": "Напечатанные предметы выходят в Интернет вещей без электроники на борту",
+    "url": "https://geektimes.ru/post/296327/.com/",
+    "chanel": "research"
+  },
+  {
+    "id": 131,
+    "data": "2017-02-11",
+    "title": "Разработанное физиком приложение определит идеальное место для роутера Wi-Fi в доме",
+    "url": "https://tjournal.ru/p/wifi-solver",
+    "chanel": "research"
+  },
+  {
+    "id": 132,
+    "data": "2018-05-05",
+    "title": "Wall++: Room-Scale Interactive and Context-Aware Sensing",
+    "url": "https://www.youtube.com/watch?time_continue=129&amp;v=175LB2OiMHs",
+    "chanel": "research"
+  },
+  {
+    "id": 133,
+    "data": "2017-08-21",
+    "title": null,
+    "url": "https://twitter.com/kidach1/status/898887396787273728/video/1",
+    "chanel": "research"
+  },
+  {
+    "id": 134,
+    "data": "2017-04-02",
+    "title": "Home | LEIA 3D - Holographic Reality",
+    "url": "https://www.leia3d.com",
+    "chanel": "research"
+  },
+  {
+    "id": 135,
+    "data": "2017-07-12",
+    "title": "Normal: объединяющий реальности стартап с говорящей клавиатурой — Голографика",
+    "url": "http://holographica.space/news/normal-arkit-mixed-reality-10660",
+    "chanel": "research"
+  },
+  {
+    "id": 136,
+    "data": "2017-08-01",
+    "title": "How I built it: Visualizing Foursquare check-ins with Mapbox + ARKit",
+    "url": "https://blog.mapbox.com/how-i-built-this-visualizing-foursquare-check-ins-with-mapbox-arkit-ed88463992f3",
+    "chanel": "research"
+  },
+  {
+    "id": 137,
+    "data": "2017-04-22",
+    "title": "Eyetracking while playing Overwatch",
+    "url": "https://youtu.be/X_BalnBOcpk?t=42",
+    "chanel": "research"
+  },
+  {
+    "id": 138,
+    "data": "2017-05-19",
+    "title": "Чувство зверя",
+    "url": "https://esquire.ru/cyborg-nest",
+    "chanel": "research"
+  },
+  {
+    "id": 139,
+    "data": "2018-01-27",
+    "title": "Дисплеи Light Field Lab будут транслировать голограммы без гарнитуры",
+    "url": "https://hightech.fm/2018/01/27/light_field_lab?utm_source=telegram&utm_campaign=online_channel",
+    "chanel": "research"
+  },
+  {
+    "id": 140,
+    "data": "2017-08-17",
+    "title": "SIGGRAPH 2017 - VR Village Contributor: \"Wakeboarding, An Exertion Game in Virtual Reality\"",
+    "url": "https://www.youtube.com/watch?v=q6WJIYTdhLw",
+    "chanel": "research"
+  },
+  {
+    "id": 141,
+    "data": "2017-03-30",
+    "title": "Distill — Latest articles about machine learning",
+    "url": "http://distill.pub/",
+    "chanel": "research"
+  },
+  {
+    "id": 142,
+    "data": "2017-06-25",
+    "title": "AR Measure App Demo",
+    "url": "https://www.youtube.com/watch?v=z7DYC_zbZCM&amp;feature=youtu.be",
+    "chanel": "research"
+  },
+  {
+    "id": 143,
+    "data": "2017-02-27",
+    "title": "Cloud VR/AR/MR",
+    "url": "https://ngcodec.com/products-vr-ar-mr/",
+    "chanel": "research"
+  },
+  {
+    "id": 144,
+    "data": "2018-04-24",
+    "title": "Что мы знаем об Amazon Alexa? Или первые впечатления от Amazon Echo Dot",
+    "url": "https://geektimes.com/company/unet/blog/300035/",
+    "chanel": "research"
+  },
+  {
+    "id": 145,
+    "data": "2017-07-02",
+    "title": "Йога критического выравнивания – занятия | Центр йоги Прана",
+    "url": "http://pranayoga.ru/services/yoga_kritichyeskogo_veravnivaniya/",
+    "chanel": "ZOJ"
+  },
+  {
+    "id": 146,
+    "data": "2018-03-23",
+    "title": "Главные тренды UX-дизайна в 2018 году",
+    "url": "https://www.uplab.ru/blog/trends-in-ux-design-in-2018/",
+    "chanel": "ui"
+  },
+  {
+    "id": 147,
+    "data": "2017-11-02",
+    "title": "Oculus хочет перевести ваш рабочий процесс в свои шлемы виртуальной реальности",
+    "url": "http://telegra.ph/uxidesign-11-02-2",
+    "chanel": "ui"
+  },
+  {
+    "id": 148,
+    "data": "2018-05-07",
+    "title": "Книги о дизайн-системах",
+    "url": "https://jvetrau.com/designsystems-books/",
+    "chanel": "ui"
+  },
+  {
+    "id": 149,
+    "data": "2018-03-14",
+    "title": "Что такое CUI, и для чего нужно CUI применять в чат-боте?  | блог Evergreen",
+    "url": "http://evergreens.com.ua/ru/articles/what-is-cui.html",
+    "chanel": "ui"
+  },
+  {
+    "id": 150,
+    "data": "2017-06-11",
+    "title": "Ludus",
+    "url": "https://ludus.one",
+    "chanel": "ui"
+  },
+  {
+    "id": 151,
+    "data": "2018-04-30",
+    "title": "VR, AR and Mixed Reality Resources – Prototypr",
+    "url": "https://blog.prototypr.io/vr-and-mixed-reality-resources-90a57498220e?source=linkShare-b6935e8a988a-1525148325",
+    "chanel": "ui"
+  },
+  {
+    "id": 152,
+    "data": "2017-04-20",
+    "title": "Инструкция для недизайнеров: как создать классную презентацию",
+    "url": "http://tilda.education/articles-how-to-create-presentation",
+    "chanel": "ui"
+  },
+  {
+    "id": 153,
+    "data": "2017-05-06",
+    "title": "People Don’t Want Something Truly New, They Want the Familiar Done Differently.",
+    "url": "https://medium.com/startup-grind/people-dont-want-something-truly-new-they-want-the-familiar-done-differently-7648f24f8fe7",
+    "chanel": "ui"
+  },
+  {
+    "id": 154,
+    "data": "2018-03-29",
+    "title": "Zeplin",
+    "url": "https://zeplin.io/",
+    "chanel": "ui"
+  },
+  {
+    "id": 155,
+    "data": "2017-10-08",
+    "title": "Automated UI-Testing for iOS Apps – Mobile Quality – Medium",
+    "url": "https://medium.com/mobile-quality/automated-ui-testing-for-ios-apps-cfe128ae6411",
+    "chanel": "ui"
+  },
+  {
+    "id": 156,
+    "data": "2017-07-20",
+    "title": "Как дизайнеру ужиться с нейросетями и их разработчиками: интерактивный дизайн в эпоху алгоритмов",
+    "url": "https://spark.ru/startup/ukit-ai/blog/30616/kak-dizajneru-uzhitsya-s-nejrosetyami-i-ih-razrabotchikami-interaktivnij-dizajn-v-epohu-algoritmov",
+    "chanel": "ui"
+  },
+  {
+    "id": 157,
+    "data": "2017-04-26",
+    "title": null,
+    "url": "https://www.facebook.com/naukatv/videos/1282155568500178/",
+    "chanel": "ui"
+  },
+  {
+    "id": 158,
+    "data": "2018-03-28",
+    "title": "Дизайн-система. Определение понятия",
+    "url": "https://habrahabr.ru/company/mailru/blog/351726/",
+    "chanel": "ui"
+  },
+  {
+    "id": 159,
+    "data": "2017-04-06",
+    "title": "FUI, GUI and HUD",
+    "url": "https://www.maxon.net/en/news/maxon-blog/article/fui-gui-and-hud/",
+    "chanel": "ui"
+  },
+  {
+    "id": 160,
+    "data": "2017-10-12",
+    "title": "Разработка дизайн-системы на основе «атомного дизайна» в General Electric",
+    "url": "http://telegra.ph/Razrabotka-dizajn-sistemy-na-osnove-atomnogo-dizajna-v-General-Electric-10-10",
+    "chanel": "ui"
+  },
+  {
+    "id": 161,
+    "data": "2017-09-27",
+    "title": "Наука на страже интерфейсов: как сделать кнопки в приложении по-настоящему удобными",
+    "url": "https://habrahabr.ru/company/appodeal/blog/322022/",
+    "chanel": "ui"
+  },
+  {
+    "id": 162,
+    "data": "2017-11-30",
+    "title": "UX, UXD, CX, UI, IxD: разбираемся в терминах",
+    "url": "https://geektimes.ru/company/puzzleenglish/blog/295997/",
+    "chanel": "ui"
+  },
+  {
+    "id": 163,
+    "data": "2017-10-31",
+    "title": "Разработка единой дизайн-системы — опыт «Рамблера»",
+    "url": "https://vc.ru/28213-razrabotka-edinoy-dizayn-sistemy-opyt-ramblera",
+    "chanel": "ui"
+  },
+  {
+    "id": 164,
+    "data": "2017-10-30",
+    "title": "Introducing InVision Design System Manager + Brand.ai is joining InVision - InVision Blog",
+    "url": "https://www.invisionapp.com/blog/announcing-invision-design-system-manager/#video",
+    "chanel": "ui"
+  },
+  {
+    "id": 165,
+    "data": "2017-07-18",
+    "title": "Инструкция по созданию единой дизайн-экосистемы для разных продуктов одной компании",
+    "url": "https://vc.ru/p/united-user-system",
+    "chanel": "ui"
+  },
+  {
+    "id": 166,
+    "data": "2018-03-10",
+    "title": "Дайджест продуктового дизайна, февраль 2018 - Юрий Ветров об интерфейсах",
+    "url": "http://jvetrau.com/digest-2018-feb/",
+    "chanel": "ui"
+  },
+  {
+    "id": 167,
+    "data": "2017-09-30",
+    "title": "«Нормальный у нас такой UX. UX? Не до этого нам, у нас тут сроки поджимают!» Снимаем мантию — моя интерпретация",
+    "url": "https://habrahabr.ru/post/338996/",
+    "chanel": "ui"
+  },
+  {
+    "id": 168,
+    "data": "2017-04-04",
+    "title": "Home | Johnson Banks",
+    "url": "http://www.johnsonbanks.co.uk/",
+    "chanel": "ui"
+  },
+  {
+    "id": 169,
+    "data": "2017-06-24",
+    "title": "Quixel Megascans",
+    "url": "https://megascans.se",
+    "chanel": "ui"
+  },
+  {
+    "id": 170,
+    "data": "2018-02-16",
+    "title": "VR/AR prototyping for everyone – Inborn Experience (UX in AR/VR) – Medium",
+    "url": "https://medium.com/inborn-experience/vr-ar-prototyping-for-everyone-ea6fb8f159b5",
+    "chanel": "ui"
+  },
+  {
+    "id": 171,
+    "data": "2017-07-29",
+    "title": "Advancing Real Time Graphics",
+    "url": "https://www.youtube.com/watch?v=bXouFfqSfxg",
+    "chanel": "ui"
+  },
+  {
+    "id": 172,
+    "data": "2017-05-03",
+    "title": "Подбор правильных цветовых палитр для визуализации данных",
+    "url": "https://goo.gl/2XyKjg",
+    "chanel": "ui"
+  },
+  {
+    "id": 173,
+    "data": "2017-06-29",
+    "title": "Writing Your First Shader In Unity - Session Introduction [1/8] Live 2017/6/21",
+    "url": "https://www.youtube.com/watch?v=zCkC5e_Pkz4",
+    "chanel": "ui"
+  },
+  {
+    "id": 174,
+    "data": "2017-05-19",
+    "title": "Чтобы стать мастером дизайна, нужно сначала освоить эти базовые правила",
+    "url": "https://articles.uxjournal.ru/%D1%87%D1%82%D0%BE%D0%B1%D1%8B-%D1%81%D1%82%D0%B0%D1%82%D1%8C-%D0%BC%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%BE%D0%BC-%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD%D0%B0-%D0%BD%D1%83%D0%B6%D0%BD%D0%BE-%D1%81%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D0%B0-%D0%BE%D1%81%D0%B2%D0%BE%D0%B8%D1%82%D1%8C-%D1%8D%D1%82%D0%B8-%D0%B1%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B5-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0-50fe936d0f1",
+    "chanel": "ui"
+  },
+  {
+    "id": 175,
+    "data": "2017-10-20",
+    "title": "Практическое руководство по UX и дополненной реальности",
+    "url": "http://telegra.ph/uxidesign-10-12",
+    "chanel": "ui"
+  },
+  {
+    "id": 176,
+    "data": "2017-07-08",
+    "title": "Как создаются визуальные эффекты для игр",
+    "url": "https://habrahabr.ru/post/331604/",
+    "chanel": "ui"
+  },
+  {
+    "id": 177,
+    "data": "2017-06-25",
+    "title": "Varjo : Redefining Reality",
+    "url": "https://vimeo.com/221981612",
+    "chanel": "ui"
+  },
+  {
+    "id": 178,
+    "data": "2018-03-20",
+    "title": "Page 13 from ‘Keep it Virtual’ by Laptev Pavel",
+    "url": "https://readymag.com/LaptevPavel/keep-it-virtual/13/",
+    "chanel": "ui"
+  },
+  {
+    "id": 179,
+    "data": "2018-03-19",
+    "title": "Концепции автоматического тестирования",
+    "url": "https://habrahabr.ru/post/351430/",
+    "chanel": "devops"
+  },
+  {
+    "id": 180,
+    "data": "2018-03-23",
+    "title": null,
+    "url": "https://phygitalismpro.slack.com/archives/C7KDV6200/p1521799246000447?thread_ts=1521799246000447&cid=C7KDV6200",
+    "chanel": "devops"
+  },
+  {
+    "id": 181,
+    "data": "2018-02-14",
+    "title": "Лучшая архитектура на базе Docker и Kubernetes — миф или реальность?",
+    "url": "https://habrahabr.ru/post/321810/",
+    "chanel": "devops"
+  },
+  {
+    "id": 182,
+    "data": "2018-03-18",
+    "title": "Централизованный сontinuous deployment за год vol 2",
+    "url": "https://habrahabr.ru/company/raiffeisenbank/blog/350986/",
+    "chanel": "devops"
+  },
+  {
+    "id": 183,
+    "data": "2018-01-25",
+    "title": "Что такое DataOps? Кросс-функциональная аналитика во взаимодействии",
+    "url": "https://www.computerworld.ru/articles/Chto-takoe-DataOps-Kross-funktsionalnaya-analitika-vo-vzaimodeystvii",
+    "chanel": "devops"
+  },
+  {
+    "id": 184,
+    "data": "2017-12-09",
+    "title": "Деплой микросервисов // Алексей Баитов",
+    "url": "https://www.youtube.com/watch?v=PszrMc8ryEs",
+    "chanel": "devops"
+  },
+  {
+    "id": 185,
+    "data": "2018-02-28",
+    "title": "Application Release Automation: автоматизация управления релизами «уходит в облако»",
+    "url": "https://habrahabr.ru/company/it-guild/blog/349862/",
+    "chanel": "devops"
+  },
+  {
+    "id": 186,
+    "data": "2017-12-18",
+    "title": "Chef – Automate Your Infrastructure",
+    "url": "https://www.chef.io/chef/",
+    "chanel": "devops"
+  },
+  {
+    "id": 187,
+    "data": "2018-03-25",
+    "title": "Git &amp; Unity: best way to synchronize assets? • r/Unity3D",
+    "url": "https://www.reddit.com/r/Unity3D/comments/26ycol/git_unity_best_way_to_synchronize_assets/",
+    "chanel": "devops"
+  },
+  {
+    "id": 188,
+    "data": "2017-12-19",
+    "title": "Artifactory - Universal Artifact Repository Manager - JFrog",
+    "url": "https://jfrog.com/artifactory/",
+    "chanel": "devops"
+  },
+  {
+    "id": 189,
+    "data": "2018-03-31",
+    "title": "Best DevOps Software - 2018 Reviews of the Most Popular  Tools and Services",
+    "url": "https://stackshare.io/devops",
+    "chanel": "devops"
+  },
+  {
+    "id": 190,
+    "data": "2017-12-21",
+    "title": "Как мы преодолели железные препятствия при автоматизации тестирования",
+    "url": "https://habrahabr.ru/company/efs/blog/345066/",
+    "chanel": "devops"
+  },
+  {
+    "id": 191,
+    "data": "2018-03-26",
+    "title": "Plastic SCM - Comparisons",
+    "url": "https://www.plasticscm.com/comparisons.html",
+    "chanel": "devops"
+  },
+  {
+    "id": 192,
+    "data": "2018-03-10",
+    "title": "Учимся на ошибках в организации контроля качества",
+    "url": "https://habrahabr.ru/company/badoo/blog/301764/",
+    "chanel": "devops"
+  },
+  {
+    "id": 193,
+    "data": "2018-03-16",
+    "title": "Spotlight Team Best Practices: Project Setup – Unity Blog",
+    "url": "https://blogs.unity3d.com/2017/08/10/spotlight-team-best-practices-project-setup/",
+    "chanel": "devops"
+  },
+  {
+    "id": 194,
+    "data": "2018-02-19",
+    "title": "planetacam: Технолог в облаках 2 или VisualCAMc – игрушка для Early Adopters",
+    "url": "http://planetacam.ru/articles/exclusive/tekhnolog_v_oblakakh_2/",
+    "chanel": "project-de"
+  },
+  {
+    "id": 195,
+    "data": "2017-12-09",
+    "title": "Микросервисы: пожалуйста, не нужно",
+    "url": "https://habrahabr.ru/post/311208/",
+    "chanel": "project-de"
+  },
+  {
+    "id": 196,
+    "data": "2017-11-06",
+    "title": "Моделирование и анализ бизнес процессов. Визуальный анализ",
+    "url": "http://rzbpm.ru/knowledge/modelirovanie-i-analiz-biznes-orocessov.html",
+    "chanel": "project-de"
+  },
+  {
+    "id": 197,
+    "data": "2017-10-31",
+    "title": "A Docker Tutorial for Beginners",
+    "url": "https://docker-curriculum.com/",
+    "chanel": "project-de"
+  },
+  {
+    "id": 198,
+    "data": "2017-10-26",
+    "title": "Промышленный интернет. Сети на производстве",
+    "url": "https://www.osp.ru/lan/2017/10/13053066/?from_mail=1",
+    "chanel": "project-de"
+  },
+  {
+    "id": 199,
+    "data": "2017-11-17",
+    "title": "Файл из Облака Mail.Ru",
+    "url": "https://cloud.mail.ru/public/9KXu/8LiDATde2",
+    "chanel": "project-de"
+  },
+  {
+    "id": 200,
+    "data": "2017-03-13",
+    "title": "Киберфизические системы и разумные города",
+    "url": "https://www.ibm.com/developerworks/ru/library/ba-cyber-physical-systems-and-smart-cities-iot/",
+    "chanel": "cps"
+  },
+  {
+    "id": 201,
+    "data": "2017-02-02",
+    "title": "Российская операционная система реального времени для IT-оборудования и Интернета вещей",
+    "url": "http://www.astrosoft.ru/products/astrosoft/rtos-macs/",
+    "chanel": "cps"
+  },
+  {
+    "id": 202,
+    "data": "2017-03-18",
+    "title": "Losant | Losant IoT Developer Platform",
+    "url": "https://www.losant.com/",
+    "chanel": "cps"
+  },
+  {
+    "id": 203,
+    "data": "2017-04-26",
+    "title": "Visible light communication for localization",
+    "url": "https://youtu.be/pztb58tZ8PY",
+    "chanel": "cps"
+  },
+  {
+    "id": 204,
+    "data": "2017-02-16",
+    "title": "JointJS - JavaScript diagramming library - Demos.",
+    "url": "http://resources.jointjs.com/demos/kitchensink",
+    "chanel": "cps"
+  },
+  {
+    "id": 205,
+    "data": "2017-04-29",
+    "title": "Бизнес-наборы TPCAST объединят без проводов до шести Vive — Голографика",
+    "url": "http://holographica.space/news/tpcast-business-edition-9628",
+    "chanel": "cps"
+  },
+  {
+    "id": 206,
+    "data": "2017-02-20",
+    "title": "Schneider Electric Invests in Immersive Technology | Automation World",
+    "url": "https://www.automationworld.com/all/schneider-electric-invests-immersive-technology",
+    "chanel": "cps"
+  },
+  {
+    "id": 207,
+    "data": "2017-06-19",
+    "title": "Hololens + IOT = Magic",
+    "url": "https://www.youtube.com/watch?v=uzxhkqEuQ24",
+    "chanel": "cps"
+  },
+  {
+    "id": 208,
+    "data": "2017-01-07",
+    "title": "Безопасность в IoT: Архитектура системы безопасности",
+    "url": "https://habrahabr.ru/company/microsoft/blog/318968/",
+    "chanel": "cps"
+  },
+  {
+    "id": 209,
+    "data": "2017-04-19",
+    "title": "Дополненная реальность в лабораториях Lockheed Martin — Голографика",
+    "url": "http://holographica.space/video-of-the-day/lockheed-martin-collaborative-human-immersive-laboratory-chil-9472",
+    "chanel": "cps"
+  },
+  {
+    "id": 210,
+    "data": "2017-04-23",
+    "title": "CAE VimedixAR with Microsoft HoloLens",
+    "url": "https://www.youtube.com/watch?v=bQ6d040qf8c",
+    "chanel": "cps"
+  },
+  {
+    "id": 211,
+    "data": "2017-03-25",
+    "title": "Модельно-ориентированное проектирование для малых групп",
+    "url": "http://matlab.ru/publications/mbd-for-small-groups",
+    "chanel": "cps-mbd"
+  },
+  {
+    "id": 212,
+    "data": "2017-03-12",
+    "title": "GMP – 2. Модельно-ориентированное проектирование",
+    "url": "https://www.youtube.com/watch?v=L234tkEHKHw",
+    "chanel": "cps-mbd"
+  },
+  {
+    "id": 213,
+    "data": "2017-04-11",
+    "title": "Трехдневная конференция Технологии разработки и отладки сложных технических систем",
+    "url": "http://matlab.ru/seminars/conf2017",
+    "chanel": "cps-mbd"
+  },
+  {
+    "id": 214,
+    "data": "2017-04-09",
+    "title": "ML2VR - Providing MATLAB Users an Easy Transition to Virtual Reality and Immersive Interactivity",
+    "url": "https://www.youtube.com/watch?v=K3GqNlR8jUA",
+    "chanel": "cps-mbd"
+  },
+  {
+    "id": 215,
+    "data": "2017-05-08",
+    "title": "Implementing Material Balance in Python - CodeProject",
+    "url": "https://www.codeproject.com/Articles/1185595/Implementing-Material-Balance-in-Python",
+    "chanel": "cps-mbd"
+  },
+  {
+    "id": 216,
+    "data": "2017-04-04",
+    "title": "OPC Toolbox - работа с OPC стандартом для MATLAB",
+    "url": "http://matlab.ru/products/opc-toolbox",
+    "chanel": "cps-mbd"
+  },
+  {
+    "id": 217,
+    "data": "2017-04-03",
+    "title": "isicad:  PTC   PTC Mathcad Prime 4.0         ",
+    "url": "http://isicad.ru/ru/news.php?news=19133",
+    "chanel": "cps-mbd"
+  },
+  {
+    "id": 218,
+    "data": "2017-07-24",
+    "title": "Getting Started: Modeling",
+    "url": "https://www.youtube.com/watch?v=VQwvrotrh4I",
+    "chanel": "cps-mbd"
+  },
+  {
+    "id": 219,
+    "data": "2018-04-12",
+    "title": "liasan_bolero_a4_moscow.psd",
+    "url": "https://yadi.sk/i/qPQi7sVw3UA6SY",
+    "chanel": "project-bolero"
+  },
+  {
+    "id": 220,
+    "data": "2017-11-18",
+    "title": "NASA's Mars 2020 Mission Performs First Supersonic Parachute Test",
+    "url": "https://www.jpl.nasa.gov/news/news.php?feature=6999&utm_source=iContact&utm_medium=email&utm_campaign=NASAJPL&utm_content=weekly20171117-6",
+    "chanel": "project-marsum"
+  },
+  {
+    "id": 221,
+    "data": "2017-11-03",
+    "title": "Best practice for Vive multiplayer using Unity? :: SteamVR Developer Hardware General Discussions",
+    "url": "https://steamcommunity.com/app/358720/discussions/0/365163686076142348/",
+    "chanel": "project-marsum"
+  },
+  {
+    "id": 222,
+    "data": "2018-03-14",
+    "title": "Началась сборка спускаемой ступени «Марс-2020»",
+    "url": "https://geektimes.ru/post/299049/",
+    "chanel": "project-marsum"
+  },
+  {
+    "id": 223,
+    "data": "2017-11-15",
+    "title": "Колонизация Венеры",
+    "url": "http://telegra.ph/Kolonizaciya-Venery-11-13",
+    "chanel": "project-marsum"
+  },
+  {
+    "id": 224,
+    "data": "2018-01-09",
+    "title": "Best Multiplayer VR Games",
+    "url": "https://www.vrheads.com/best-vr-games-playing-friends",
+    "chanel": "project-marsum"
+  },
+  {
+    "id": 225,
+    "data": "2017-12-09",
+    "title": "An Intro to Fallout 4 VR on HTC Vive",
+    "url": "https://www.youtube.com/watch?time_continue=110&amp;v=cQC1xNIc8TY",
+    "chanel": "project-marsum"
+  },
+  {
+    "id": 226,
+    "data": "2018-04-01",
+    "title": "Agile-манифест разработки программного обеспечения ",
+    "url": "http://agilemanifesto.org/iso/ru/manifesto.html",
+    "chanel": "project-marsum"
+  },
+  {
+    "id": 227,
+    "data": "2017-10-29",
+    "title": "Илон Маск создаст Big Falcon Rocket для покорения Марса",
+    "url": "http://telegra.ph/Ilon-Mask-sozdast-Big-Falcon-Rocket-dlya-pokoreniya-Marsa-10-29",
+    "chanel": "project-marsum"
+  },
+  {
+    "id": 228,
+    "data": "2017-11-28",
+    "title": "ОПТИМИЗАЦИИ ИГРЫ В UNITY. ЧАСТЬ 1",
+    "url": "http://telegra.ph/OPTIMIZACII-IGRY-V-UNITY-CHAST-1-11-28",
+    "chanel": "project-marsum"
+  },
+  {
+    "id": 229,
+    "data": "2017-11-08",
+    "title": "В Москве стартовал проект SIRIUS-17 по имитации полёта к Луне",
+    "url": "https://3dnews.ru/news/961163?ext=subscribe&source=subscribeRu",
+    "chanel": "project-marsum"
+  },
+  {
+    "id": 230,
+    "data": "2017-12-18",
+    "title": "Астрономы показали Марс «в полный рост»",
+    "url": "http://telegra.ph/Astronomy-pokazali-Mars-v-polnyj-rost-12-18",
+    "chanel": "project-marsum"
+  },
+  {
+    "id": 231,
+    "data": "2017-11-25",
+    "title": "Oculus выпустила руководство по оптимизации ВР-приложений | Голографика",
+    "url": "https://holographica.space/news/oculus-vr-optimisation-guide-13658",
+    "chanel": "project-marsum"
+  },
+  {
+    "id": 232,
+    "data": "2017-12-03",
+    "title": "Виртуальный Китай: как устроен крупнейший VR-парк в КНР",
+    "url": "https://www.rbc.ru/photoreport/03/12/2017/5a2128ed9a79473a37bba119?from=main",
+    "chanel": "project-marsum"
+  },
+  {
+    "id": 233,
+    "data": "2018-02-06",
+    "title": "Destiny | Домашняя страница",
+    "url": "https://www.destinythegame.com/ru/home",
+    "chanel": "project-marsum"
+  },
+  {
+    "id": 234,
+    "data": "2017-11-30",
+    "title": "Проект поселения на Марсе, колеса для нового марсохода, картошка и черви в марсианской почве",
+    "url": "https://geektimes.ru/post/295957/",
+    "chanel": "project-marsum"
+  },
+  {
+    "id": 235,
+    "data": "2017-10-30",
+    "title": "По зеленым шаблонам. Что такое NVIDIA GameWorks и с чем ее едят",
+    "url": "https://www.igromania.ru/article/26833/Po_zelenym_shablonam_CHto_takoe_NVIDIA_GameWorks_i_s_chem_ee_edyat.html",
+    "chanel": "project-marsum"
+  },
+  {
+    "id": 236,
+    "data": "2017-12-21",
+    "title": "Диагностика и понимание поведения графического процессора вашего приложения с помощью GAPID",
+    "url": "https://habrahabr.ru/post/345166/",
+    "chanel": "project-marsum"
+  },
+  {
+    "id": 237,
+    "data": "2017-11-20",
+    "title": "Drones in Space! NASA's Wild Idea to Explore Mars (Video)",
+    "url": "https://www.space.com/30155-nasa-drones-on-mars-video.html",
+    "chanel": "project-marsum"
+  },
+  {
+    "id": 238,
+    "data": "2017-11-16",
+    "title": "Проект создания венерианского зонда получит финансирование от агентства по науке",
+    "url": "https://geektimes.ru/post/295457/",
+    "chanel": "project-marsum"
+  },
+  {
+    "id": 239,
+    "data": "2017-11-21",
+    "title": "В России прошли первые испытания марсианского посадочного модуля",
+    "url": "http://telegra.ph/V-Rossii-proshli-pervye-ispytaniya-marsianskogo-posadochnogo-modulya-11-21",
+    "chanel": "project-marsum"
+  },
+  {
+    "id": 240,
+    "data": "2017-12-27",
+    "title": "World's best view: Astronaut takes stunning self-portrait with Earth reflected in his visor",
+    "url": "http://www.dailymail.co.uk/sciencetech/article-1279596/Space-station-Astronaut-takes-stunning-self-portrait-Earth-reflected-visor.html",
+    "chanel": "project-marsum"
+  },
+  {
+    "id": 241,
+    "data": "2017-03-25",
+    "title": "Leap Motion, Kinect, Oculus: Есть ли перспективы у «естественных» пользовательских интерфейсов",
+    "url": "https://vc.ru/p/natural-user-interfaces",
+    "chanel": "hci"
+  },
+  {
+    "id": 242,
+    "data": "2017-11-02",
+    "title": "Smart Authentication for the Internet of Things – Hackster’s Blog",
+    "url": "https://blog.hackster.io/smart-authentication-for-the-internet-of-things-e9954a73540d",
+    "chanel": "hci"
+  },
+  {
+    "id": 243,
+    "data": "2017-03-13",
+    "title": "10+ inspiring talks to design new experiences in virtual reality",
+    "url": "https://haptic.al/best-talks-virtual-reality-design-362221a8af7#.4pm37pxec",
+    "chanel": "hci"
+  },
+  {
+    "id": 244,
+    "data": "2017-05-01",
+    "title": "Разработан простой интерфейс для управления роботами",
+    "url": "https://m.hightech.fm/2017/04/27/robots-control?utm_source=telegram&utm_campaign=online_channel",
+    "chanel": "hci"
+  },
+  {
+    "id": 245,
+    "data": "2017-02-23",
+    "title": "Галактика 2117: Вечеринка | 1 серия",
+    "url": "https://www.youtube.com/watch?v=ob1ybCbOTaQ",
+    "chanel": "hci"
+  },
+  {
+    "id": 246,
+    "data": "2017-04-30",
+    "title": "The Verge",
+    "url": "https://www.facebook.com/verge/posts/1425657034137302",
+    "chanel": "hci"
+  },
+  {
+    "id": 247,
+    "data": "2017-05-12",
+    "title": "Smart Floor tile for Virtual Reality in motion by ePawn",
+    "url": "https://www.youtube.com/watch?v=kCiHHE9jNRc",
+    "chanel": "hci"
+  },
+  {
+    "id": 248,
+    "data": "2017-04-09",
+    "title": "Lightform demo 1, 2, 3",
+    "url": "https://youtu.be/8Wq9kSlsHdQ",
+    "chanel": "hci"
+  },
+  {
+    "id": 249,
+    "data": "2017-05-24",
+    "title": "These chatbots have realistic faces and can read your expressions",
+    "url": "https://www.technologyreview.com/s/603895/customer-service-chatbots-are-about-to-become-frighteningly-realistic/",
+    "chanel": "hci"
+  },
+  {
+    "id": 250,
+    "data": "2017-06-18",
+    "title": "O6 - тактильный интерфейс, заменяющий дисплеи и голосовые помощники",
+    "url": "https://m.hightech.fm/2017/06/17/O6?utm_source=telegram&utm_campaign=online_channel",
+    "chanel": "hci"
+  },
+  {
+    "id": 251,
+    "data": "2017-04-25",
+    "title": "The Cyclone Muscle Explained",
+    "url": "https://www.youtube.com/watch?v=RGuivIN5y3w&amp;feature=youtu.be&amp;a",
+    "chanel": "hci"
+  },
+  {
+    "id": 252,
+    "data": "2017-09-30",
+    "title": "Взаимодействие машин и людей в среде социального Интернета вещей",
+    "url": "https://geektimes.ru/company/unet/blog/293533/",
+    "chanel": "hci"
+  },
+  {
+    "id": 253,
+    "data": "2017-05-18",
+    "title": "TwisterSearch: A distributed user interface for collaborative Web search",
+    "url": "https://www.youtube.com/watch?v=lLLWV6Nx91s&amp;feature=youtu.be",
+    "chanel": "hci"
+  },
+  {
+    "id": 254,
+    "data": "2017-04-23",
+    "title": "Amazon Lex – Build Conversation Bots",
+    "url": "https://aws.amazon.com/lex/",
+    "chanel": "hci"
+  },
+  {
+    "id": 255,
+    "data": "2017-05-03",
+    "title": "Tangible Swarms with Cellulo",
+    "url": "https://m.youtube.com/watch?feature=youtu.be&amp;v=v68xoidR2FA",
+    "chanel": "hci"
+  },
+  {
+    "id": 256,
+    "data": "2017-11-01",
+    "title": "Bret Victor - Inventing on a Principle (with subtitles !)",
+    "url": "https://www.youtube.com/watch?v=a-OyoVcbwWE&amp;feature=youtu.be",
+    "chanel": "hci"
+  },
+  {
+    "id": 257,
+    "data": "2017-04-14",
+    "title": "5 психологических исследований по восприятию визуальной информации",
+    "url": "http://lpgenerator.ru/blog/2015/12/18/5-psihologicheskih-issledovanij-po-vospriyatiyu-vizualnoj-informacii/",
+    "chanel": "hci"
+  },
+  {
+    "id": 258,
+    "data": "2018-01-27",
+    "title": "Проектирование человеко-машинных интерфейсов — Алексей Незнанов",
+    "url": "https://www.youtube.com/watch?v=nSQKwIbyy1g",
+    "chanel": "hci"
+  },
+  {
+    "id": 259,
+    "data": "2017-06-26",
+    "title": "Акселератор Vive X представил 33 компании из нового потока — Голографика",
+    "url": "http://holographica.space/news/vive-x-10500",
+    "chanel": "general"
+  },
+  {
+    "id": 260,
+    "data": "2016-05-05",
+    "title": "Augmented Reality Animatronic Box Head",
+    "url": "https://www.hackster.io/RONDAGDAG/augmented-reality-animatronic-box-head-50e780?utm_source=Hackster.io+newsletter&utm_campaign=b56adf9b7c-2015_4_17_Top_projects4_16_2015&utm_medium=email&utm_term=0_6ff81e3e5b-b56adf9b7c-140252513",
+    "chanel": "general"
+  },
+  {
+    "id": 261,
+    "data": "2017-02-13",
+    "title": "sue445/gitpeach",
+    "url": "https://github.com/sue445/gitpeach",
+    "chanel": "general"
+  },
+  {
+    "id": 262,
+    "data": "2018-04-06",
+    "title": "Квест в реальности «Шпионская история: Побег из посольства» в Москве от «Indiequest»",
+    "url": "http://mir-kvestov.ru/quests/indie-quest-shpionskaya-istoriya",
+    "chanel": "general"
+  },
+  {
+    "id": 263,
+    "data": "2017-09-25",
+    "title": "Data Science For Business - Certification Program | DataCamp",
+    "url": "https://www.datacamp.com/groups/business",
+    "chanel": "general"
+  },
+  {
+    "id": 264,
+    "data": "2018-03-13",
+    "title": "Интернет-магазин товаров для дома и офиса Комус: купить канцтовары, бумагу, хозтовары, подарки и мебель",
+    "url": "https://www.komus.ru/",
+    "chanel": "general"
+  },
+  {
+    "id": 265,
+    "data": "2018-01-18",
+    "title": "Интернет-магазин товаров для дома и офиса Комус: купить канцтовары, бумагу, хозтовары, подарки и мебель",
+    "url": "https://www.komus.ru/",
+    "chanel": "general"
+  },
+  {
+    "id": 266,
+    "data": "2018-01-23",
+    "title": "Фестиваль Масштабных Увлечений Штука",
+    "url": "http://shtuka.moscow/",
+    "chanel": "general"
+  },
+  {
+    "id": 267,
+    "data": "2016-05-02",
+    "title": "Программное обеспечение для тестирования и наладки устройств и сетей на базе MODBUS",
+    "url": "https://habrahabr.ru/post/281430/",
+    "chanel": "general"
+  },
+  {
+    "id": 268,
+    "data": "2017-12-03",
+    "title": "The transformative power of classical music | Benjamin Zander",
+    "url": "https://www.youtube.com/watch?v=r9LCwI5iErE",
+    "chanel": "general"
+  },
+  {
+    "id": 269,
+    "data": "2018-01-16",
+    "title": "Каталог ИКЕА - Все товары и цены по категориям - IKEA",
+    "url": "http://www.ikea.com/ru/ru/catalog/",
+    "chanel": "general"
+  },
+  {
+    "id": 270,
+    "data": "2017-10-11",
+    "title": "Create free account | DataCamp",
+    "url": "https://www.datacamp.com/groups/6972b9d360e119d181c0845f07499ca375724e75/invite",
+    "chanel": "general"
+  },
+  {
+    "id": 271,
+    "data": "2017-11-06",
+    "title": "ВШБИ-Лекционный день по игровой индустрии в ВШБИ",
+    "url": "http://hsbi.hse.ru/events/open_lectures/lektsionnyy-den-po-igrovoy-industrii-v-vshbi-09-12-2017/#.WgB9kExuKUl",
+    "chanel": "general"
+  },
+  {
+    "id": 272,
+    "data": "2016-11-15",
+    "title": "Moscow Internet of Things Community",
+    "url": "http://meetu.ps/e/C7RJV/kKS0j/d",
+    "chanel": "general"
+  },
+  {
+    "id": 273,
+    "data": "2017-04-24",
+    "title": "Шлем Lenovo на технологиях HoloLens поступит в продажу в начале осени — Голографика",
+    "url": "http://holographica.space/news/lenovo-windows-mixed-reality-9536",
+    "chanel": "general"
+  },
+  {
+    "id": 274,
+    "data": "2017-03-31",
+    "title": "Grab-a-Word - Android Apps on Google Play",
+    "url": "https://play.google.com/store/apps/details?id=com.uwg_mobile",
+    "chanel": "general"
+  },
+  {
+    "id": 275,
+    "data": "2017-11-16",
+    "title": "Welcome to HTCSense.com",
+    "url": "https://www.htcsense.com/login/saml?request=ewogICJJRCIgOiAiYmY4ZGI1YmQtY2Y2ZS00Mzc0LTlmOGEtZWNmZjRkNjgzYjAwIiwKICAiSXNzdWVyIiA6ICJhY2NvdW50Lmh0Y3NlbnNlLmNvbSIsCiAgInRpbWVzdGFtcCIgOiAiMjAxNy0xMS0xNlQxMzoyNjowNFoiLAogICJOb3RPbk9yQWZ0ZXIiIDogIjIwMTctMTEtMTZUMTM6Mjg6MDRaIiwKICAiU2VydmljZVByb3ZpZGVyIiA6ICJjMTY5MTY5OC1jMTU5LTQ5ODgtOWVhNS0zNGMwMTAzZTM0MDEiLAogICJBdXRob3JpdGllcyIgOiBudWxsLAogICJGaWVsZHMiIDogImZuPTEsbG49MSIsCiAgIkNhbGxiYWNrIiA6ICJodHRwczovL3d3dy5odGNzZW5zZS5jb20vJFJBTSQvJFdTJC9TZXJ2aWNlcy9PQXV0aC9BdXRob3JpemUiLAogICJEZXN0aW5hdGlvbiIgOiAiaHR0cHM6Ly93d3cuaHRjc2Vuc2UuY29tL2xvZ2luL3NhbWwiLAogICJWZXJzaW9uIiA6IDIsCiAgIlJlbGF5U3RhdGUiIDogImlpVHZjZVNFY1NIRW16SHNlaVFBbjEvakRlZHNsR0xPNkFLem5pVnFYQkIyRmthSXFicHpSKzEyY3BYY2pnMjllVUtIZE0vNVY5QzQ1VmhFQUtPcmxtdlQ1UTFpSHJTVnBQbmQ4MUZIZFVZPSIsCiAgIkkxOG5JZCIgOiAiaHRjdml2ZWh1YiIsCiAgIlZpZXdUeXBlIiA6ICJyZWRpcmVjdCIKfQ%3D%3D&sigalg=SHA1withRSA&signature=XAIyl5ydxD1DoikbSDUJLE2Zi9oJjtXdjggmEo3bA83CH02a%2FjRUmR304hNsRMfZYm2WAiy%2BjDzJg%2BuBVhSs%2FVyk7aS8E81V%2B%2BYxNHGcO%2BdgyF1lG5f3nH3mQJnyl4SuvbLVNcQ%2B5LW8G2zuDZkXa%2F%2B7dUFFLLGda8tgSwq2iWH99VIWAUTE%2BgV9RoGB2pjU2pVWWN0YV5ekCLPthCA5hwXWFZsCA5Qj0R9%2BaO3aJpsg2fBF1SkZIlat7HRSRGPCjmexCie71EyXGyOoHnP%2F%2Fq%2FRzWsCN6GzkuYY7qKFk27rpkhBK0MUdGIOefUPdBtWZzZNvePNiJGAC%2B2JGGVq3A%3D%3D",
+    "chanel": "general"
+  },
+  {
+    "id": 276,
+    "data": "2017-05-15",
+    "title": "http://numi.io ‒ Beautiful calculator for Mac",
+    "url": "https://numi.io/",
+    "chanel": "general"
+  },
+  {
+    "id": 277,
+    "data": "2017-04-02",
+    "title": "MATLAB R2014b (8.04) 150421 (x64) MAC OS :: RuTracker.org",
+    "url": "https://rutracker.org/forum/viewtopic.php?t=4887900",
+    "chanel": "general"
+  },
+  {
+    "id": 278,
+    "data": "2018-03-20",
+    "title": "Мой заказ в интернет-магазине www.nix.ru",
+    "url": "http://www.nix.ru/scripts/2basket.php?ssid_override=975c0894286911e889e3002590c35102",
+    "chanel": "general"
+  },
+  {
+    "id": 279,
+    "data": "2017-12-08",
+    "title": "Evolution of NVIDIA GeForce 1999-2017",
+    "url": "https://www.youtube.com/watch?v=6MmiaqK342c",
+    "chanel": "cg"
+  },
+  {
+    "id": 280,
+    "data": "2018-02-22",
+    "title": "Oil Pipes Version 1.0 - Asset Store",
+    "url": "https://assetstore.unity.com/packages/3d/props/industrial/oil-pipes-version-1-0-69821",
+    "chanel": "cg"
+  },
+  {
+    "id": 281,
+    "data": "2018-03-19",
+    "title": "Campo Santo",
+    "url": "http://blog.camposanto.com/post/171934927979/hi-im-matt-wilde-an-old-man-from-the-north-of",
+    "chanel": "cg"
+  },
+  {
+    "id": 282,
+    "data": "2017-12-24",
+    "title": null,
+    "url": "https://twitter.com/klemen_lozar/status/944615543671209984",
+    "chanel": "cg"
+  },
+  {
+    "id": 283,
+    "data": "2018-03-15",
+    "title": null,
+    "url": "https://twitter.com/ompuco/status/974434049501544448?s=21",
+    "chanel": "cg"
+  },
+  {
+    "id": 284,
+    "data": "2018-02-03",
+    "title": "Как рассказывать истории в 2018 году (часть 1) — Оди",
+    "url": "https://awdee.ru/how-to-tell-stories/",
+    "chanel": "cg"
+  },
+  {
+    "id": 285,
+    "data": "2017-12-13",
+    "title": "СОЗДАНИЕ ВИЗУАЛЬНОЙ ИСТОРИИ ЧЕРЕЗ ENVIRONMENT DESIGN",
+    "url": "http://telegra.ph/SOZDANIE-VIZUALNOJ-ISTORII-CHEREZ-ENVIRONMENT-DESIGN-12-11",
+    "chanel": "cg"
+  },
+  {
+    "id": 286,
+    "data": "2018-01-29",
+    "title": "10 советов, как прокачать навык моделирования анатомии",
+    "url": "http://telegra.ph/10-sovetov-kak-prokachat-navyk-modelirovaniya-anatomii-01-29",
+    "chanel": "cg"
+  },
+  {
+    "id": 287,
+    "data": "2017-11-15",
+    "title": "Теория компьютерной графики - #1",
+    "url": "http://telegra.ph/Teoriya-kompyuternoj-grafiki---1-11-14",
+    "chanel": "cg"
+  },
+  {
+    "id": 288,
+    "data": "2018-04-06",
+    "title": "Substance in Unity - Asset Store",
+    "url": "https://assetstore.unity.com/packages/tools/utilities/substance-in-unity-110555?utm_campaign=as_global_newsletter_180406-A%24-Newsletter-P05&utm_content=180406-glb-as-news-%2305-em&utm_medium=email&utm_source=Eloqua",
+    "chanel": "cg"
+  },
+  {
+    "id": 289,
+    "data": "2018-03-22",
+    "title": "Microsoft анонсировала API трассировки лучей DirectX Raytracing",
+    "url": "https://habrahabr.ru/post/351554/",
+    "chanel": "cg"
+  },
+  {
+    "id": 290,
+    "data": "2017-12-25",
+    "title": "SENTiNEL (A Sci-Fi Short Film)",
+    "url": "https://www.youtube.com/watch?v=gaiX1W8GjpM&amp;feature=youtu.be",
+    "chanel": "cg"
+  },
+  {
+    "id": 291,
+    "data": "2018-03-18",
+    "title": "Нейросеть улучшила рендеринг меха",
+    "url": "https://nplus1.ru/news/2018/02/22/fur",
+    "chanel": "cg"
+  },
+  {
+    "id": 292,
+    "data": "2017-10-29",
+    "title": "Как рендерит кадр движок Unreal Engine",
+    "url": "https://habrahabr.ru/post/341080/",
+    "chanel": "cg"
+  },
+  {
+    "id": 293,
+    "data": "2017-10-05",
+    "title": "Waillee by Prismbeings (4k intro)",
+    "url": "https://www.youtube.com/watch?v=CDDedA-x2-k",
+    "chanel": "cg"
+  },
+  {
+    "id": 294,
+    "data": "2018-01-14",
+    "title": "“Loch Ness“ PRE-SAFE® Impulse side – E-Class TV commercial – Mercedes-Benz original",
+    "url": "https://www.youtube.com/watch?v=DMFhM4ZfRRE",
+    "chanel": "cg"
+  },
+  {
+    "id": 295,
+    "data": "2017-12-18",
+    "title": "        Эстетика игрового искусства - gamehaze ",
+    "url": "http://gamehaze.ru/aesthetics/",
+    "chanel": "cg"
+  },
+  {
+    "id": 296,
+    "data": "2018-04-20",
+    "title": "180420_сценарий Teramont.docx",
+    "url": "https://yadi.sk/i/QQxSMp1Z3UbfBM",
+    "chanel": "cg"
+  },
+  {
+    "id": 297,
+    "data": "2017-12-19",
+    "title": "The Ultimate Guide to Learning 3D – Prototypr",
+    "url": "https://blog.prototypr.io/the-ultimate-guide-to-learning-3d-e69a3a64231e",
+    "chanel": "cg"
+  },
+  {
+    "id": 298,
+    "data": "2018-01-15",
+    "title": "Shadertoy",
+    "url": "https://www.shadertoy.com/view/4djGzz",
+    "chanel": "cg"
+  },
+  {
+    "id": 299,
+    "data": "2018-02-05",
+    "title": "Instagram post by Alessio De Vecchi • Jan 23, 2018 at 5:28pm UTC",
+    "url": "https://www.instagram.com/p/BeTOQLJnNJ-/?taken-by=alessiodevecchi",
+    "chanel": "cg"
+  },
+  {
+    "id": 300,
+    "data": "2017-10-12",
+    "title": "Real-Time Graphics in Pixar Film Production",
+    "url": "https://vimeo.com/180966864",
+    "chanel": "cg"
+  },
+  {
+    "id": 301,
+    "data": "2017-11-13",
+    "title": "Создание концепт-артов в 3D",
+    "url": "https://habrahabr.ru/post/342172/",
+    "chanel": "cg"
+  },
+  {
+    "id": 302,
+    "data": "2018-04-15",
+    "title": "AI stuntpeople could lead to more realistic video games",
+    "url": "https://www.engadget.com/amp/2018/04/11/ai-teaches-itself-stunts/",
+    "chanel": "cg"
+  },
+  {
+    "id": 303,
+    "data": "2018-03-11",
+    "title": "Советы для создания environment в стиле sci-fi",
+    "url": "http://telegra.ph/Sovety-dlya-sozdaniya-environment-v-stile-sci-fi-03-02",
+    "chanel": "cg"
+  },
+  {
+    "id": 304,
+    "data": "2018-04-18",
+    "title": "Vicon real time avatar rendering demo at GDC 2018",
+    "url": "https://www.youtube.com/watch?time_continue=1&amp;v=-vQpc8iYdWc",
+    "chanel": "cg"
+  },
+  {
+    "id": 305,
+    "data": "2018-01-17",
+    "title": "Book of the Dead",
+    "url": "https://unity3d.com/ru/book-of-the-dead",
+    "chanel": "cg"
+  },
+  {
+    "id": 306,
+    "data": "2018-03-21",
+    "title": "How Pixar created its most complex character yet for 'Finding Dory' (CNET News)",
+    "url": "https://www.youtube.com/watch?v=Nn0S2vmSCU0",
+    "chanel": "cg"
+  },
+  {
+    "id": 307,
+    "data": "2018-04-25",
+    "title": "Подборка полезных CG-каналов YouTube",
+    "url": "http://telegra.ph/Podborka-poleznyh-CG-kanalov-YouTube-04-12",
+    "chanel": "cg"
+  },
+  {
+    "id": 308,
+    "data": "2017-10-21",
+    "title": "Best render ever! Pause 2017 Opening Titles! Cinema 4D with Octane Render!",
+    "url": "https://www.youtube.com/watch?v=UEzJ-Ckl7co",
+    "chanel": "cg"
+  },
+  {
+    "id": 309,
+    "data": "2018-01-10",
+    "title": "CG News",
+    "url": "https://t.me/cgnews",
+    "chanel": "cg"
+  },
+  {
+    "id": 310,
+    "data": "2018-01-06",
+    "title": "Параллельная сортировка данных в GPU",
+    "url": "https://habrahabr.ru/post/345824/",
+    "chanel": "cg"
+  },
+  {
+    "id": 311,
+    "data": "2018-03-16",
+    "title": "Joost Vanhoutte on Cubebrush.co",
+    "url": "https://cubebrush.co/joost",
+    "chanel": "cg"
+  },
+  {
+    "id": 312,
+    "data": "2017-11-01",
+    "title": "Искусственный интеллект впервые создал спецэффекты для музыкального видео",
+    "url": "https://hi-news.ru/entertainment/iskusstvennyj-intellekt-vpervye-sozdal-speceffekty-dlya-muzykalnogo-video.html",
+    "chanel": "cg"
+  },
+  {
+    "id": 313,
+    "data": "2018-02-01",
+    "title": "3D Scan Store",
+    "url": "http://www.3dscanstore.com/index.php/default/free-samples/free-male-skull-3d-scan.html",
+    "chanel": "cg"
+  },
+  {
+    "id": 314,
+    "data": "2018-02-21",
+    "title": "HQ Modular Pipe Pack - Asset Store",
+    "url": "https://assetstore.unity.com/packages/3d/props/industrial/hq-modular-pipe-pack-70776",
+    "chanel": "cg"
+  },
+  {
+    "id": 315,
+    "data": "2017-12-05",
+    "title": "Аквапарк | Общественно-культурный центр \"Галактика\"",
+    "url": "http://galaxy-centre.ru/aquapark/",
+    "chanel": "holidays"
+  },
+  {
+    "id": 316,
+    "data": "2017-12-18",
+    "title": "1712_сочифорния",
+    "url": "https://yadi.sk/d/7F3RjRsk3Qfwmo",
+    "chanel": "holidays"
+  },
+  {
+    "id": 317,
+    "data": "2017-11-30",
+    "title": "Прокат горных лыж в Красной Поляне, Сочи. Лыжи на прокат в Красной поляне, горнолыжное оборудование в аренду         в Розе Хутор с доставкой в отель | GetSki",
+    "url": "https://getski.me",
+    "chanel": "holidays"
+  },
+  {
+    "id": 318,
+    "data": "2017-04-21",
+    "title": "Ops 4.0: Fueling the next 20 percent productivity rise with digital analytics",
+    "url": "https://goo.gl/QhaV5l",
+    "chanel": "business"
+  },
+  {
+    "id": 319,
+    "data": "2017-05-16",
+    "title": "Лаборатория общего будущего",
+    "url": "http://hbr-russia.ru/innovatsii/upravlenie-innovatsiyami/a19191/",
+    "chanel": "business"
+  },
+  {
+    "id": 320,
+    "data": "2017-04-01",
+    "title": "TOP_101_Growth_Hacks_-_by_Aladdin_Happy.pdf",
+    "url": "https://goo.gl/HDh3lm",
+    "chanel": "business"
+  },
+  {
+    "id": 321,
+    "data": "2017-04-16",
+    "title": "«Мегафон» за три месяца продал около 40 000 комплектов для умного дома",
+    "url": "https://www.vedomosti.ru/technology/articles/2017/04/14/685644-megafon-prodal",
+    "chanel": "business"
+  },
+  {
+    "id": 322,
+    "data": "2017-04-11",
+    "title": "КРОК создал профессиональную VR-систему для групповой работы специалистов сферы проектирования",
+    "url": "https://www.crn.ru/news/detail.php?ID=118441",
+    "chanel": "business"
+  },
+  {
+    "id": 323,
+    "data": "2017-05-26",
+    "title": "David Yang",
+    "url": "https://www.facebook.com/david.yang.528/posts/1416034345102092",
+    "chanel": "business"
+  },
+  {
+    "id": 324,
+    "data": "2017-04-26",
+    "title": "Открытый проект EdgeX Foundry обеспечит функциональную совместимость IoT-устройств",
+    "url": "https://www.pcweek.ru/iot/article/detail.php?ID=194908",
+    "chanel": "business"
+  },
+  {
+    "id": 325,
+    "data": "2017-04-29",
+    "title": "The Early Pitch Decks Of 10 Startups Before They Became Billion-Dollar Companies",
+    "url": "https://www.cbinsights.com/blog/billion-dollar-startup-pitch-decks/",
+    "chanel": "business"
+  },
+  {
+    "id": 326,
+    "data": "2017-04-09",
+    "title": "8 — 9 апреля",
+    "url": "http://www.the-village.ru/village/weekend/broadcasting/247815-8-9-aprelya?utm_source=facebook.com&utm_medium=social&utm_campaign=frenk-oushen-predstavil-novyy-singl--bik&utm_content=6112744#wtf_597909",
+    "chanel": "business"
+  },
+  {
+    "id": 327,
+    "data": "2017-05-05",
+    "title": "Save Water Mirror — Page 2",
+    "url": "http://www.savewatermirror.com/2/",
+    "chanel": "business"
+  },
+  {
+    "id": 328,
+    "data": "2017-04-04",
+    "title": "Everything Is Digital: Ten HR and Talent Predictions for 2020",
+    "url": "https://www.slideshare.net/mobile/jbersin/everything-is-digital-ten-hr-and-talent-predictions-for-2020",
+    "chanel": "business"
+  },
+  {
+    "id": 329,
+    "data": "2017-04-23",
+    "title": "VRLA Expo 2017",
+    "url": "http://www.virtualrealityla.com/",
+    "chanel": "business"
+  },
+  {
+    "id": 330,
+    "data": "2017-04-14",
+    "title": "Arkady Moreynis",
+    "url": "https://www.facebook.com/amoreynis/posts/10154193174236511",
+    "chanel": "business"
+  },
+  {
+    "id": 331,
+    "data": "2017-04-18",
+    "title": "«Большим данным» и «интернету вещей» пропишут стандарт",
+    "url": "http://izvestia.ru/news/686018",
+    "chanel": "business"
+  },
+  {
+    "id": 332,
+    "data": "2017-03-01",
+    "title": "2017 Features | Unreal Engine",
+    "url": "https://www.youtube.com/watch?v=WC6Xx_jLXmg&amp;feature=share",
+    "chanel": "cps-frontend"
+  },
+  {
+    "id": 333,
+    "data": "2017-04-17",
+    "title": "CeBIT`2017: Huawei приближает цифровую трансформацию",
+    "url": "https://www.pcweek.ru/infrastructure/article/detail.php?ID=194249&param=mail",
+    "chanel": "cps-hardware"
+  },
+  {
+    "id": 334,
+    "data": "2017-05-10",
+    "title": "Huawei и Google сделали мощный одноплатный ARM-компьютер",
+    "url": "http://amp.gs/tSn5",
+    "chanel": "cps-hardware"
+  },
+  {
+    "id": 335,
+    "data": "2017-04-10",
+    "title": "В Google добавят ума Raspberry Pi",
+    "url": "https://www.osp.ru/cw/2017/2/13051507/",
+    "chanel": "cps-hardware"
+  },
+  {
+    "id": 336,
+    "data": "2017-03-27",
+    "title": "Arduino Data Glasses for Multimeter",
+    "url": "https://www.youtube.com/watch?v=lkl6yVauCKg",
+    "chanel": "cps-hardware"
+  },
+  {
+    "id": 337,
+    "data": "2017-05-21",
+    "title": "60+ science fiction books on virtual reality – Haptical",
+    "url": "https://haptic.al/best-virtual-reality-science-fiction-books-7cf05dba0b9a",
+    "chanel": "books"
+  },
+  {
+    "id": 338,
+    "data": "2017-05-23",
+    "title": "Пять книг для тех, кто интересуется будущим дизайна",
+    "url": "https://vc.ru/p/fastcompany-books",
+    "chanel": "books"
+  },
+  {
+    "id": 339,
+    "data": "2018-02-19",
+    "title": "Xsens Video Tutorials",
+    "url": "https://tutorial.xsens.com/video/importing-into-unity",
+    "chanel": "project-heptral-ar"
+  },
+  {
+    "id": 340,
+    "data": "2018-03-11",
+    "title": "CGPersia Forums",
+    "url": "https://forum.cgpersia.com/f19/ikinema-orion-mocap-htc-vive-162189/",
+    "chanel": "project-heptral-ar"
+  },
+  {
+    "id": 341,
+    "data": "2017-12-08",
+    "title": "ANSYS Discovery Live: Instant Simulation Results",
+    "url": "http://www.ansys.com/products/3d-design/ansys-discovery-live?mkt_tok=eyJpIjoiWVRnek9HUTRaR0psT0dNeCIsInQiOiI3TFhMYmxjeVwvSU1iZzhpZVNZVVRlYW5zTmYzalNtd1BGVkhpbFNIbFN3NGZ0MTRXNkhaQXZYY1pnbU5ERUdrR0NNeHlQN3dDUUtoOXR2d000N0grZzBnUmRKRnpwMWNkSEo2ZkJwcUxqbXliVkVSMmtCSFE5RWdRZllnQXdRTFQifQ%3D%3D",
+    "chanel": "math"
+  },
+  {
+    "id": 342,
+    "data": "2018-03-15",
+    "title": "Геологи картировали подводный вулкан во время извержения",
+    "url": "https://nplus1.ru/news/2018/03/15/submarine-volcano",
+    "chanel": "math"
+  },
+  {
+    "id": 343,
+    "data": "2018-01-28",
+    "title": "Python для обучения научной информатике: Моделирование систем массового обслуживания",
+    "url": "https://habrahabr.ru/post/347406/",
+    "chanel": "math"
+  },
+  {
+    "id": 344,
+    "data": "2017-11-03",
+    "title": "Прекрасные чудовища математики",
+    "url": "https://geektimes.ru/post/294963/",
+    "chanel": "math"
+  },
+  {
+    "id": 345,
+    "data": "2018-04-10",
+    "title": "Отчаянный поиск квадрокруга",
+    "url": "https://habrahabr.ru/post/353082/",
+    "chanel": "math"
+  },
+  {
+    "id": 346,
+    "data": "2018-01-29",
+    "title": "ПК обогнал суперкомпьютеры в решении задачи трехчастичного рассеяния",
+    "url": "https://vk.com/@physics_math-pk-obognal-superkomputery-v-reshenii-zadachi-trehchastichnog",
+    "chanel": "math"
+  },
+  {
+    "id": 347,
+    "data": "2018-03-22",
+    "title": "Куда движется математика?. Введение",
+    "url": "http://elementy.ru/nauchno-populyarnaya_biblioteka/164681/164682",
+    "chanel": "math"
+  },
+  {
+    "id": 348,
+    "data": "2018-04-01",
+    "title": "Использование библиотеки Python Control Systems Library для проектирования систем автоматического управления",
+    "url": "https://habrahabr.ru/post/352492/",
+    "chanel": "math"
+  },
+  {
+    "id": 349,
+    "data": "2018-02-28",
+    "title": "Virtualitics -",
+    "url": "https://www.virtualitics.com/#contact",
+    "chanel": "math"
+  },
+  {
+    "id": 350,
+    "data": "2018-03-13",
+    "title": "Астрономы построили трехмерную модель солнечной ударной волны",
+    "url": "https://nplus1.ru/news/2018/03/12/cme-model",
+    "chanel": "math"
+  },
+  {
+    "id": 351,
+    "data": "2018-03-29",
+    "title": "VIDILabs/ImsvGraphVis",
+    "url": "https://github.com/VIDILabs/ImsvGraphVis",
+    "chanel": "math"
+  },
+  {
+    "id": 352,
+    "data": "2018-03-09",
+    "title": "Нейронные сети: наиболее полные и понятные видеолекции",
+    "url": "https://proglib.io/p/plain-neural-networks/",
+    "chanel": "math"
+  },
+  {
+    "id": 353,
+    "data": "2017-12-18",
+    "title": "Решение задачи оптимизации многоступенчатых ракет",
+    "url": "https://habrahabr.ru/post/344280/",
+    "chanel": "math"
+  },
+  {
+    "id": 354,
+    "data": "2018-05-01",
+    "title": "Optis рассказала о том, как VR симуляции могут улучшить производство",
+    "url": "http://telegra.ph/Optis-rasskazala-o-tom-kak-VR-simulyacii-mogut-uluchshit-proizvodstvo-05-01",
+    "chanel": "math"
+  },
+  {
+    "id": 355,
+    "data": "2018-04-16",
+    "title": "Программирование метода конечных элементов",
+    "url": "https://habrahabr.ru/post/344564/",
+    "chanel": "math"
+  },
+  {
+    "id": 356,
+    "data": "2018-03-12",
+    "title": "MathOps или математика в мониторинге",
+    "url": "https://habrahabr.ru/company/okmeter/blog/350666/",
+    "chanel": "math"
+  },
+  {
+    "id": 357,
+    "data": "2018-02-06",
+    "title": "How_to_write_a_maths_article_in_English.doc",
+    "url": "https://yadi.sk/i/1M65pZSU3SAMP4/",
+    "chanel": "math"
+  },
+  {
+    "id": 358,
+    "data": "2017-12-21",
+    "title": "Динамическая идентификация объектов управления",
+    "url": "https://habrahabr.ru/post/345198/",
+    "chanel": "math"
+  },
+  {
+    "id": 359,
+    "data": "2017-10-10",
+    "title": "А. Пуанкаре. Математическое творчество",
+    "url": "http://telegra.ph/A-Puankare-Matematicheskoe-tvorchestvo-09-27",
+    "chanel": "math"
+  },
+  {
+    "id": 360,
+    "data": "2017-10-21",
+    "title": "“Без data engineer-а ценность модели аналитика стремится к нулю” — интервью с дата инженером Николаем Марковым",
+    "url": "https://habrahabr.ru/company/newprolab/blog/340582/",
+    "chanel": "math"
+  },
+  {
+    "id": 361,
+    "data": "2017-12-06",
+    "title": "10 скрытых особенностей в Python, о которых вы могли не знать",
+    "url": "https://proglib.io/p/hidden-features-of-python/",
+    "chanel": "math"
+  },
+  {
+    "id": 362,
+    "data": "2018-01-27",
+    "title": "The Art of Effective Visualization of Multi-dimensional Data",
+    "url": "https://towardsdatascience.com/the-art-of-effective-visualization-of-multi-dimensional-data-6c7202990c57",
+    "chanel": "math"
+  },
+  {
+    "id": 363,
+    "data": "2017-11-05",
+    "title": "Opensource контроллер умного дома на базе Arduino Mega 2560 с поддержкой MQTT, DMX-512, 1-Wire, Modbus и Openhab",
+    "url": "https://geektimes.ru/post/295109/",
+    "chanel": "iot"
+  },
+  {
+    "id": 364,
+    "data": "2017-10-30",
+    "title": "Приручение дикой зверушки: добавляем поддержку Homekit в «умную розетку» Redmond SkyPlug RSP-100S",
+    "url": "https://geektimes.ru/post/294695/",
+    "chanel": "iot"
+  },
+  {
+    "id": 365,
+    "data": "2017-12-04",
+    "title": "iOS Tutorial: Want your Swift app to scroll in two directions, like Netflix? Here's how. - Thorn Technologies",
+    "url": "https://www.thorntech.com/2015/08/want-your-swift-app-to-scroll-in-two-directions-like-netflix-heres-how/",
+    "chanel": "dev-ios"
+  },
+  {
+    "id": 366,
+    "data": "2018-04-10",
+    "title": "olucurious/Awesome-ARKit",
+    "url": "https://github.com/olucurious/Awesome-ARKit",
+    "chanel": "dev-ios"
+  },
+  {
+    "id": 367,
+    "data": "2018-04-26",
+    "title": "Progressive Web Apps on iOS are here :rocket: – Maximiliano Firtman – Medium",
+    "url": "https://medium.com/@firt/progressive-web-apps-on-ios-are-here-d00430dee3a7",
+    "chanel": "dev-ios"
+  },
+  {
+    "id": 368,
+    "data": "2018-04-17",
+    "title": "Machine Learning for iOS",
+    "url": "http://alexsosn.github.io/ml/2015/11/05/iOS-ML.html",
+    "chanel": "dev-ios"
+  },
+  {
+    "id": 369,
+    "data": "2018-02-12",
+    "title": "27 iOS open source libraries to skyrocket your development.",
+    "url": "https://medium.com/app-coder-io/27-ios-open-source-libraries-to-skyrocket-your-development-301b67d3124c",
+    "chanel": "dev-ios"
+  },
+  {
+    "id": 370,
+    "data": "2017-11-08",
+    "title": "Swift Functional Programming Tutorial - Ray Wenderlich",
+    "url": "https://www.raywenderlich.com/82599/swift-functional-programming-tutorial",
+    "chanel": "dev-ios"
+  },
+  {
+    "id": 371,
+    "data": "2018-03-25",
+    "title": "futurice/ios-good-practices",
+    "url": "https://github.com/futurice/ios-good-practices",
+    "chanel": "dev-ios"
+  },
+  {
+    "id": 372,
+    "data": "2017-11-20",
+    "title": "Туториал: Сравнение ReactiveCocoa и RxSwift",
+    "url": "https://swiftbook.ru/content/tutorials/reactiveCocoa-RxSwift",
+    "chanel": "dev-ios"
+  },
+  {
+    "id": 373,
+    "data": "2017-12-10",
+    "title": "How to create constraints in code.",
+    "url": "https://theswiftlibrary.com/create-constraints-in-code?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=AppCoda",
+    "chanel": "dev-ios"
+  },
+  {
+    "id": 374,
+    "data": "2018-04-24",
+    "title": "hanleyweng/Gesture-Recognition-101-CoreML-ARKit",
+    "url": "https://github.com/hanleyweng/Gesture-Recognition-101-CoreML-ARKit",
+    "chanel": "dev-ios"
+  },
+  {
+    "id": 375,
+    "data": "2018-04-17",
+    "title": "Введение в геймдизайн: Основные понятия и принципы проектирования игр",
+    "url": "https://vc.ru/10495-gamedev-challenges",
+    "chanel": "gamedev"
+  },
+  {
+    "id": 376,
+    "data": "2018-04-21",
+    "title": "Как балансируются настольные и разные другие игры – краткий обзор способов",
+    "url": "https://m.habrahabr.ru/company/mosigra/blog/278095/",
+    "chanel": "gamedev"
+  },
+  {
+    "id": 377,
+    "data": "2018-04-18",
+    "title": "Основы сценария и диздока. - Создание игр  - Каталог статей - Создание игр",
+    "url": "https://gcup.ru/publ/gamedev/osnovy_scenarija_i_dizdoka/1-1-0-229",
+    "chanel": "gamedev"
+  },
+  {
+    "id": 378,
+    "data": "2018-02-22",
+    "title": "Lens Studio - Lens Studio by Snap Inc.",
+    "url": "https://lensstudio.snapchat.com/",
+    "chanel": "hackathon"
+  },
+  {
+    "id": 379,
+    "data": "2018-02-20",
+    "title": "В Госдуме предлагают создать министерство новых технологий и виртуальной реальности",
+    "url": "https://russian.rt.com/russia/news/484054-ministerstvo-virtualnoi-realnosti?utm_source=telegram&utm_medium=smm&utm_campaign=skolkovoleaks",
+    "chanel": "hackathon"
+  },
+  {
+    "id": 380,
+    "data": "2017-02-26",
+    "title": "MySQL и MongoDB — когда и что лучше использовать",
+    "url": "https://habrahabr.ru/post/322532/",
+    "chanel": "cps-server"
+  },
+  {
+    "id": 381,
+    "data": "2017-07-31",
+    "title": "Facebook закрыл систему искусственного интеллекта, придумавшую собственный язык",
+    "url": "https://incrussia.ru/news/facebook-zakryl-sistemu-iskusstvennogo-intellekta-posle-togo-kak-algoritmy-pridumali-sobstvennyj-yazyk/",
+    "chanel": "ml"
+  },
+  {
+    "id": 382,
+    "data": "2017-08-02",
+    "title": "ИИ Nvidia создает трехмерную графику лучше, чем 3D-художники",
+    "url": "https://hightech.fm/2017/08/01/Nvidia?utm_source=telegram&utm_campaign=online_channel",
+    "chanel": "ml"
+  },
+  {
+    "id": 383,
+    "data": "2018-01-24",
+    "title": "«День знаний» для ИИ: опубликован ТОП30 самых впечатляющих проектов по машинному обучению за прошедший год (v.2018)",
+    "url": "https://habrahabr.ru/company/cloud4y/blog/346968/",
+    "chanel": "ml"
+  },
+  {
+    "id": 384,
+    "data": "2018-03-19",
+    "title": "Python’ом по машинлернингу",
+    "url": "https://habrahabr.ru/company/microsoft/blog/343670/",
+    "chanel": "ml"
+  },
+  {
+    "id": 385,
+    "data": "2017-07-27",
+    "title": null,
+    "url": "https://maasproduction.slack.com/archives/C4SHU8T2R/p1500924071036910",
+    "chanel": "ml"
+  },
+  {
+    "id": 386,
+    "data": "2018-01-08",
+    "title": "Добро пожаловать в эру глубокой нейроэволюции",
+    "url": "https://habrahabr.ru/post/345950/",
+    "chanel": "ml"
+  },
+  {
+    "id": 387,
+    "data": "2017-06-26",
+    "title": "Meet the Researcher: My Vision for IBM's AI Supercomputing System",
+    "url": "https://www.youtube.com/watch?v=jqI0L44yFEo",
+    "chanel": "ml"
+  },
+  {
+    "id": 388,
+    "data": "2018-02-18",
+    "title": "Как устроена Алиса. Лекция Яндекса",
+    "url": "https://m.habrahabr.ru/company/yandex/blog/349372/",
+    "chanel": "ml"
+  },
+  {
+    "id": 389,
+    "data": "2017-05-20",
+    "title": "Minimalistic Learning Path to Become a Data Scientist",
+    "url": "https://hackernoon.com/minimalistic-learning-path-to-become-a-data-scientist-c0a4f614bd09",
+    "chanel": "ml"
+  },
+  {
+    "id": 390,
+    "data": "2017-06-30",
+    "title": "Unity Reinforcement Learning Demo",
+    "url": "https://www.youtube.com/watch?v=fiQsmdwEGT8",
+    "chanel": "ml"
+  },
+  {
+    "id": 391,
+    "data": "2018-03-15",
+    "title": "Navigating city streets",
+    "url": "https://www.youtube.com/watch?v=fbWeKhAPMig",
+    "chanel": "ml"
+  },
+  {
+    "id": 392,
+    "data": "2018-01-28",
+    "title": "10 Machine Learning Algorithms You need to Know – Towards Data Science",
+    "url": "https://towardsdatascience.com/10-machine-learning-algorithms-you-need-to-know-77fb0055fe0",
+    "chanel": "ml"
+  },
+  {
+    "id": 393,
+    "data": "2017-10-15",
+    "title": "Забудьте про Илона – прогноз для бизнеса на основе искусственного интеллекта не такой уж и страшный",
+    "url": "https://geektimes.ru/post/294357/",
+    "chanel": "ml"
+  },
+  {
+    "id": 394,
+    "data": "2018-02-03",
+    "title": "Pinterest’s Visual Lens: How computer vision explores your taste",
+    "url": "https://towardsdatascience.com/pinterests-visual-lens-how-computer-vision-explores-your-taste-5470f87502ad",
+    "chanel": "ml"
+  },
+  {
+    "id": 395,
+    "data": "2018-02-15",
+    "title": "Для борьбы со смертельными инфекциями врачи используют машинное обучение",
+    "url": "https://m.geektimes.ru/post/298187/",
+    "chanel": "ml"
+  },
+  {
+    "id": 396,
+    "data": "2017-05-17",
+    "title": "Neural network-based technology helps smartphones augment any object",
+    "url": "https://haptic.al/neural-network-based-technology-helps-smartphones-augment-any-object-f16e1e41195f?utm_content=buffer91684&gi=5a6427064395",
+    "chanel": "ml"
+  },
+  {
+    "id": 397,
+    "data": "2018-03-14",
+    "title": "junyanz/iGAN",
+    "url": "https://github.com/junyanz/iGAN?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more",
+    "chanel": "ml"
+  },
+  {
+    "id": 398,
+    "data": "2017-11-15",
+    "title": "Готовим данные для анализа правильно",
+    "url": "https://habrahabr.ru/post/342366/",
+    "chanel": "ml"
+  },
+  {
+    "id": 399,
+    "data": "2017-12-05",
+    "title": "Системы ИИ научились создавать умные модели для ML: дайджест для начинающих",
+    "url": "https://habrahabr.ru/company/1cloud/blog/343762/",
+    "chanel": "ml"
+  },
+  {
+    "id": 400,
+    "data": "2018-03-22",
+    "title": null,
+    "url": "https://twitter.com/naotokui_en/status/963310211950772224",
+    "chanel": "ml"
+  },
+  {
+    "id": 401,
+    "data": "2017-05-21",
+    "title": "AI Grant",
+    "url": "https://aigrant.org/",
+    "chanel": "ml"
+  },
+  {
+    "id": 402,
+    "data": "2017-10-18",
+    "title": "Intel предложила математические правила безопасности для беспилотных автомобилей вместо обучения нейросети",
+    "url": "https://geektimes.ru/post/294513/",
+    "chanel": "ml"
+  },
+  {
+    "id": 403,
+    "data": "2018-04-26",
+    "title": "miso-belica/sumy",
+    "url": "https://github.com/miso-belica/sumy",
+    "chanel": "ml"
+  },
+  {
+    "id": 404,
+    "data": "2017-09-14",
+    "title": "Data Science For Business - Certification Program | DataCamp",
+    "url": "https://www.datacamp.com/groups/business",
+    "chanel": "ml"
+  },
+  {
+    "id": 405,
+    "data": "2017-10-22",
+    "title": "AlphaGo Zero: Learning from scratch | DeepMind",
+    "url": "https://deepmind.com/blog/alphago-zero-learning-scratch/",
+    "chanel": "ml"
+  },
+  {
+    "id": 406,
+    "data": "2018-03-18",
+    "title": "Новый многозадачный ИИ DeepMind учится с рекордной скоростью",
+    "url": "https://m.hightech.fm/2018/02/13/deepmind-games?utm_source=telegram&utm_campaign=online_channel",
+    "chanel": "ml"
+  },
+  {
+    "id": 407,
+    "data": "2018-01-25",
+    "title": "Обнаружение лиц на видео с помощью Movidius Neural Compute Stick",
+    "url": "https://habrahabr.ru/post/347438/",
+    "chanel": "ml"
+  },
+  {
+    "id": 408,
+    "data": "2017-12-09",
+    "title": "Как я придумывал и применял формат хранения результатов экспериментов Measurelook",
+    "url": "https://habrahabr.ru/post/344174/",
+    "chanel": "ml"
+  },
+  {
+    "id": 409,
+    "data": "2018-04-01",
+    "title": "OpenAI Research",
+    "url": "https://openai.com/research/",
+    "chanel": "ml"
+  },
+  {
+    "id": 410,
+    "data": "2017-06-16",
+    "title": "Machine Learning Automation for Predictive Modeling | DataRobot",
+    "url": "https://www.datarobot.com/",
+    "chanel": "ml"
+  },
+  {
+    "id": 411,
+    "data": "2018-02-28",
+    "title": "Как подготовить бизнес к использованию искусственного интеллекта",
+    "url": "https://community.hpe.com/t5/ИТ-для-нового-стиля-бизнеса/Как-подготовить-бизнес-к-использованию-искусственного-интеллекта/ba-p/6995774?AssetID=560117008&DIMID=EMID_AE49736C37AE9E4B42615C7F9D3A5047&em_taw_RU_feb18_eg-xbu_1480454_hpc_ru_1697653_0=&jumpid=em_awtsr7vq3n_AID-510381208&mrm=1-4BVUP#.WpPSCGaB3BI",
+    "chanel": "ml"
+  },
+  {
+    "id": 412,
+    "data": "2017-05-06",
+    "title": "The Simple, Economic Value of Artificial Intelligence",
+    "url": "http://blog.irvingwb.com/blog/2017/04/predictions-judgement-and-decisions.html",
+    "chanel": "ml"
+  },
+  {
+    "id": 413,
+    "data": "2017-09-25",
+    "title": "Open Data Science",
+    "url": "http://ods.ai",
+    "chanel": "ml"
+  },
+  {
+    "id": 414,
+    "data": "2018-03-05",
+    "title": "Google открыла доступ к бесплатному курсу по машинному обучению",
+    "url": "https://hightech.fm/2018/03/02/google-ai",
+    "chanel": "ml"
+  },
+  {
+    "id": 415,
+    "data": "2018-03-13",
+    "title": "Google открыла код для машинного поиска экзопланет по данным с «Кеплера»",
+    "url": "https://geektimes.ru/post/298969/",
+    "chanel": "ml"
+  },
+  {
+    "id": 416,
+    "data": "2017-05-10",
+    "title": "A list of artificial intelligence tools you can use today — for personal use (1/3)",
+    "url": "https://hackernoon.com/a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-1-3-7f1b60b6c94f?source=linkShare-b47df72bd1ed-1494446011",
+    "chanel": "ml"
+  },
+  {
+    "id": 417,
+    "data": "2017-10-29",
+    "title": "Эволюционные вычисления: учим табуретку ходить",
+    "url": "https://habrahabr.ru/post/340772/",
+    "chanel": "ml"
+  },
+  {
+    "id": 418,
+    "data": "2018-02-12",
+    "title": "Performance Trends in AI",
+    "url": "https://srconstantin.wordpress.com/2017/01/28/performance-trends-in-ai/",
+    "chanel": "ml"
+  },
+  {
+    "id": 419,
+    "data": "2018-02-04",
+    "title": "Империя нейросетей: как работает команда машинного обучения Facebook | Rusbase",
+    "url": "https://rb.ru/story/aml-interview/",
+    "chanel": "ml"
+  },
+  {
+    "id": 420,
+    "data": "2018-03-29",
+    "title": "Нейросеть нашла шесть тысяч новых кратеров на Луне",
+    "url": "https://nplus1.ru/news/2018/03/29/ai-helped-moon-craters",
+    "chanel": "ml"
+  },
+  {
+    "id": 421,
+    "data": "2017-08-04",
+    "title": "Quantum AI: The New Frontier in Artificial Intelligence",
+    "url": "https://www.youtube.com/watch?v=EZgmfAGL8wQ",
+    "chanel": "ml"
+  },
+  {
+    "id": 422,
+    "data": "2017-06-20",
+    "title": "Google’s Tensor2Tensor makes it easier to conduct deep learning experiments",
+    "url": "https://techcrunch.com/2017/06/19/tensor2tensor/?ncid=rss&utm_source=tcfbpage&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29&utm_content=FaceBook&sr_share=facebook",
+    "chanel": "ml"
+  },
+  {
+    "id": 423,
+    "data": "2017-06-21",
+    "title": "The Neural Network Zoo - The Asimov Institute",
+    "url": "http://www.asimovinstitute.org/neural-network-zoo/",
+    "chanel": "ml"
+  },
+  {
+    "id": 424,
+    "data": "2017-12-19",
+    "title": "Системы ИИ в 2018: шесть прогнозов",
+    "url": "https://habrahabr.ru/company/it-grad/blog/344590/",
+    "chanel": "ml"
+  },
+  {
+    "id": 425,
+    "data": "2017-11-09",
+    "title": "ИИ на Физтехе: цифровая экономика, блокчейн, чат-боты и вот это всё",
+    "url": "https://habrahabr.ru/company/mipt/blog/341962/",
+    "chanel": "ml"
+  },
+  {
+    "id": 426,
+    "data": "2017-08-05",
+    "title": "Awesome data visualization tools in Python",
+    "url": "https://www.youtube.com/watch?v=OC-YdBz8Llw",
+    "chanel": "ml"
+  },
+  {
+    "id": 427,
+    "data": "2017-09-28",
+    "title": "Нейросеть выполняет 3D-реконструкцию лица по фотографии",
+    "url": "https://geektimes.ru/post/293503/",
+    "chanel": "ml"
+  },
+  {
+    "id": 428,
+    "data": "2018-03-28",
+    "title": "Expressive Speech Synthesis with Tacotron",
+    "url": "https://research.googleblog.com/2018/03/expressive-speech-synthesis-with.html",
+    "chanel": "ml"
+  },
+  {
+    "id": 429,
+    "data": "2018-02-05",
+    "title": "Машинный перевод. От холодной войны до диплёрнинга",
+    "url": "http://vas3k.ru/blog/machine_translation/",
+    "chanel": "ml"
+  },
+  {
+    "id": 430,
+    "data": "2018-05-01",
+    "title": "Data Augmentation | How to use Deep Learning when you have Limited Data — Part 2",
+    "url": "https://medium.com/nanonets/how-to-use-deep-learning-when-you-have-limited-data-part-2-data-augmentation-c26971dc8ced",
+    "chanel": "ml"
+  },
+  {
+    "id": 431,
+    "data": "2017-10-12",
+    "title": "Competitive Self-Play",
+    "url": "https://blog.openai.com/competitive-self-play/",
+    "chanel": "ml"
+  },
+  {
+    "id": 432,
+    "data": "2018-02-13",
+    "title": "Доступный ИИ для любой компании: Cloud AutoML",
+    "url": "https://habrahabr.ru/company/google/blog/346962/",
+    "chanel": "ml"
+  },
+  {
+    "id": 433,
+    "data": "2018-03-12",
+    "title": "Google рассказала о технике визуализации внутренних процессов нейросети",
+    "url": "https://tproger.ru/news/google-told-about-neural-network-visualization/",
+    "chanel": "ml"
+  },
+  {
+    "id": 434,
+    "data": "2017-06-17",
+    "title": "Олег Чумаков (Luden.io) - Машинное обучение для разработчиков игр",
+    "url": "https://www.youtube.com/watch?v=z6uhzzrj5p4",
+    "chanel": "ml"
+  },
+  {
+    "id": 435,
+    "data": "2017-07-15",
+    "title": "Convolutional Neural Networks - The Math of Intelligence (Week 4)",
+    "url": "https://www.youtube.com/watch?v=FTr3n7uBIuE",
+    "chanel": "ml"
+  },
+  {
+    "id": 436,
+    "data": "2017-07-03",
+    "title": "AI Progress Measurement",
+    "url": "https://www.eff.org/ai/metrics",
+    "chanel": "ml"
+  },
+  {
+    "id": 437,
+    "data": "2017-11-06",
+    "title": "The Universal Approximation Theorem for neural networks",
+    "url": "https://www.youtube.com/watch?v=Ijqkc7OLenI&amp;app=desktop",
+    "chanel": "ml"
+  },
+  {
+    "id": 438,
+    "data": "2017-09-27",
+    "title": "OPENTadpole: первое кибернетическое животное",
+    "url": "https://geektimes.ru/post/293415/",
+    "chanel": "ml"
+  },
+  {
+    "id": 439,
+    "data": "2018-03-07",
+    "title": "AI Platform for Windows Developers - Windows Developer Blog",
+    "url": "https://blogs.windows.com/buildingapps/2018/03/07/ai-platform-windows-developers",
+    "chanel": "ml"
+  },
+  {
+    "id": 440,
+    "data": "2018-03-27",
+    "title": "Глубинное обучение с подкреплением пока не работает",
+    "url": "https://habrahabr.ru/post/349800/",
+    "chanel": "ml"
+  },
+  {
+    "id": 441,
+    "data": "2017-12-20",
+    "title": "15 Trending Data Science GitHub Repositories you can not miss in 2017",
+    "url": "https://www.analyticsvidhya.com/blog/2017/12/15-data-science-repositories-github-2017/",
+    "chanel": "ml"
+  },
+  {
+    "id": 442,
+    "data": "2017-10-27",
+    "title": "Машинное обучение и анализ данных | Coursera",
+    "url": "https://www.coursera.org/specializations/machine-learning-data-analysis/",
+    "chanel": "ml"
+  },
+  {
+    "id": 443,
+    "data": "2017-08-10",
+    "title": "Deep Learning | Coursera",
+    "url": "https://www.coursera.org/specializations/deep-learning",
+    "chanel": "ml"
+  },
+  {
+    "id": 444,
+    "data": "2017-07-23",
+    "title": "Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning &amp; Big Data",
+    "url": "https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463",
+    "chanel": "ml"
+  },
+  {
+    "id": 445,
+    "data": "2017-04-25",
+    "title": "Quantum Computing Playground",
+    "url": "http://www.quantumplayground.net/#/about",
+    "chanel": "ml"
+  },
+  {
+    "id": 446,
+    "data": "2017-08-06",
+    "title": "Нейросеть поможет в создании реалистичных 3D-моделей местности",
+    "url": "https://nplus1.ru/news/2017/07/21/gan-terrain-generation",
+    "chanel": "ml"
+  },
+  {
+    "id": 447,
+    "data": "2017-05-08",
+    "title": "OpenAI Gym: A toolkit for developing and comparing reinforcement learning algorithms",
+    "url": "https://gym.openai.com/",
+    "chanel": "ml"
+  },
+  {
+    "id": 448,
+    "data": "2017-04-24",
+    "title": "AI Conference: что посмотреть?",
+    "url": "http://telegra.ph/AI-Conference-chto-posmotret-04-24?utm_source=telegram.me&utm_medium=social&utm_campaign=ai-conference-translyatsiyauzhe-zavtr",
+    "chanel": "ml"
+  },
+  {
+    "id": 449,
+    "data": "2017-08-07",
+    "title": "Атака на модели машинного обучения сбивает робоавтомобили",
+    "url": "https://geektimes.ru/post/291847/",
+    "chanel": "ml"
+  },
+  {
+    "id": 450,
+    "data": "2018-02-27",
+    "title": "Применение моделей CatBoost внутри ClickHouse. Лекция Яндекса",
+    "url": "https://habrahabr.ru/company/yandex/blog/347696/",
+    "chanel": "ml"
+  },
+  {
+    "id": 451,
+    "data": "2017-10-26",
+    "title": "Facebook research automatically creates an avatar from a photo",
+    "url": "https://techcrunch.com/2017/10/23/facebook-research-automatically-creates-an-avatar-from-a-photo/?utm_content=bufferc6218&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer",
+    "chanel": "ml"
+  },
+  {
+    "id": 452,
+    "data": "2017-12-21",
+    "title": "Отслеживаем Millenium Falcon с помощью TensorFlow",
+    "url": "https://habrahabr.ru/company/parallels/blog/345250/",
+    "chanel": "ml"
+  },
+  {
+    "id": 453,
+    "data": "2017-04-08",
+    "title": "Google DeepMind open sources Sonnet so you can build neural networks in TensorFlow even quicker",
+    "url": "https://techcrunch.com/2017/04/07/google-deepmind-open-sources-sonnet-so-you-can-build-neural-networks-in-tensorflow-even-quicker/?ncid=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29&utm_content=FaceBook&sr_share=facebook",
+    "chanel": "ml"
+  },
+  {
+    "id": 454,
+    "data": "2018-03-10",
+    "title": "Глубокое обучение в облаке: оптические компьютеры заменят GPU",
+    "url": "https://habrahabr.ru/company/it-grad/blog/350192/",
+    "chanel": "ml"
+  },
+  {
+    "id": 455,
+    "data": "2017-07-02",
+    "title": "mattatz/unity-teddy",
+    "url": "https://github.com/mattatz/unity-teddy",
+    "chanel": "ml"
+  },
+  {
+    "id": 456,
+    "data": "2017-10-10",
+    "title": "Create free account | DataCamp",
+    "url": "https://www.datacamp.com/groups/6972b9d360e119d181c0845f07499ca375724e75/invite",
+    "chanel": "ml"
+  },
+  {
+    "id": 457,
+    "data": "2017-12-26",
+    "title": "Новый подход к спортивному анализу данных: какие шаблоны «рвет» SDSJ",
+    "url": "https://habrahabr.ru/article/344806/",
+    "chanel": "ml"
+  },
+  {
+    "id": 458,
+    "data": "2017-11-20",
+    "title": "Искусственный интеллект и будущее дизайна: что будет с дизайнерами к 2025 году?  – Naked Science",
+    "url": "https://naked-science.ru/article/nakedscience/iskusstvennyy-intellekt-i",
+    "chanel": "ml"
+  },
+  {
+    "id": 459,
+    "data": "2017-05-18",
+    "title": "Роботы, которые учатся",
+    "url": "https://sovremen.ru/115-roboty-kotorye-uchatsya.html",
+    "chanel": "ml"
+  },
+  {
+    "id": 460,
+    "data": "2018-01-10",
+    "title": "Нейросеть от МТИ заменит дата-аналитиков",
+    "url": "https://hightech.fm/2017/12/27/ml_mit?utm_source=telegram&utm_campaign=online_channel",
+    "chanel": "ml"
+  },
+  {
+    "id": 461,
+    "data": "2018-05-04",
+    "title": "Жизненный цикл коммерческого ML-проекта, Александр Белугин (Приглашённый преподаватель ФКН ВШЭ) — События Яндекса",
+    "url": "https://events.yandex.ru/lib/talks/5773/",
+    "chanel": "ml"
+  },
+  {
+    "id": 462,
+    "data": "2017-06-28",
+    "title": "Unity начали принимать заявки для своей новой глобальной программы стипендий направленных на научные исследования - VR geek",
+    "url": "https://vrgeek.ru/2017/06/28/9907_unity-nachali-prinimat-zayavki-dlya-svoej-novoj-globalnoj-programmy-stipendij-napravlennyh-na-nauchnye-issledovaniya/",
+    "chanel": "ml"
+  },
+  {
+    "id": 463,
+    "data": "2018-02-16",
+    "title": "Видео: Испытания беспилотной машины «Яндекса» на дорогах Москвы",
+    "url": "https://vc.ru/33431-video-ispytaniya-bespilotnoy-mashiny-yandeksa-na-dorogah-moskvy",
+    "chanel": "ml"
+  },
+  {
+    "id": 464,
+    "data": "2017-12-10",
+    "title": "Виртуальные анализаторы — Yandex Data Factory",
+    "url": "https://yandexdatafactory.com/ru/solutions/inferential-sensors/",
+    "chanel": "ml"
+  },
+  {
+    "id": 465,
+    "data": "2018-03-17",
+    "title": "Hardware for Deep Learning. Part 3: GPU – Intento",
+    "url": "https://medium.com/@moocaholic/hardware-for-deep-learning-part-3-gpu-8906c1644664",
+    "chanel": "ml"
+  },
+  {
+    "id": 466,
+    "data": "2017-07-29",
+    "title": "Microsoft разработала систему SynNet, которая сможет обучать ИИ",
+    "url": "https://tproger.ru/news/microsoft-synnet/amp/",
+    "chanel": "ml"
+  },
+  {
+    "id": 467,
+    "data": "2017-06-12",
+    "title": "50 компаний в области искусственного интеллекта, за которыми стоит следить",
+    "url": "https://vc.ru/p/50-ai-companies",
+    "chanel": "ml"
+  },
+  {
+    "id": 468,
+    "data": "2017-05-03",
+    "title": "Тим Бернерс-Ли предполагает, что ИИ начнёт управлять финансовыми корпорациями",
+    "url": "https://m.geektimes.ru/post/288022/",
+    "chanel": "ml"
+  },
+  {
+    "id": 469,
+    "data": "2017-07-28",
+    "title": "AI Conference Deadlines",
+    "url": "https://aideadlin.es",
+    "chanel": "ml"
+  },
+  {
+    "id": 470,
+    "data": "2017-11-01",
+    "title": "Настраиваем VM Instance Google Cloud для задач машинного обучения",
+    "url": "https://habrahabr.ru/post/341446/",
+    "chanel": "ml"
+  },
+  {
+    "id": 471,
+    "data": "2018-01-11",
+    "title": "Turning Design Mockups Into Code With Deep Learning - FloydHub Blog",
+    "url": "https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/",
+    "chanel": "ml"
+  },
+  {
+    "id": 472,
+    "data": "2017-07-12",
+    "title": "Synthesizing Obama: Learning Lip Sync from Audio",
+    "url": "https://www.youtube.com/watch?v=9Yq67CjDqvw",
+    "chanel": "ml"
+  },
+  {
+    "id": 473,
+    "data": "2018-04-08",
+    "title": "Генерируем уровни для игры с помощью нейросетей - OtherMedia",
+    "url": "http://othermedia.info/?p=3494",
+    "chanel": "ml"
+  },
+  {
+    "id": 474,
+    "data": "2017-05-19",
+    "title": null,
+    "url": "http://www.technicolor.com/en/innovation/scientific-community/scientific-data-sharing",
+    "chanel": "ml"
+  },
+  {
+    "id": 475,
+    "data": "2018-01-27",
+    "title": "Глубинное обучение: критическая оценка",
+    "url": "https://geektimes.ru/post/297309/",
+    "chanel": "ml"
+  },
+  {
+    "id": 476,
+    "data": "2017-08-17",
+    "title": "deeplearn.js",
+    "url": "https://pair-code.github.io/deeplearnjs/index.html",
+    "chanel": "ml"
+  },
+  {
+    "id": 477,
+    "data": "2017-08-15",
+    "title": "DeepHack.RL: Andrey Lavrentyev - Neural networks for сyber-security of industrial objects",
+    "url": "https://www.youtube.com/watch?v=J9YMdOd4kFY",
+    "chanel": "project-plantsim"
+  },
+  {
+    "id": 478,
+    "data": "2018-01-18",
+    "title": "Обнаружение атак на АСУ ТП с помощью рекуррентной нейронной сети",
+    "url": "https://www.youtube.com/watch?time_continue=194&amp;v=yr79D29jpTE",
+    "chanel": "project-plantsim"
+  },
+  {
+    "id": 479,
+    "data": "2017-09-28",
+    "title": null,
+    "url": "https://twitter.com/digitalbond/status/913374108468965381",
+    "chanel": "project-plantsim"
+  },
+  {
+    "id": 480,
+    "data": "2017-06-18",
+    "title": "Павел Филонов  на HighLoad++ 2016",
+    "url": "http://www.highload.ru/2016/abstracts/2354.html",
+    "chanel": "project-plantsim"
+  },
+  {
+    "id": 481,
+    "data": "2017-03-16",
+    "title": "сервер описание",
+    "url": "https://yadi.sk/d/eTl08tmn3FqKq7",
+    "chanel": "project-plantsim"
+  },
+  {
+    "id": 482,
+    "data": "2018-01-06",
+    "title": "Программная эмуляция сети Modbus RTU",
+    "url": "https://geektimes.ru/post/296779/",
+    "chanel": "project-plantsim"
+  },
+  {
+    "id": 483,
+    "data": "2017-02-06",
+    "title": "Концепт-арт.pdf",
+    "url": "https://yadi.sk/i/xe5uQae83D8ju2",
+    "chanel": "project-plantsim"
+  },
+  {
+    "id": 484,
+    "data": "2017-04-02",
+    "title": "Smart Manufacturing Innovation",
+    "url": "https://www.youtube.com/watch?v=g6S-Qfrsfmw",
+    "chanel": "project-plantsim"
+  },
+  {
+    "id": 485,
+    "data": "2017-08-17",
+    "title": "Хакатон «Лаборатории Касперского»: спаси от хакеров завод по переработке газойля",
+    "url": "https://habrahabr.ru/company/kaspersky/blog/324036/",
+    "chanel": "project-plantsim"
+  },
+  {
+    "id": 486,
+    "data": "2017-05-16",
+    "title": "Nadine Patzig | Venice Unfolding",
+    "url": "http://www.tollpatzig.de/work/venice-unfolding/",
+    "chanel": "project-kasperskyphp"
+  },
+  {
+    "id": 487,
+    "data": "2017-04-11",
+    "title": "Blockchain MeetUP: IBCG &amp; Moscow IOT Community (Интернет вещей) / События на TimePad.ru",
+    "url": "https://goo.gl/U72fDm",
+    "chanel": "tech-meetups"
+  },
+  {
+    "id": 488,
+    "data": "2017-08-28",
+    "title": "ВШБИ-Unity Moscow Meetup #4",
+    "url": "http://hsbi.hse.ru/events/raznoe/unity-moscow-meetup-4/#.WaRxa9MjFE5",
+    "chanel": "tech-meetups"
+  },
+  {
+    "id": 489,
+    "data": "2017-07-03",
+    "title": "Курилка Гутенберга - nonfiction - научпоп",
+    "url": "https://www.facebook.com/kurilkagutenberga/posts/1380218758680558",
+    "chanel": "tech-meetups"
+  },
+  {
+    "id": 490,
+    "data": "2017-06-08",
+    "title": "Машины могут видеть",
+    "url": "http://www.strelka.com/ru/events/event/2017/06/09/machines-can-see",
+    "chanel": "tech-meetups"
+  },
+  {
+    "id": 491,
+    "data": "2017-03-06",
+    "title": "IDC Internet of Things Forum 2017",
+    "url": "http://idciotforum.com/moscow/?utm_source=FB&utm_campaign=iot2&utm_medium=event&utm_term=iot&utm_content=basic",
+    "chanel": "tech-meetups"
+  },
+  {
+    "id": 492,
+    "data": "2017-07-12",
+    "title": "2017 Games for Change Festival | July 31 - Aug. 2 | NYC",
+    "url": "http://festival.gamesforchange.org/",
+    "chanel": "tech-meetups"
+  },
+  {
+    "id": 493,
+    "data": "2017-11-22",
+    "title": "LeadingOnes",
+    "url": "http://www.leadingones.com/",
+    "chanel": "dev"
+  },
+  {
+    "id": 494,
+    "data": "2017-12-04",
+    "title": "Разделка бегемота. Еще раз о проектировании и рефакторинге от Сэнди Метц",
+    "url": "https://habrahabr.ru/company/piter/blog/342810/",
+    "chanel": "dev"
+  },
+  {
+    "id": 495,
+    "data": "2017-05-16",
+    "title": "3Blue1Brown",
+    "url": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
+    "chanel": "dev"
+  },
+  {
+    "id": 496,
+    "data": "2017-07-11",
+    "title": "Metrics for programmers automatically generated from your coding activity",
+    "url": "https://wakatime.com/",
+    "chanel": "dev"
+  },
+  {
+    "id": 497,
+    "data": "2018-03-14",
+    "title": "Projects on GitHub",
+    "url": "https://www.youtube.com/watch?v=C6MGKHkNtxU&amp;feature=youtu.be",
+    "chanel": "dev"
+  },
+  {
+    "id": 498,
+    "data": "2017-05-01",
+    "title": "Сколтех: Мастерская будущего",
+    "url": "https://postnauka.ru/specials/skoltech-masterskaya-budushego#show_course_04",
+    "chanel": "dev"
+  },
+  {
+    "id": 499,
+    "data": "2017-12-05",
+    "title": "DevOps: Автоматизируем сборку, дистрибуцию и тестирование мобильных приложений",
+    "url": "https://medium.com/binwell/devops-%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D0%B7%D0%B8%D1%80%D1%83%D0%B5%D0%BC-%D1%81%D0%B1%D0%BE%D1%80%D0%BA%D1%83-%D0%B4%D0%B8%D1%81%D1%82%D1%80%D0%B8%D0%B1%D1%83%D1%86%D0%B8%D1%8E-%D0%B8-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BD%D0%BE%D0%B2%D1%8B%D1%85-%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D0%B9-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F-xakep-ru-895f6a512084",
+    "chanel": "dev"
+  },
+  {
+    "id": 500,
+    "data": "2017-05-21",
+    "title": "Object Oriented Tricks: #6 SLAP your functions – Hacker Noon",
+    "url": "https://hackernoon.com/object-oriented-tricks-6-slap-your-functions-a13d25a7d994",
+    "chanel": "dev"
+  },
+  {
+    "id": 501,
+    "data": "2017-11-23",
+    "title": "Пулл-реквесты с эмпатией",
+    "url": "https://habrahabr.ru/company/mobileup/blog/340456/",
+    "chanel": "dev"
+  },
+  {
+    "id": 502,
+    "data": "2018-02-19",
+    "title": "Где найти и как выбрать тимлида",
+    "url": "https://habrahabr.ru/company/badoo/blog/347384/",
+    "chanel": "dev"
+  },
+  {
+    "id": 503,
+    "data": "2018-01-09",
+    "title": "bliki: ParallelChange",
+    "url": "https://martinfowler.com/bliki/ParallelChange.html",
+    "chanel": "dev"
+  },
+  {
+    "id": 504,
+    "data": "2017-12-09",
+    "title": "Микросервисы и согласованность данных // Денис Иванов",
+    "url": "https://www.youtube.com/watch?v=HlDVEywEun8",
+    "chanel": "dev"
+  },
+  {
+    "id": 505,
+    "data": "2018-04-01",
+    "title": "Архитектура ИТ решений. Часть 1. Архитектура предприятия",
+    "url": "https://habrahabr.ru/post/347204/",
+    "chanel": "dev"
+  },
+  {
+    "id": 506,
+    "data": "2017-12-02",
+    "title": "Давайте изучим tcpdump с Джулией Эванс",
+    "url": "https://habrahabr.ru/company/first/blog/335428/",
+    "chanel": "dev"
+  },
+  {
+    "id": 507,
+    "data": "2017-11-12",
+    "title": "Централизованный сontinuous deployment за год",
+    "url": "https://habrahabr.ru/company/raiffeisenbank/blog/342126/",
+    "chanel": "dev"
+  },
+  {
+    "id": 508,
+    "data": "2017-11-28",
+    "title": "Повторное использование кода — как это бывает на практике",
+    "url": "https://habrahabr.ru/post/343404/",
+    "chanel": "dev"
+  },
+  {
+    "id": 509,
+    "data": "2017-12-18",
+    "title": "Kubernetes 1.9: обзор основных новшеств",
+    "url": "https://habrahabr.ru/company/flant/blog/344220/",
+    "chanel": "dev"
+  },
+  {
+    "id": 510,
+    "data": "2017-05-30",
+    "title": "modesttree/Projeny",
+    "url": "https://github.com/modesttree/Projeny",
+    "chanel": "dev"
+  },
+  {
+    "id": 511,
+    "data": "2018-02-09",
+    "title": "«Инструкция для смузихлёбов и барбершоперов». Как освоить алгоритмы с нуля  | dev.by",
+    "url": "https://dev.by/lenta/main/kak-podnyat-algoritmy?utm_source=Dev.by+Subscribers&utm_campaign=379c44eb09-EMAIL_CAMPAIGN_2018_02_06&utm_medium=email&utm_term=0_cf93cbcf65-379c44eb09-417178233",
+    "chanel": "dev"
+  },
+  {
+    "id": 512,
+    "data": "2018-03-24",
+    "title": "Разбираемся с Flux, реактивной архитектурой от facebook",
+    "url": "https://m.habrahabr.ru/post/246959/",
+    "chanel": "dev"
+  },
+  {
+    "id": 513,
+    "data": "2017-05-31",
+    "title": "Speed Level Design - Overgrown Ruins - Unreal Engine 4",
+    "url": "https://www.youtube.com/watch?v=-HFnR43ms1k",
+    "chanel": "dev"
+  },
+  {
+    "id": 514,
+    "data": "2017-04-30",
+    "title": "JetBrains Rider - Alternative to Visual Studio - The Knights of Unity - Blog of Knowledge - Index",
+    "url": "http://blog.theknightsofunity.com/jetbrains-rider-alternative-visual-studio/",
+    "chanel": "dev"
+  },
+  {
+    "id": 515,
+    "data": "2017-04-26",
+    "title": "Composition vs. Inheritance: How to Choose?",
+    "url": "https://www.thoughtworks.com/insights/blog/composition-vs-inheritance-how-choose",
+    "chanel": "dev"
+  },
+  {
+    "id": 516,
+    "data": "2018-02-05",
+    "title": "Are #regions an antipattern or code smell?",
+    "url": "https://softwareengineering.stackexchange.com/questions/53086/are-regions-an-antipattern-or-code-smell",
+    "chanel": "dev"
+  },
+  {
+    "id": 517,
+    "data": "2017-03-02",
+    "title": "Mail.Ru для бизнеса — бесплатная почта на вашем домене",
+    "url": "https://biz.mail.ru/login/maas.agency",
+    "chanel": "dev"
+  },
+  {
+    "id": 518,
+    "data": "2018-03-12",
+    "title": "Мы писали код вместе за одним компьютером пять месяцев. Вот что я узнал",
+    "url": "https://habrahabr.ru/post/350588/",
+    "chanel": "dev"
+  },
+  {
+    "id": 519,
+    "data": "2017-05-07",
+    "title": "Анатолій Ландишев - “Незв’язний код у Unity” GameCC 2017",
+    "url": "https://www.slideshare.net/lvivstartup/unity-gamecc-2017?qid=2229fd78-f031-4305-8029-2b7780697ef1&v=&b=&from_search=1",
+    "chanel": "dev"
+  },
+  {
+    "id": 520,
+    "data": "2017-08-09",
+    "title": "Why Programmers Need Limits – Charles Scalfani – Medium",
+    "url": "https://medium.com/@cscalfani/why-programmers-need-limits-3d96e1a0a6db",
+    "chanel": "dev"
+  },
+  {
+    "id": 521,
+    "data": "2017-03-01",
+    "title": "Рендеринг и оптимизация в VR-разработке",
+    "url": "https://habrahabr.ru/post/321784/",
+    "chanel": "dev"
+  },
+  {
+    "id": 522,
+    "data": "2017-10-07",
+    "title": "Процесс релиза iOS-приложений в Badoo",
+    "url": "https://habrahabr.ru/company/badoo/blog/338760/",
+    "chanel": "dev"
+  },
+  {
+    "id": 523,
+    "data": "2017-05-04",
+    "title": "Тестирование компонентов в Unity Engine",
+    "url": "https://m.habrahabr.ru/post/244091/",
+    "chanel": "dev"
+  },
+  {
+    "id": 524,
+    "data": "2017-11-26",
+    "title": " «Угнать за 60 секунд» на примере одного каршеринга",
+    "url": "https://habrahabr.ru/post/343090/",
+    "chanel": "dev"
+  },
+  {
+    "id": 525,
+    "data": "2017-05-09",
+    "title": "Object Oriented Tricks: #2 Law of Demeter – Hacker Noon",
+    "url": "https://hackernoon.com/object-oriented-tricks-2-law-of-demeter-4ecc9becad85",
+    "chanel": "dev"
+  },
+  {
+    "id": 526,
+    "data": "2018-03-30",
+    "title": "The most important skill in software development",
+    "url": "https://www.johndcook.com/blog/2015/06/18/most-important-skill-in-software/",
+    "chanel": "dev"
+  },
+  {
+    "id": 527,
+    "data": "2017-12-21",
+    "title": "Zapier | The easiest way to automate your work",
+    "url": "https://zapier.com/",
+    "chanel": "dev"
+  },
+  {
+    "id": 528,
+    "data": "2017-09-30",
+    "title": "Server Side Swift vs. The Other Guys — 2: Speed – Qutheory – Medium",
+    "url": "https://medium.com/@qutheory/server-side-swift-vs-the-other-guys-2-speed-ca65b2f79505",
+    "chanel": "dev"
+  },
+  {
+    "id": 529,
+    "data": "2018-03-21",
+    "title": "danger/danger",
+    "url": "https://github.com/danger/danger",
+    "chanel": "dev"
+  },
+  {
+    "id": 530,
+    "data": "2018-04-25",
+    "title": "WebAssembly &amp; The Death of the App Store – Hacker Noon",
+    "url": "https://hackernoon.com/webassembly-the-death-of-the-app-store-c9bc3f9557c8",
+    "chanel": "dev"
+  },
+  {
+    "id": 531,
+    "data": "2017-06-13",
+    "title": "Docker. Зачем и как",
+    "url": "https://habrahabr.ru/post/309556/",
+    "chanel": "dev"
+  },
+  {
+    "id": 532,
+    "data": "2017-06-05",
+    "title": "phygitalism/c-sharp-style-guide",
+    "url": "https://github.com/phygitalism/c-sharp-style-guide",
+    "chanel": "dev"
+  },
+  {
+    "id": 533,
+    "data": "2017-11-01",
+    "title": "Не путайте разработку ПО и программирование",
+    "url": "https://habrahabr.ru/company/alconost/blog/341304/",
+    "chanel": "dev"
+  },
+  {
+    "id": 534,
+    "data": "2018-02-17",
+    "title": "Учимся на ошибках в организации контроля качества",
+    "url": "https://habrahabr.ru/company/badoo/blog/301764/",
+    "chanel": "dev"
+  },
+  {
+    "id": 535,
+    "data": "2018-01-11",
+    "title": "AIDA. Автоматизация работы с Git, JIRA и TeamCity",
+    "url": "https://habrahabr.ru/company/badoo/blog/169417/",
+    "chanel": "dev"
+  },
+  {
+    "id": 536,
+    "data": "2017-07-12",
+    "title": "Awesome data visualization tools in Python",
+    "url": "https://www.youtube.com/watch?v=OC-YdBz8Llw",
+    "chanel": "dev"
+  },
+  {
+    "id": 537,
+    "data": "2018-01-27",
+    "title": "Чему нас может научить теорема о четырех красках в разработке ПО",
+    "url": "https://habrahabr.ru/post/346710/",
+    "chanel": "dev"
+  },
+  {
+    "id": 538,
+    "data": "2017-11-21",
+    "title": "Архитектура REST",
+    "url": "https://habrahabr.ru/post/38730/",
+    "chanel": "dev"
+  },
+  {
+    "id": 539,
+    "data": "2018-01-08",
+    "title": "Unity - Optimisation for VR in Unity",
+    "url": "https://unity3d.com/ru/learn/tutorials/topics/virtual-reality/optimisation-vr-unity",
+    "chanel": "dev-unity"
+  },
+  {
+    "id": 540,
+    "data": "2017-12-04",
+    "title": "keijiro/Isaura",
+    "url": "https://github.com/keijiro/Isaura",
+    "chanel": "dev-unity"
+  },
+  {
+    "id": 541,
+    "data": "2018-03-15",
+    "title": "Allnokia.ru – Клуб Nokia и Microsoft",
+    "url": "https://allnokia.ru/news/38300/",
+    "chanel": "dev-unity"
+  },
+  {
+    "id": 542,
+    "data": "2018-01-28",
+    "title": "UNITY 2017.3. Чистый секс.",
+    "url": "https://maddivisionsoftware.blogspot.ru/2018/01/unity-20173.html",
+    "chanel": "dev-unity"
+  },
+  {
+    "id": 543,
+    "data": "2017-11-02",
+    "title": "10000 Update() calls – Unity Blog",
+    "url": "https://blogs.unity3d.com/2015/12/23/1k-update-calls/",
+    "chanel": "dev-unity"
+  },
+  {
+    "id": 544,
+    "data": "2018-02-02",
+    "title": "Asset Store: A year in review – Unity Blog",
+    "url": "https://blogs.unity3d.com/2017/12/18/asset-store-a-year-in-review/",
+    "chanel": "dev-unity"
+  },
+  {
+    "id": 545,
+    "data": "2018-05-07",
+    "title": "RyanNielson/awesome-unity",
+    "url": "https://github.com/RyanNielson/awesome-unity",
+    "chanel": "dev-unity"
+  },
+  {
+    "id": 546,
+    "data": "2018-01-05",
+    "title": "Disa DEV",
+    "url": "https://t.me/Disa_DEV",
+    "chanel": "dev-unity"
+  },
+  {
+    "id": 547,
+    "data": "2018-03-14",
+    "title": "Disa DEV",
+    "url": "https://t.me/Disa_DEV/76",
+    "chanel": "dev-unity"
+  },
+  {
+    "id": 548,
+    "data": "2018-03-02",
+    "title": "Unite Europe 2017 - Building an easy to use menu system",
+    "url": "https://youtu.be/wbmjturGbAQ",
+    "chanel": "dev-unity"
+  },
+  {
+    "id": 549,
+    "data": "2018-02-19",
+    "title": "Плагин для Unity призван избавить от побочных эффектов VR - VR geek",
+    "url": "https://vrgeek.ru/plagin-dlya-unity-prizvan-izbavit-ot-pobochnyh-effektov-vr/?tg_rhash=fa8834ec7ca466",
+    "chanel": "dev-unity"
+  },
+  {
+    "id": 550,
+    "data": "2018-01-09",
+    "title": "От геймдизайна до геймплея",
+    "url": "https://habrahabr.ru/company/mailru/blog/268681/",
+    "chanel": "dev-unity"
+  },
+  {
+    "id": 551,
+    "data": "2018-03-18",
+    "title": "Разработка игры на основе физической симуляции (для реалистичной разрушаемости игрового мира)",
+    "url": "https://habrahabr.ru/post/328284/",
+    "chanel": "dev-unity"
+  },
+  {
+    "id": 552,
+    "data": "2018-02-23",
+    "title": "Unity News",
+    "url": "https://t.me/unity_news",
+    "chanel": "dev-unity"
+  },
+  {
+    "id": 553,
+    "data": "2018-04-01",
+    "title": "Сетевая физика в виртуальной реальности",
+    "url": "https://habrahabr.ru/post/352382/",
+    "chanel": "dev-unity"
+  },
+  {
+    "id": 554,
+    "data": "2018-03-13",
+    "title": "GameDev Architecture",
+    "url": "https://t.me/gamedev_architecture",
+    "chanel": "dev-unity"
+  },
+  {
+    "id": 555,
+    "data": "2018-03-29",
+    "title": "Unity - Unity 2017.4.0f1",
+    "url": "https://unity3d.com/ru/unity/whats-new/unity-2017.4.0",
+    "chanel": "dev-unity"
+  },
+  {
+    "id": 556,
+    "data": "2018-03-09",
+    "title": "Multiplatform Game UI Middleware Based On XAML | NoesisGUI",
+    "url": "https://www.noesisengine.com",
+    "chanel": "dev-unity"
+  },
+  {
+    "id": 557,
+    "data": "2018-03-25",
+    "title": "SCULPT, PAINT &amp; TEXTURE in Unity",
+    "url": "https://youtu.be/JWAnQiN9Zkw",
+    "chanel": "dev-unity"
+  },
+  {
+    "id": 558,
+    "data": "2017-11-25",
+    "title": "keijiro/GTeleporter",
+    "url": "https://github.com/keijiro/GTeleporter",
+    "chanel": "dev-unity"
+  },
+  {
+    "id": 559,
+    "data": "2018-03-28",
+    "title": "Nvidia RTX — технология трассировки лучей в реальном времени наконец-то появится в играх",
+    "url": "https://www.ixbt.com/news/2018/03/19/nvidia-rtx--tehnologija-trassirovki-luchej-v-realnom-vremeni-nakonecto-pojavitsja-v-igrah.html",
+    "chanel": "dev-unity"
+  },
+  {
+    "id": 560,
+    "data": "2018-02-05",
+    "title": "ARKit Remote: Now With Face Tracking! – Unity Blog",
+    "url": "https://blogs.unity3d.com/2018/01/16/arkit-remote-now-with-face-tracking/",
+    "chanel": "dev-unity"
+  },
+  {
+    "id": 561,
+    "data": "2018-05-01",
+    "title": "Mozilla выпустила инструмент для запуска VR-приложений на Unity в браузерах",
+    "url": "https://tproger.ru/news/unity-webvr-assets/",
+    "chanel": "dev-unity"
+  },
+  {
+    "id": 562,
+    "data": "2018-03-12",
+    "title": "Bolt - Asset Store",
+    "url": "https://assetstore.unity.com/packages/tools/visual-scripting/bolt-87491",
+    "chanel": "dev-unity"
+  },
+  {
+    "id": 563,
+    "data": "2017-11-13",
+    "title": "Unity - Manual: Script compilation and assembly definition files",
+    "url": "https://docs.unity3d.com/2017.3/Documentation/Manual/ScriptCompilationAssemblyDefinitionFiles.html",
+    "chanel": "dev-unity"
+  },
+  {
+    "id": 564,
+    "data": "2018-01-16",
+    "title": "ТАУ для самых маленьких: пример реализации ПИД-регулятора в Unity3D",
+    "url": "https://habrahabr.ru/post/345972/",
+    "chanel": "dev-unity"
+  },
+  {
+    "id": 565,
+    "data": "2018-05-02",
+    "title": "Unity ECS: Pure vs Hybrid (walkthrough)",
+    "url": "https://youtu.be/Q-52mBy2mow",
+    "chanel": "dev-unity"
+  },
+  {
+    "id": 566,
+    "data": "2018-04-15",
+    "title": "Data-Oriented Design (Or Why You Might Be Shooting Yourself in The Foot With OOP)",
+    "url": "http://gamesfromwithin.com/data-oriented-design",
+    "chanel": "dev-unity"
+  },
+  {
+    "id": 567,
+    "data": "2018-03-11",
+    "title": "Unity 2018 и ProBuilder: создаем, редактируем и текстурируем 3D-модели прямо в редакторе",
+    "url": "https://habrahabr.ru/post/350324/",
+    "chanel": "dev-unity"
+  },
+  {
+    "id": 568,
+    "data": "2018-02-27",
+    "title": "Introduction to Shader Graph: Build your shaders with a visual editor – Unity Blog",
+    "url": "https://blogs.unity3d.com/2018/02/27/introduction-to-shader-graph-build-your-shaders-with-a-visual-editor/",
+    "chanel": "dev-unity"
+  },
+  {
+    "id": 569,
+    "data": "2018-01-21",
+    "title": "Новое в Unity 2017.3. Компиляция скриптов в отдельные файлы сборки",
+    "url": "https://habrahabr.ru/post/347034/",
+    "chanel": "dev-unity"
+  },
+  {
+    "id": 570,
+    "data": "2017-11-27",
+    "title": "Tutorials - Alan Zucconi",
+    "url": "https://www.alanzucconi.com/tutorials/",
+    "chanel": "dev-unity"
+  },
+  {
+    "id": 571,
+    "data": "2018-04-02",
+    "title": "Discord - Free voice and text chat for gamers",
+    "url": "https://discordapp.com/invite/NjjQ3BU",
+    "chanel": "dev-unity"
+  },
+  {
+    "id": 572,
+    "data": "2017-11-20",
+    "title": "UniRx — Rx для Unity3d",
+    "url": "https://habrahabr.ru/post/342660/",
+    "chanel": "dev-unity"
+  },
+  {
+    "id": 573,
+    "data": "2018-02-20",
+    "title": "IBM and Unity are teaming up to bring Watson's AI to VR and AR games",
+    "url": "https://thenextweb.com/artificial-intelligence/2018/02/20/ibm-and-unity-are-teaming-up-to-bring-watsons-ai-to-vr-and-ar-games/",
+    "chanel": "dev-unity"
+  },
+  {
+    "id": 574,
+    "data": "2018-01-10",
+    "title": "Dependency Injection in Unity3d (Part 1) – Gareth Williams – Medium",
+    "url": "https://medium.com/@LoneWolfWills/dependency-injection-in-unity3d-531831a29d08",
+    "chanel": "dev-unity"
+  },
+  {
+    "id": 575,
+    "data": "2018-01-06",
+    "title": "Универсальный дампер/инжектор Unity3D (Mono, Android)",
+    "url": "https://habrahabr.ru/post/345356/",
+    "chanel": "dev-unity"
+  },
+  {
+    "id": 576,
+    "data": "2018-02-16",
+    "title": "craigkj312/unity-arkit-portal",
+    "url": "https://github.com/craigkj312/unity-arkit-portal",
+    "chanel": "dev-unity"
+  },
+  {
+    "id": 577,
+    "data": "2018-02-21",
+    "title": "Unity3D Assets",
+    "url": "https://t.me/unity3d_assets",
+    "chanel": "dev-unity"
+  },
+  {
+    "id": 578,
+    "data": "2018-01-27",
+    "title": "keijiro (Keijiro Takahashi)",
+    "url": "https://github.com/keijiro",
+    "chanel": "dev-unity"
+  },
+  {
+    "id": 579,
+    "data": "2018-04-24",
+    "title": "Проверяем исходный C#-код Unity",
+    "url": "https://habr.com/company/pvs-studio/blog/353640/",
+    "chanel": "dev-unity"
+  },
+  {
+    "id": 580,
+    "data": "2017-02-08",
+    "title": "Митап \"Интернет Вещей и город: основы\" / События на TimePad.ru",
+    "url": "https://urbanhse.timepad.ru/event/441363/",
+    "chanel": "meetings"
+  },
+  {
+    "id": 581,
+    "data": "2017-03-29",
+    "title": "Moscow Internet of Things Community",
+    "url": "https://www.meetup.com/Moscow-Internet-of-Things-Community/events/238780542/",
+    "chanel": "meetings"
+  },
+  {
+    "id": 582,
+    "data": "2017-02-14",
+    "title": "Windows 10 Creators Update",
+    "url": "https://events.techdays.ru/Creators-Update/2017-02/schedule",
+    "chanel": "meetings"
+  },
+  {
+    "id": 583,
+    "data": "2017-10-21",
+    "title": "Лекция Дэна Гудса: Музей удивительного / События на TimePad.ru",
+    "url": "https://polytech.timepad.ru/event/587177/",
+    "chanel": "meetings"
+  },
+  {
+    "id": 584,
+    "data": "2017-04-03",
+    "title": "Kaspersky Laboratory",
+    "url": "https://events.kaspersky.com/event/iot2",
+    "chanel": "meetings"
+  },
+  {
+    "id": 585,
+    "data": "2017-06-13",
+    "title": "Augmented World Expo (AWE)",
+    "url": "https://www.youtube.com/user/AugmentedRealityOrg/playlists",
+    "chanel": "meetings"
+  },
+  {
+    "id": 586,
+    "data": "2017-08-17",
+    "title": "IoT технологии Google - от Android Things до Cloud Platform / События на TimePad.ru",
+    "url": "https://iot-community.timepad.ru/event/556689/",
+    "chanel": "meetings"
+  },
+  {
+    "id": 587,
+    "data": "2017-04-18",
+    "title": "Международная конференция о применении искуственного интеллекта и анализа данных. | AI Conference",
+    "url": "https://aiconference.ru/ru",
+    "chanel": "meetings"
+  },
+  {
+    "id": 588,
+    "data": "2017-11-21",
+    "title": "Data &amp; Science: машинное обучение в промышленности и банковских услугах, 25 ноября 2017, Москва — События Яндекса",
+    "url": "https://events.yandex.ru/events/ds/25-nov-2017/",
+    "chanel": "meetings"
+  },
+  {
+    "id": 589,
+    "data": "2017-12-08",
+    "title": "Представлен процессор Snapdragon 845: новое «сердце» флагманских смартфонов",
+    "url": "https://3dnews.ru/news/962535?ext=subscribe&source=subscribeRu",
+    "chanel": "random"
+  },
+  {
+    "id": 590,
+    "data": "2017-08-02",
+    "title": "LED Eyelashes (aka \"Soomi Lashes\") Tutorial",
+    "url": "https://www.youtube.com/watch?v=23aBq1dIK3A",
+    "chanel": "random"
+  },
+  {
+    "id": 591,
+    "data": "2017-08-14",
+    "title": "Nvidia ускоряет рендеринг с помощью искусственного интеллекта",
+    "url": "http://www.computerworld.ru/news/Nvidia-uskoryaet-rendering-s-pomoschyu-iskusstvennogo-intellekta?utm_source=cw_subscribe&utm_medium=CPC&utm_campaign=computerworld_news&utm_term=14-08-2017",
+    "chanel": "random"
+  },
+  {
+    "id": 592,
+    "data": "2017-06-26",
+    "title": "Vision 2017 - Unity + Octane: The Path to Holographic Cinematic Rendering",
+    "url": "https://www.youtube.com/watch?v=n9oILsWlW1U",
+    "chanel": "random"
+  },
+  {
+    "id": 593,
+    "data": "2018-02-18",
+    "title": "Microsoft создала систему виртуальной реальности для слепых",
+    "url": "https://nplus1.ru/news/2018/02/16/virtual-obstacles",
+    "chanel": "random"
+  },
+  {
+    "id": 594,
+    "data": "2017-11-22",
+    "title": "Apple acquired augmented reality headset startup Vrvana for $30M",
+    "url": "https://techcrunch.com/2017/11/21/apple-acquires-mixed-reality-headset-startup-vrvana-for-30m/",
+    "chanel": "random"
+  },
+  {
+    "id": 595,
+    "data": "2017-03-09",
+    "title": "Как у меня украли 400 000 рублей с Яндекса",
+    "url": "https://blog.myrusakov.ru/fraud-yandex.html",
+    "chanel": "random"
+  },
+  {
+    "id": 596,
+    "data": "2017-12-04",
+    "title": "День открытых дверей",
+    "url": "http://msc.skoltech.ru/open",
+    "chanel": "random"
+  },
+  {
+    "id": 597,
+    "data": "2017-03-29",
+    "title": "Словам и не снилось",
+    "url": "https://esquire.ru/words",
+    "chanel": "random"
+  },
+  {
+    "id": 598,
+    "data": "2017-09-19",
+    "title": "Карты Яндекса для iOS получили режим дополненной реальности - Голографика",
+    "url": "https://holographica.space/news/yandex-maps-ar-ios-12496",
+    "chanel": "random"
+  },
+  {
+    "id": 599,
+    "data": "2017-10-03",
+    "title": "The Unity Awards 2017 Winners",
+    "url": "https://www.youtube.com/watch?v=8--xPOlY7kU",
+    "chanel": "random"
+  },
+  {
+    "id": 600,
+    "data": "2017-09-18",
+    "title": "Учебник для менеджеров в digital",
+    "url": "http://pm.chulakov.ru/",
+    "chanel": "random"
+  },
+  {
+    "id": 601,
+    "data": "2018-02-15",
+    "title": "6 самых безумных изобретений биохакеров | Rusbase",
+    "url": "https://rb.ru/story/biopunks/",
+    "chanel": "random"
+  },
+  {
+    "id": 602,
+    "data": "2018-03-14",
+    "title": "Welcome to Light Fields on Steam",
+    "url": "http://store.steampowered.com/app/771310/Welcome_to_Light_Fields/",
+    "chanel": "random"
+  },
+  {
+    "id": 603,
+    "data": "2018-03-02",
+    "title": "KasperskyOS и интернет угроз",
+    "url": "https://www.youtube.com/watch?v=mcf2bVM5x58",
+    "chanel": "random"
+  },
+  {
+    "id": 604,
+    "data": "2017-02-25",
+    "title": "A DARPA Perspective on Artificial Intelligence",
+    "url": "https://www.youtube.com/watch?v=-O01G3tSYpU",
+    "chanel": "random"
+  },
+  {
+    "id": 605,
+    "data": "2017-11-23",
+    "title": "You can now use VR to control robots",
+    "url": "https://www.youtube.com/watch?v=aml08lm0gyM",
+    "chanel": "random"
+  },
+  {
+    "id": 606,
+    "data": "2018-03-18",
+    "title": "Дополненная реальность позволит менять объекты прямо во время 3D-печати",
+    "url": "https://nplus1.ru/news/2018/02/20/augmented-printing",
+    "chanel": "random"
+  },
+  {
+    "id": 607,
+    "data": "2017-12-09",
+    "title": "Как Фейсбук приобрел Инстаграм и почему это привело к открытию исходного кода React.js",
+    "url": "https://habrahabr.ru/company/alconost/blog/344106/",
+    "chanel": "random"
+  },
+  {
+    "id": 608,
+    "data": "2017-11-12",
+    "title": "AUTOMATICA 4k - Robots Vs. Music - Nigel Stanford",
+    "url": "https://www.youtube.com/watch?v=bAdqazixuRY",
+    "chanel": "random"
+  },
+  {
+    "id": 609,
+    "data": "2018-03-13",
+    "title": "Дополненная реальность облегчит саперам поиск мин",
+    "url": "https://nplus1.ru/news/2018/03/12/minesweeper",
+    "chanel": "random"
+  },
+  {
+    "id": 610,
+    "data": "2017-10-29",
+    "title": "Scientists use HTC Vive controllers to operate this rescue robot like a puppet",
+    "url": "https://www.theverge.com/2017/10/24/16507456/rescue-robot-puppet-htc-vive-controllers",
+    "chanel": "random"
+  },
+  {
+    "id": 611,
+    "data": "2018-04-17",
+    "title": "Конституционный суд: для учебы в школе совершеннолетним не нужна отсрочка от армии",
+    "url": "https://meduza.io/news/2018/04/17/konstitutsionnyy-sud-dlya-ucheby-v-shkole-sovershennoletnim-ne-nuzhna-otsrochka-ot-armii",
+    "chanel": "random"
+  },
+  {
+    "id": 612,
+    "data": "2018-02-12",
+    "title": "TechCrunch: Telegram планирует привлечь $3-5 млрд с помощью ICO проекта TON",
+    "url": "https://vc.ru/31555-techcrunch-telegram-planiruet-privlech-3-5-mlrd-s-pomoshchyu-ico-proekta-ton",
+    "chanel": "random"
+  },
+  {
+    "id": 613,
+    "data": "2017-10-05",
+    "title": "holon - hold on",
+    "url": "https://www.youtube.com/watch?v=3wIJwfyeOB0",
+    "chanel": "random"
+  },
+  {
+    "id": 614,
+    "data": "2018-01-14",
+    "title": "Вподвале.нет",
+    "url": "http://vpodvale.net/",
+    "chanel": "random"
+  },
+  {
+    "id": 615,
+    "data": "2017-09-09",
+    "title": "Google: программисты — за менеджеров",
+    "url": "http://hbr-russia.ru/innovatsii/upravlenie-innovatsiyami/a13152/?utm_source=telegram.me&utm_medium=social&utm_campaign=po-sluchayu-19-letiya-google-vspomnili-samy",
+    "chanel": "random"
+  },
+  {
+    "id": 616,
+    "data": "2017-08-04",
+    "title": "Why Astronomers Love Python And Why You Should Too",
+    "url": "https://www.youtube.com/watch?v=W9dwGZ6yY0k",
+    "chanel": "random"
+  },
+  {
+    "id": 617,
+    "data": "2017-08-12",
+    "title": "Cinema 4D R19 - Top 5 new features and updates - C4D Tutorial - Sean Frangella",
+    "url": "https://www.youtube.com/watch?v=1kkBTXBz-yA",
+    "chanel": "random"
+  },
+  {
+    "id": 618,
+    "data": "2017-05-30",
+    "title": "Японцы сделали управляемые ногами роборуки",
+    "url": "https://nplus1.ru/news/2017/05/30/octopus?utm_source=telegram&utm_campaign=2017",
+    "chanel": "random"
+  },
+  {
+    "id": 619,
+    "data": "2018-03-25",
+    "title": "Художник из США зашифровал коды к криптокошелькам с валютой на сумму в $10 тысяч на своих картинах из Lego",
+    "url": "https://vc.ru/35213-hudozhnik-iz-ssha-zashifroval-kody-k-kriptokoshelkam-s-valyutoy-na-summu-v-10-tysyach-na-svoih-kartinah-iz-lego",
+    "chanel": "random"
+  },
+  {
+    "id": 620,
+    "data": "2017-09-04",
+    "title": "Берешь телефон, сканируешь пространство — и твоя комната превращается в пещеру: Как будут работать телефоны и планшеты с функцией дополненной реальности. Репортаж «Медузы» — Meduza",
+    "url": "https://meduza.io/feature/2017/09/04/beresh-telefon-skaniruesh-prostranstvo-i-tvoya-komnata-prevraschaetsya-v-pescheru",
+    "chanel": "random"
+  },
+  {
+    "id": 621,
+    "data": "2018-03-24",
+    "title": null,
+    "url": "https://twitter.com/fire_sister_bee/status/977517388567601155?s=21",
+    "chanel": "random"
+  },
+  {
+    "id": 622,
+    "data": "2018-04-20",
+    "title": "Red Alert 2 remake in Unreal Engine 4 - Allies gameplay in VR using HTC vive.",
+    "url": "https://www.youtube.com/watch?v=IGtrJaiUZaA",
+    "chanel": "random"
+  },
+  {
+    "id": 623,
+    "data": "2017-11-25",
+    "title": "The Mysterious Life of Software Engineers",
+    "url": "https://www.youtube.com/watch?v=yXWGzzwV4zA",
+    "chanel": "random"
+  },
+  {
+    "id": 624,
+    "data": "2017-05-31",
+    "title": "Applied Machine Learning in Python | Coursera",
+    "url": "https://www.coursera.org/learn/python-machine-learning",
+    "chanel": "random"
+  },
+  {
+    "id": 625,
+    "data": "2017-12-19",
+    "title": "Новые методы экономного ямкового рендеринга и отображения от Google | Голографика",
+    "url": "https://holographica.space/articles/foveated-rendering-google-13906",
+    "chanel": "random"
+  },
+  {
+    "id": 626,
+    "data": "2017-07-20",
+    "title": "Среди сирот есть дети, похожие на вас",
+    "url": "http://odnolico.changeonelife.ru/ru",
+    "chanel": "random"
+  },
+  {
+    "id": 627,
+    "data": "2018-02-25",
+    "title": "openFrameworks",
+    "url": "http://openframeworks.cc/",
+    "chanel": "random"
+  },
+  {
+    "id": 628,
+    "data": "2017-03-14",
+    "title": "Стиль - Coub - GIFs with sound",
+    "url": "http://coub.com/view/sipus",
+    "chanel": "random"
+  },
+  {
+    "id": 629,
+    "data": "2017-04-10",
+    "title": "REST API concepts and examples",
+    "url": "https://www.youtube.com/watch?v=7YcW25PHnAA",
+    "chanel": "random"
+  },
+  {
+    "id": 630,
+    "data": "2017-10-28",
+    "title": "The Cynefin framework - методика принятия решений",
+    "url": "https://www.youtube.com/watch?v=BB6_tGzaSsE",
+    "chanel": "random"
+  },
+  {
+    "id": 631,
+    "data": "2018-04-16",
+    "title": "День открытых дверей магистерской программы \"Интернет вещей и киберфизические системы\"",
+    "url": "https://www.hse.ru/ma/internet/dod/",
+    "chanel": "random"
+  },
+  {
+    "id": 632,
+    "data": "2018-03-12",
+    "title": "Announcing VDA2 Nominees - VIVE Blog",
+    "url": "https://blog.vive.com/us/2018/03/06/announcing-vda2-nominees/",
+    "chanel": "random"
+  },
+  {
+    "id": 633,
+    "data": "2017-05-07",
+    "title": "sentdex",
+    "url": "https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ",
+    "chanel": "random"
+  },
+  {
+    "id": 634,
+    "data": "2018-05-02",
+    "title": "Как изогнуть луч света, собрать наноградусник и создать искусственный интеллект агронома: Лекции победителей «баттлов ученых» Science Slam разных лет",
+    "url": "https://meduza.io/slides/kak-izognut-luch-sveta-sobrat-nanogradusnik-i-sozdat-iskusstvennyy-intellekt-agronoma",
+    "chanel": "random"
+  },
+  {
+    "id": 635,
+    "data": "2017-09-27",
+    "title": "Космическая демосцена: Вселенная умещается в 64 килобайта",
+    "url": "https://geektimes.ru/company/mailru/blog/293465/",
+    "chanel": "random"
+  },
+  {
+    "id": 636,
+    "data": "2018-04-23",
+    "title": "Charger prototype finding its way to Model S",
+    "url": "https://youtu.be/uMM0lRfX6YI",
+    "chanel": "random"
+  },
+  {
+    "id": 637,
+    "data": "2017-08-10",
+    "title": "Что такое ICO и как это может перевернуть венчурную индустрию?",
+    "url": "https://www.youtube.com/watch?v=can3fJ4LCzI&amp;feature=share",
+    "chanel": "random"
+  },
+  {
+    "id": 638,
+    "data": "2017-07-23",
+    "title": "Интенсив VR-кино",
+    "url": "http://moscowfilmschool.ru/courses/intensiv-vr-kino/",
+    "chanel": "random"
+  },
+  {
+    "id": 639,
+    "data": "2017-04-25",
+    "title": "Видео: подробная демонстрация работы очков дополненной реальности Meta 2 — Голографика",
+    "url": "http://holographica.space/video-of-the-day/meta-2-demo-9558",
+    "chanel": "random"
+  },
+  {
+    "id": 640,
+    "data": "2018-04-18",
+    "title": "The Eminem AR show",
+    "url": "https://techcrunch.com/2018/04/16/the-eminem-ar-show/",
+    "chanel": "random"
+  },
+  {
+    "id": 641,
+    "data": "2018-03-30",
+    "title": "«Программист-прагматик. Путь от подмастерья к мастеру»: коротко о главном (часть первая)",
+    "url": "https://habrahabr.ru/company/everydaytools/blog/348116/",
+    "chanel": "random"
+  },
+  {
+    "id": 642,
+    "data": "2017-02-21",
+    "title": "Crazy Fishing - When technology fails you in Virtual Reality",
+    "url": "https://imgur.com/gallery/fGuiUQx",
+    "chanel": "random"
+  },
+  {
+    "id": 643,
+    "data": "2018-03-26",
+    "title": "Oculus Go предложит фиксированный ямковый рендеринг и частоту 72 Гц | Голографика",
+    "url": "https://holographica.space/news/oculus-go-fixed-foveated-rendering-15241",
+    "chanel": "random"
+  },
+  {
+    "id": 644,
+    "data": "2017-04-08",
+    "title": "Apple запатентовала дисплей из плетёной ткани",
+    "url": "https://3dnews.ru/924661",
+    "chanel": "random"
+  },
+  {
+    "id": 645,
+    "data": "2017-12-01",
+    "title": "Elizabeth Gilbert: Your elusive creative genius",
+    "url": "https://www.ted.com/talks/elizabeth_gilbert_on_genius",
+    "chanel": "random"
+  },
+  {
+    "id": 646,
+    "data": "2017-04-28",
+    "title": "Минобороны провело учения на тренажёрах виртуальной реальности",
+    "url": "https://youtu.be/619RoJyrflM",
+    "chanel": "random"
+  },
+  {
+    "id": 647,
+    "data": "2017-05-05",
+    "title": "SPARCS",
+    "url": "https://www.youtube.com/watch?v=ZJsWNm618h4",
+    "chanel": "random"
+  },
+  {
+    "id": 648,
+    "data": "2018-03-10",
+    "title": "Deep Space Network Now",
+    "url": "https://eyes.nasa.gov/dsn/dsn.html",
+    "chanel": "random"
+  },
+  {
+    "id": 649,
+    "data": "2018-02-11",
+    "title": "Выставка Samskara",
+    "url": "http://samskara.pro/?utm_source=google_WA&utm_medium=search&utm_campaign=g_search_brend&utm_content=242784252854&utm_term=%2B%D1%81%D0%B0%D0%BC%D1%81%D0%BA%D0%B0%D1%80%D0%B0&placement=&gclid=CjwKCAiA8P_TBRA9EiwAJrpHM3x3_Hl9FncNHWPREfUx2pqIUeyHmGhL1oUrhAlpwZ2waQrs7kjvABoCY68QAvD_BwE",
+    "chanel": "random"
+  },
+  {
+    "id": 650,
+    "data": "2017-10-06",
+    "title": "Разработка на скорости 450 слов в минуту",
+    "url": "https://habrahabr.ru/post/336600/",
+    "chanel": "random"
+  },
+  {
+    "id": 651,
+    "data": "2017-05-22",
+    "title": "Research ideas - Airtable",
+    "url": "https://airtable.com/shrYNHfsF529GDl3A",
+    "chanel": "random"
+  },
+  {
+    "id": 652,
+    "data": "2017-12-26",
+    "title": "Save 35% on MasterpieceVR on Steam",
+    "url": "http://store.steampowered.com/app/504650/MasterpieceVR/",
+    "chanel": "random"
+  },
+  {
+    "id": 653,
+    "data": "2017-04-19",
+    "title": "Amazon получила патент на склады с функцией быстрого пошива одежды на заказ",
+    "url": "https://vc.ru/n/amazon-fast-ondemand",
+    "chanel": "random"
+  },
+  {
+    "id": 654,
+    "data": "2017-10-21",
+    "title": "Meskalito",
+    "url": "https://www.youtube.com/channel/UCOR-iqlcedb8VMnax37m3MQ",
+    "chanel": "random"
+  },
+  {
+    "id": 655,
+    "data": "2017-06-08",
+    "title": "Milanote",
+    "url": "http://www.milanote.com/",
+    "chanel": "random"
+  },
+  {
+    "id": 656,
+    "data": "2018-02-20",
+    "title": "Where is Starman going to be in the future",
+    "url": "http://www.whereisroadster.com/charts.html",
+    "chanel": "random"
+  },
+  {
+    "id": 657,
+    "data": "2017-04-03",
+    "title": "Strange Beasts",
+    "url": "https://vimeo.com/209070629",
+    "chanel": "random"
+  },
+  {
+    "id": 658,
+    "data": "2018-04-29",
+    "title": "Apple is reportedly building an insane ’16K’ VR headset",
+    "url": "https://techcrunch.com/2018/04/27/apple-is-reportedly-building-an-insane-16k-vr-headset/?utm_source=tctwreshare&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29&amp;sr_share=twitter",
+    "chanel": "random"
+  },
+  {
+    "id": 659,
+    "data": "2017-10-17",
+    "title": "В Google Maps появились карты планет и спутников Солнечной системы",
+    "url": "https://geektimes.ru/post/294485/",
+    "chanel": "random"
+  },
+  {
+    "id": 660,
+    "data": "2018-02-16",
+    "title": "Медитация — древний хакинг реальности в современности",
+    "url": "https://geektimes.ru/company/lifext/blog/298199/",
+    "chanel": "random"
+  },
+  {
+    "id": 661,
+    "data": "2018-04-13",
+    "title": "Why does this exist...",
+    "url": "https://youtu.be/Gx5DV5zFKlU",
+    "chanel": "random"
+  },
+  {
+    "id": 662,
+    "data": "2017-09-21",
+    "title": "Лучшие приложения ARKit в App Store - VR geek",
+    "url": "https://vrgeek.ru/2017/09/21/11624_luchshie-prilozheniya/#.WcO0HYkqRcI.facebook",
+    "chanel": "random"
+  },
+  {
+    "id": 663,
+    "data": "2018-04-04",
+    "title": null,
+    "url": "https://twitter.com/battleverseinc/status/980598841819979777",
+    "chanel": "random"
+  },
+  {
+    "id": 664,
+    "data": "2018-04-12",
+    "title": "«Ключи от Telegram» для ФСБ",
+    "url": "https://vc.ru/36107-klyuchi-ot-telegram-dlya-fsb",
+    "chanel": "random"
+  },
+  {
+    "id": 665,
+    "data": "2017-12-11",
+    "title": "Итоги года в IT 2017",
+    "url": "https://geekbrains.ru/posts/2017_report",
+    "chanel": "random"
+  },
+  {
+    "id": 666,
+    "data": "2017-07-12",
+    "title": "Visualizing Fluid Flow With Clebsch Maps | Two Minute Papers #170",
+    "url": "https://www.youtube.com/watch?v=HUFh8cEDeII&amp;feature=em-uploademail",
+    "chanel": "random"
+  },
+  {
+    "id": 667,
+    "data": "2018-01-31",
+    "title": "Перформативная дискуссия: «Требуй полной автоматизации искусства» / События на TimePad.ru",
+    "url": "https://winzavodart.timepad.ru/event/653116/",
+    "chanel": "random"
+  },
+  {
+    "id": 668,
+    "data": "2018-02-21",
+    "title": "Как в Facebook практикуют медитацию для эффективной работы: рассказ дизайнера | Rusbase",
+    "url": "https://rb.ru/story/meditaciya-v-facebook/",
+    "chanel": "random"
+  },
+  {
+    "id": 669,
+    "data": "2017-07-24",
+    "title": "Augmented, Virtual and Mixed Reality (AR/VR/MR) - YouTube",
+    "url": "https://www.youtube.com/playlist?list=PLe4U-xqAI6Tsbao3bpWXb2_oV8ahlhyTh",
+    "chanel": "random"
+  },
+  {
+    "id": 670,
+    "data": "2017-03-30",
+    "title": "Fintech Hackathon 2017 — Санкт-Петербург, 21-23 апреля",
+    "url": "http://iqhack2017.com/",
+    "chanel": "random"
+  },
+  {
+    "id": 671,
+    "data": "2017-06-25",
+    "title": "В двенадцатый набор ФРИИ прошли 32 стартапа | Rusbase",
+    "url": "https://rb.ru/news/frii-12/",
+    "chanel": "random"
+  },
+  {
+    "id": 672,
+    "data": "2018-03-20",
+    "title": "Surgera VR on Steam",
+    "url": "http://store.steampowered.com/app/763860/Surgera_VR/",
+    "chanel": "random"
+  },
+  {
+    "id": 673,
+    "data": "2018-03-23",
+    "title": null,
+    "url": "https://phygitalismpro.slack.com/archives/C4V1GGL7J/p1520933222000209?thread_ts=1520933222000209&cid=C4V1GGL7J",
+    "chanel": "events"
+  },
+  {
+    "id": 674,
+    "data": "2018-03-14",
+    "title": "JetBrains Open Day в Москве",
+    "url": "https://habrahabr.ru/company/JetBrains/blog/351180/",
+    "chanel": "events"
+  },
+  {
+    "id": 675,
+    "data": "2018-03-13",
+    "title": "Двухдневная конференция Технологии разработки и отладки сложных технических систем",
+    "url": "https://matlab.ru/seminars/conf2018",
+    "chanel": "events"
+  },
+  {
+    "id": 676,
+    "data": "2017-05-30",
+    "title": "ВШБИ-Unity Moscow Meetup #3",
+    "url": "http://hsbi.hse.ru/events/raznoe/unity-moscow-meetup-3/#.WS3gC1KB0y5",
+    "chanel": "events"
+  },
+  {
+    "id": 677,
+    "data": "2018-04-02",
+    "title": "Data Fest⁵ 28 апреля 2018",
+    "url": "http://datafest.ru",
+    "chanel": "events"
+  },
+  {
+    "id": 678,
+    "data": "2017-05-13",
+    "title": "«Intel® Nervana™ AI Summit Moscow 2017» | Seminars.softline.ru",
+    "url": "http://events.softline.ru/event/10902/detail?utm_source=FB&utm_medium=cpc&utm_campaign=intel_Nervana_moscow_16may",
+    "chanel": "events"
+  },
+  {
+    "id": 679,
+    "data": "2018-03-21",
+    "title": "МНОГОМЕРНАЯ РОССИЯ 2018",
+    "url": "http://www.imodel-russia.com/moscow-2018/",
+    "chanel": "events"
+  },
+  {
+    "id": 680,
+    "data": "2018-04-04",
+    "title": "Data &amp; Science: управление проектами, 14 апреля 2018, Москва — События Яндекса",
+    "url": "https://events.yandex.ru/events/ds/14-apr-2018/",
+    "chanel": "events"
+  },
+  {
+    "id": 681,
+    "data": "2018-03-20",
+    "title": "Конференция АМОКОНФ: Трафик. Заявки. Продажи.",
+    "url": "https://2018.amoconf.ru/",
+    "chanel": "events"
+  },
+  {
+    "id": 682,
+    "data": "2017-01-11",
+    "title": "Microsoft Kinect Sensor 2.0",
+    "url": "https://www.avito.ru/moskva/igry_pristavki_i_programmy/microsoft_kinect_sensor_2.0_703746259",
+    "chanel": "project-int-mirror2"
+  },
+  {
+    "id": 683,
+    "data": "2016-12-04",
+    "title": null,
+    "url": "https://maasproduction.slack.com/archives/project-int-mirror2/p1480596053000007",
+    "chanel": "project-int-mirror2"
+  },
+  {
+    "id": 684,
+    "data": "2016-12-28",
+    "title": "OpenKinect/libfreenect2",
+    "url": "https://github.com/OpenKinect/libfreenect2/issues?q=is%3Aissue+is%3Aopen+label%3A%22multiple+kinects%22",
+    "chanel": "project-int-mirror2"
+  },
+  {
+    "id": 685,
+    "data": "2018-04-27",
+    "title": "Синтез людей в незнакомых позах",
+    "url": "https://vc.ru/37093-sintez-lyudey-v-neznakomyh-pozah",
+    "chanel": "mlx"
+  },
+  {
+    "id": 686,
+    "data": "2018-03-15",
+    "title": null,
+    "url": "https://phygitalismpro.slack.com/archives/C4SHU8T2R/p1521125888000702",
+    "chanel": "mlx"
+  },
+  {
+    "id": 687,
+    "data": "2018-03-14",
+    "title": "The Hitchhiker’s Guide to Machine Learning in Python",
+    "url": "https://medium.freecodecamp.org/the-hitchhikers-guide-to-machine-learning-algorithms-in-python-bfad66adb378",
+    "chanel": "mlx"
+  },
+  {
+    "id": 688,
+    "data": "2018-03-22",
+    "title": "nGraph: A New Open Source Compiler for Deep Learning Systems - Intel AI",
+    "url": "https://goo.gl/rvR6ZH",
+    "chanel": "mlx"
+  },
+  {
+    "id": 689,
+    "data": "2018-03-18",
+    "title": "The Data Scientist’s Toolbox | Coursera",
+    "url": "https://www.coursera.org/learn/data-scientists-tools#syllabus",
+    "chanel": "mlx"
+  },
+  {
+    "id": 690,
+    "data": "2018-03-13",
+    "title": "Топ-10 трендов технологий искусственного интеллекта (ИИ) в 2018 году",
+    "url": "https://habrahabr.ru/company/otus/blog/350614/",
+    "chanel": "mlx"
+  },
+  {
+    "id": 691,
+    "data": "2018-04-17",
+    "title": "likedan/Awesome-CoreML-Models",
+    "url": "https://github.com/likedan/Awesome-CoreML-Models",
+    "chanel": "mlx"
+  },
+  {
+    "id": 692,
+    "data": "2018-03-29",
+    "title": "Тренировка по машинному обучению, 31 марта 2018, Москва — События Яндекса",
+    "url": "https://events.yandex.ru/events/mltr/31-march-2018/",
+    "chanel": "mlx"
+  },
+  {
+    "id": 693,
+    "data": "2018-03-28",
+    "title": "Statistics and Machine Learning Toolbox",
+    "url": "https://www.mathworks.com/products/statistics.html",
+    "chanel": "mlx"
+  },
+  {
+    "id": 694,
+    "data": "2018-05-01",
+    "title": "Software 2.0 – Andrej Karpathy – Medium",
+    "url": "https://medium.com/@karpathy/software-2-0-a64152b37c35",
+    "chanel": "mlx"
+  },
+  {
+    "id": 695,
+    "data": "2018-04-16",
+    "title": "migueldeicaza/TensorFlowSharp",
+    "url": "https://github.com/migueldeicaza/TensorFlowSharp",
+    "chanel": "mlx"
+  },
+  {
+    "id": 696,
+    "data": "2018-03-12",
+    "title": "IBM Watson Unity SDK - Asset Store",
+    "url": "https://assetstore.unity.com/packages/tools/ai/ibm-watson-unity-sdk-108831?utm_campaign=as_global_newsletter_180309-A%24-Newsletter-P04&utm_content=180309-glb-as-news-%2304-em&utm_medium=email&utm_source=Eloqua",
+    "chanel": "mlx"
+  },
+  {
+    "id": 697,
+    "data": "2018-03-27",
+    "title": "Open-sourcing DeepMind Lab | DeepMind",
+    "url": "https://deepmind.com/blog/open-sourcing-deepmind-lab/",
+    "chanel": "mlx"
+  },
+  {
+    "id": 698,
+    "data": "2018-03-31",
+    "title": "Best Machine Learning Tools Software - 2018 Reviews of the Most Popular",
+    "url": "https://stackshare.io/machine-learning-tools",
+    "chanel": "mlx"
+  },
+  {
+    "id": 699,
+    "data": "2018-04-02",
+    "title": "Классификаторы: анализ активности посетителей сайтов",
+    "url": "https://habrahabr.ru/post/318644/",
+    "chanel": "mlx"
+  },
+  {
+    "id": 700,
+    "data": "2018-03-10",
+    "title": "Introducing the winners of the first ML-Agents challenge – Unity Blog",
+    "url": "https://blogs.unity3d.com/2018/02/28/introducing-the-winners-of-the-first-ml-agents-challenge/",
+    "chanel": "mlx"
+  },
+  {
+    "id": 701,
+    "data": "2018-03-21",
+    "title": "Яндекс.Алгоритм 2018",
+    "url": "https://yandex.ru/promo/academy/algorithm2018",
+    "chanel": "mlx"
+  },
+  {
+    "id": 702,
+    "data": "2018-04-09",
+    "title": "Открытый курс машинного обучения. Тема 9. Анализ временных рядов с помощью Python",
+    "url": "https://habrahabr.ru/company/ods/blog/327242/",
+    "chanel": "mlx"
+  },
+  {
+    "id": 703,
+    "data": "2018-03-01",
+    "title": "Now on GitHub: The Autonomous Driving Cookbook from Microsoft",
+    "url": "https://open.microsoft.com/2018/02/27/autonomous-driving-cookbook-github/",
+    "chanel": "mlx"
+  },
+  {
+    "id": 704,
+    "data": "2018-04-05",
+    "title": "MaximeCordeil/ImAxes",
+    "url": "https://github.com/MaximeCordeil/ImAxes",
+    "chanel": "mlx"
+  },
+  {
+    "id": 705,
+    "data": "2018-04-04",
+    "title": null,
+    "url": "https://phygitalismpro.slack.com/archives/C7CBXMUDN/p1522906964000092",
+    "chanel": "mlx"
+  },
+  {
+    "id": 706,
+    "data": "2018-04-08",
+    "title": "Личный To-do лист для становления Data Scientist.",
+    "url": "https://vk.com/@david_osipovv-to-do-list-dlya-stanovleniya-data-scientist",
+    "chanel": "mlx"
+  },
+  {
+    "id": 707,
+    "data": "2018-04-24",
+    "title": "EPIC-KITCHENS 2018 TRAILER",
+    "url": "https://www.youtube.com/watch?v=Dj6Y3H0ubDw",
+    "chanel": "mlx"
+  },
+  {
+    "id": 708,
+    "data": "2017-02-18",
+    "title": "VAMR ACADEMY БРИТАНКА",
+    "url": "https://yadi.sk/d/CZQEzvKN3At4Zp",
+    "chanel": "education-dev"
+  },
+  {
+    "id": 709,
+    "data": "2017-04-14",
+    "title": "Архитектура модульных React + Redux приложений",
+    "url": "https://habrahabr.ru/post/326484/",
+    "chanel": "education-dev"
+  },
+  {
+    "id": 710,
+    "data": "2016-11-28",
+    "title": "Руководство для начинающих VR-разработчиков",
+    "url": "https://habrahabr.ru/company/mailru/blog/316024/",
+    "chanel": "education-dev"
+  },
+  {
+    "id": 711,
+    "data": "2018-04-30",
+    "title": "Илон Маск и его спутники: почему раздача интернета из космоса под угрозой срыва | Технологии | Forbes.ru",
+    "url": "http://www.forbes.ru/tehnologii/360363-ilon-mask-i-ego-sputniki-pochemu-razdacha-interneta-iz-kosmosa-pod-ugrozoy-sryva",
+    "chanel": "project-tzup"
+  },
+  {
+    "id": 712,
+    "data": "2018-03-13",
+    "title": "Конкуренция и отвага: чего не хватает России в космическом бизнесе",
+    "url": "http://www.forbes.ru/tehnologii/358043-konkurenciya-i-otvaga-chego-ne-hvataet-rossii-v-kosmicheskom-biznese?utm_source=telegram&utm_medium=social&utm_campaign=targetings-forbes-tech-rus&utm_content=Технологии#0_8_3637_15023_1406_183101764",
+    "chanel": "project-tzup"
+  },
+  {
+    "id": 713,
+    "data": "2018-03-29",
+    "title": "Космический Интернет: SpaceX Starlink vs OneWeb | Море Ясности",
+    "url": "https://www.youtube.com/watch?time_continue=489&amp;v=0kCmR_u-Lx4",
+    "chanel": "project-tzup"
+  },
+  {
+    "id": 714,
+    "data": "2018-03-27",
+    "title": "Как идентифицировать спутник на орбите",
+    "url": "https://geektimes.ru/post/299395/",
+    "chanel": "project-tzup"
+  },
+  {
+    "id": 715,
+    "data": "2018-03-31",
+    "title": "Fact vs. Feeling (Paid Post by OppenheimerFunds From NYTimes.com)",
+    "url": "https://paidpost.nytimes.com/oppenheimerfunds/fact-vs-feeling.html",
+    "chanel": "project-tzup"
+  },
+  {
+    "id": 716,
+    "data": "2018-04-02",
+    "title": "SpaceX отправила на МКС спутник для охоты за космическим мусором",
+    "url": "http://nplus1.ru/news/2018/04/02/crs-14",
+    "chanel": "project-tzup"
+  },
+  {
+    "id": 717,
+    "data": "2018-03-10",
+    "title": "Связь в космосе: как это работает",
+    "url": "https://habrahabr.ru/company/yota/blog/350168/",
+    "chanel": "project-tzup"
+  },
+  {
+    "id": 718,
+    "data": "2018-04-25",
+    "title": "В Швеции заработает первый в мире аэропорт с виртуальной диспетчерской",
+    "url": "https://nplus1.ru/news/2018/04/21/digitaltower",
+    "chanel": "project-tzup"
+  },
+  {
+    "id": 719,
+    "data": "2018-03-17",
+    "title": "Об уважении к зрителю в эпоху информационных перегрузок",
+    "url": "https://designpub.ru/%D0%BE%D0%B1-%D1%83%D0%B2%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8-%D0%BA-%D0%B7%D1%80%D0%B8%D1%82%D0%B5%D0%BB%D1%8E-%D0%B2-%D1%8D%D0%BF%D0%BE%D1%85%D1%83-%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D1%85-%D0%BF%D0%B5%D1%80%D0%B5%D0%B3%D1%80%D1%83%D0%B7%D0%BE%D0%BA-70e55f10f0e8",
+    "chanel": "project-tzup"
+  }
+]

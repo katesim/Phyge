@@ -1,0 +1,44 @@
+[
+  {
+    "id": 0,
+    "data_type": "web_article",
+    "title": "Детектирование частей тела с помощью глубоких нейронных сетей",
+    "source": "https://habr.com/company/spbau/blog/354850/",
+    "chanel": null
+  },
+  {
+    "id": 1,
+    "data_type": "web_article",
+    "title": "Наука эмоции как умные технологии учатся понимать людей",
+    "source": "https://habr.com/company/netologyru/blog/354828/",
+    "chanel": null
+  },
+  {
+    "id": 2,
+    "data_type": "web_article",
+    "title": "Усы лапы и хвост как нейронная сеть распознает котиков и другие объекты",
+    "source": "https://habr.com/company/binarydistrict/blog/354524/",
+    "chanel": null
+  },
+  {
+    "id": 3,
+    "data_type": "web_article",
+    "title": "Еще одна статья о распознавании рабочих без касок нейросетями",
+    "source": "https://habr.com/post/354092/",
+    "chanel": null
+  },
+  {
+    "id": 4,
+    "data_type": "web_article",
+    "title": "Как в hh.ru тестируют поиск по вакансиям",
+    "source": "https://habr.com/company/hh/blog/353254/",
+    "chanel": null
+  },
+  {
+    "id": 5,
+    "data_type": "web_article",
+    "title": "Пять мифов о Data Science",
+    "source": "https://habr.com/company/idfinance/blog/353270/",
+    "chanel": null
+  }
+]

@@ -1,0 +1,1234 @@
+[
+  {
+    "id": 0,
+    "data": "2017-12-08",
+    "title": "Microsoft Announces Simplygon Cloud; Optimizes Mixed Reality Development - Building Apps for Windows",
+    "url": "https://blogs.windows.com/buildingapps/2017/12/07/microsoft-announces-simplygon-cloud-optimizes-mixed-reality-development/",
+    "chanel": "research",
+    "language": "en"
+  },
+  {
+    "id": 1,
+    "data": "2017-07-31",
+    "title": "SIGGRAPH: Neurable Lets You Control A Virtual World With Your Mind",
+    "url": "https://uploadvr.com/siggraph-neurable-lets-control-virtual-world-thought/",
+    "chanel": "research",
+    "language": "en"
+  },
+  {
+    "id": 2,
+    "data": "2017-02-24",
+    "title": "10 Breakthrough Technologies 2017",
+    "url": "https://www.technologyreview.com/lists/technologies/2017/",
+    "chanel": "research",
+    "language": "en"
+  },
+  {
+    "id": 4,
+    "data": "2017-08-18",
+    "title": "Story Baker Demo 1 - Microsoft Research",
+    "url": "https://www.microsoft.com/en-us/research/video/story-baker-demo-1/",
+    "chanel": "research",
+    "language": "en"
+  },
+  {
+    "id": 5,
+    "data": "2017-09-19",
+    "title": "Introducing: Unity Machine Learning Agents — Unity Blog",
+    "url": "https://blogs.unity3d.com/ru/2017/09/19/introducing-unity-machine-learning-agents/",
+    "chanel": "research",
+    "language": "en"
+  },
+  {
+    "id": 7,
+    "data": "2018-05-07",
+    "title": "Valve Knuckles controllers: Everything you need to know!",
+    "url": "https://www.imore.com/valve-knuckles-controllers-everything-you-need-know",
+    "chanel": "research",
+    "language": "en"
+  },
+  {
+    "id": 8,
+    "data": "2017-12-13",
+    "title": "Indoor Real Time Navigation with SLAM on your Mobile",
+    "url": "https://community.arm.com/graphics/b/blog/posts/indoor-real-time-navigation-with-slam-on-your-mobile",
+    "chanel": "research",
+    "language": "en"
+  },
+  {
+    "id": 10,
+    "data": "2018-04-06",
+    "title": "Enhancing Facebook’s AR platform with target tracking capabilities",
+    "url": "https://research.fb.com/enhancing-facebooks-ar-platform-with-target-tracking-capabilities/",
+    "chanel": "research",
+    "language": "en"
+  },
+  {
+    "id": 12,
+    "data": "2017-02-25",
+    "title": "Introducing Draco: compression for 3D graphics",
+    "url": "https://opensource.googleblog.com/2017/01/introducing-draco-compression-for-3d.html",
+    "chanel": "research",
+    "language": "en"
+  },
+  {
+    "id": 17,
+    "data": "2018-01-22",
+    "title": "Moscow Python Meetup 52",
+    "url": "https://corp.mail.ru/ru/press/events/413/",
+    "chanel": "research",
+    "language": "en"
+  },
+  {
+    "id": 19,
+    "data": "2017-08-29",
+    "title": "ARCore: Augmented reality at Android scale",
+    "url": "https://www.blog.google/products/google-vr/arcore-augmented-reality-android-scale/",
+    "chanel": "research",
+    "language": "en"
+  },
+  {
+    "id": 22,
+    "data": "2017-03-01",
+    "title": "Apple reportedly has ‘over 1,000 engineers’ working on AR, could show up in next iPhone",
+    "url": "http://www.theverge.com/circuitbreaker/2017/3/1/14782430/apple-rumored-oled-iphone-augmented-reality-tech?utm_campaign=theverge&utm_content=entry&utm_medium=social&utm_source=facebook",
+    "chanel": "research",
+    "language": "en"
+  },
+  {
+    "id": 24,
+    "data": "2016-11-15",
+    "title": "WorldViz is Creating a VR Platform for Enterprise Collaboration - Road to VR",
+    "url": "http://www.roadtovr.com/worldviz-skofield-creating-social-vr-platform-for-enterprise-communication/?platform=hootsuite",
+    "chanel": "research",
+    "language": "en"
+  },
+  {
+    "id": 26,
+    "data": "2018-04-03",
+    "title": "DropMeFiles – free one-click file sharing service",
+    "url": "http://dropmefiles.com/zt8S2",
+    "chanel": "research",
+    "language": "en"
+  },
+  {
+    "id": 31,
+    "data": "2017-05-08",
+    "title": "Waveguides: What You Need To Know To Understand Smartglasses",
+    "url": "https://uploadvr.com/waveguides-smartglasses/",
+    "chanel": "research",
+    "language": "en"
+  },
+  {
+    "id": 32,
+    "data": "2017-03-20",
+    "title": "Cisco, Bosch, and Foxconn are building blockchain tech for the internet of things",
+    "url": "http://venturebeat.com/2017/01/28/cisco-bosch-and-foxconn-are-building-blockchain-tech-for-the-internet-of-things/",
+    "chanel": "research",
+    "language": "en"
+  },
+  {
+    "id": 33,
+    "data": "2017-06-15",
+    "title": "PQ Labs G9 AR Touch for Business, Augmented Reality for Business",
+    "url": "http://www.pqlabs.com/g9-ar-touch.html",
+    "chanel": "research",
+    "language": "en"
+  },
+  {
+    "id": 36,
+    "data": "2018-02-11",
+    "title": "Get SMART - Seamless AR Tracking with ARCore and ARKit",
+    "url": "https://www.wikitude.com/blog-smart-wikitude-seamless-ar-tracking/",
+    "chanel": "research",
+    "language": "en"
+  },
+  {
+    "id": 37,
+    "data": "2017-08-31",
+    "title": "ARCore vs. ARKit: Google Counters Apple – IoT For All – Medium",
+    "url": "https://medium.com/iotforall/arcore-vs-arkit-google-counters-apple-33483c08d3da",
+    "chanel": "research",
+    "language": "en"
+  },
+  {
+    "id": 39,
+    "data": "2017-07-14",
+    "title": "Introducing Unity 2017 – Unity Blog",
+    "url": "https://blogs.unity3d.com/2017/07/11/introducing-unity-2017/",
+    "chanel": "research",
+    "language": "en"
+  },
+  {
+    "id": 42,
+    "data": "2018-01-30",
+    "title": "Sony Patents Reveal New Motion Controller Technologies",
+    "url": "https://www.vrfocus.com/2018/01/sony-patents-reveal-new-motion-controller-technologies/",
+    "chanel": "research",
+    "language": "en"
+  },
+  {
+    "id": 44,
+    "data": "2017-09-21",
+    "title": "Predictive Analytics With Spark ML - DZone AI",
+    "url": "https://dzone.com/articles/predictive-analytics-with-spark-ml?edition=326503&utm_source=Daily%20Digest&utm_medium=email&utm_campaign=Daily%20Digest%202017-09-21",
+    "chanel": "research",
+    "language": "en"
+  },
+  {
+    "id": 47,
+    "data": "2018-04-12",
+    "title": "New Jersey Utility Uses Augmented Reality to Visualise Underground Infrastructure",
+    "url": "https://www.roadtovr.com/utility-company-uses-augmented-reality-visualise-underground-infrastructure/",
+    "chanel": "research",
+    "language": "en"
+  },
+  {
+    "id": 49,
+    "data": "2017-04-02",
+    "title": "Home | LEIA 3D - Holographic Reality",
+    "url": "https://www.leia3d.com",
+    "chanel": "research",
+    "language": "en"
+  },
+  {
+    "id": 50,
+    "data": "2017-08-01",
+    "title": "How I built it: Visualizing Foursquare check-ins with Mapbox + ARKit",
+    "url": "https://blog.mapbox.com/how-i-built-this-visualizing-foursquare-check-ins-with-mapbox-arkit-ed88463992f3",
+    "chanel": "research",
+    "language": "en"
+  },
+  {
+    "id": 53,
+    "data": "2018-04-30",
+    "title": "VR, AR and Mixed Reality Resources – Prototypr",
+    "url": "https://blog.prototypr.io/vr-and-mixed-reality-resources-90a57498220e?source=linkShare-b6935e8a988a-1525148325",
+    "chanel": "ui",
+    "language": "en"
+  },
+  {
+    "id": 54,
+    "data": "2017-05-06",
+    "title": "People Don’t Want Something Truly New, They Want the Familiar Done Differently.",
+    "url": "https://medium.com/startup-grind/people-dont-want-something-truly-new-they-want-the-familiar-done-differently-7648f24f8fe7",
+    "chanel": "ui",
+    "language": "en"
+  },
+  {
+    "id": 55,
+    "data": "2017-10-08",
+    "title": "Automated UI-Testing for iOS Apps – Mobile Quality – Medium",
+    "url": "https://medium.com/mobile-quality/automated-ui-testing-for-ios-apps-cfe128ae6411",
+    "chanel": "ui",
+    "language": "en"
+  },
+  {
+    "id": 56,
+    "data": "2017-10-30",
+    "title": "Introducing InVision Design System Manager + Brand.ai is joining InVision - InVision Blog",
+    "url": "https://www.invisionapp.com/blog/announcing-invision-design-system-manager/#video",
+    "chanel": "ui",
+    "language": "en"
+  },
+  {
+    "id": 57,
+    "data": "2018-02-16",
+    "title": "VR/AR prototyping for everyone – Inborn Experience (UX in AR/VR) – Medium",
+    "url": "https://medium.com/inborn-experience/vr-ar-prototyping-for-everyone-ea6fb8f159b5",
+    "chanel": "ui",
+    "language": "en"
+  },
+  {
+    "id": 61,
+    "data": "2018-03-25",
+    "title": "Git &amp; Unity: best way to synchronize assets? • r/Unity3D",
+    "url": "https://www.reddit.com/r/Unity3D/comments/26ycol/git_unity_best_way_to_synchronize_assets/",
+    "chanel": "devops",
+    "language": "en"
+  },
+  {
+    "id": 62,
+    "data": "2017-12-19",
+    "title": "Artifactory - Universal Artifact Repository Manager - JFrog",
+    "url": "https://jfrog.com/artifactory/",
+    "chanel": "devops",
+    "language": "en"
+  },
+  {
+    "id": 63,
+    "data": "2018-03-31",
+    "title": "Best DevOps Software - 2018 Reviews of the Most Popular  Tools and Services",
+    "url": "https://stackshare.io/devops",
+    "chanel": "devops",
+    "language": "en"
+  },
+  {
+    "id": 64,
+    "data": "2018-03-26",
+    "title": "Plastic SCM - Comparisons",
+    "url": "https://www.plasticscm.com/comparisons.html",
+    "chanel": "devops",
+    "language": "en"
+  },
+  {
+    "id": 65,
+    "data": "2018-03-16",
+    "title": "Spotlight Team Best Practices: Project Setup – Unity Blog",
+    "url": "https://blogs.unity3d.com/2017/08/10/spotlight-team-best-practices-project-setup/",
+    "chanel": "devops",
+    "language": "en"
+  },
+  {
+    "id": 67,
+    "data": "2017-02-20",
+    "title": "Schneider Electric Invests in Immersive Technology | Automation World",
+    "url": "https://www.automationworld.com/all/schneider-electric-invests-immersive-technology",
+    "chanel": "cps",
+    "language": "en"
+  },
+  {
+    "id": 72,
+    "data": "2017-04-03",
+    "title": "isicad:  PTC   PTC Mathcad Prime 4.0         ",
+    "url": "http://isicad.ru/ru/news.php?news=19133",
+    "chanel": "cps-mbd",
+    "language": "en"
+  },
+  {
+    "id": 73,
+    "data": "2017-11-18",
+    "title": "NASA's Mars 2020 Mission Performs First Supersonic Parachute Test",
+    "url": "https://www.jpl.nasa.gov/news/news.php?feature=6999&utm_source=iContact&utm_medium=email&utm_campaign=NASAJPL&utm_content=weekly20171117-6",
+    "chanel": "project-marsum",
+    "language": "en"
+  },
+  {
+    "id": 74,
+    "data": "2017-11-03",
+    "title": "Best practice for Vive multiplayer using Unity? :: SteamVR Developer Hardware General Discussions",
+    "url": "https://steamcommunity.com/app/358720/discussions/0/365163686076142348/",
+    "chanel": "project-marsum",
+    "language": "en"
+  },
+  {
+    "id": 76,
+    "data": "2017-11-20",
+    "title": "Drones in Space! NASA's Wild Idea to Explore Mars (Video)",
+    "url": "https://www.space.com/30155-nasa-drones-on-mars-video.html",
+    "chanel": "project-marsum",
+    "language": "en"
+  },
+  {
+    "id": 77,
+    "data": "2017-12-27",
+    "title": "World's best view: Astronaut takes stunning self-portrait with Earth reflected in his visor",
+    "url": "http://www.dailymail.co.uk/sciencetech/article-1279596/Space-station-Astronaut-takes-stunning-self-portrait-Earth-reflected-visor.html",
+    "chanel": "project-marsum",
+    "language": "en"
+  },
+  {
+    "id": 78,
+    "data": "2017-11-02",
+    "title": "Smart Authentication for the Internet of Things – Hackster’s Blog",
+    "url": "https://blog.hackster.io/smart-authentication-for-the-internet-of-things-e9954a73540d",
+    "chanel": "hci",
+    "language": "en"
+  },
+  {
+    "id": 79,
+    "data": "2017-03-13",
+    "title": "10+ inspiring talks to design new experiences in virtual reality",
+    "url": "https://haptic.al/best-talks-virtual-reality-design-362221a8af7#.4pm37pxec",
+    "chanel": "hci",
+    "language": "en"
+  },
+  {
+    "id": 80,
+    "data": "2017-04-30",
+    "title": "The Verge",
+    "url": "https://www.facebook.com/verge/posts/1425657034137302",
+    "chanel": "hci",
+    "language": "en"
+  },
+  {
+    "id": 82,
+    "data": "2017-05-24",
+    "title": "These chatbots have realistic faces and can read your expressions",
+    "url": "https://www.technologyreview.com/s/603895/customer-service-chatbots-are-about-to-become-frighteningly-realistic/",
+    "chanel": "hci",
+    "language": "en"
+  },
+  {
+    "id": 85,
+    "data": "2017-04-23",
+    "title": "Amazon Lex – Build Conversation Bots",
+    "url": "https://aws.amazon.com/lex/",
+    "chanel": "hci",
+    "language": "en"
+  },
+  {
+    "id": 88,
+    "data": "2016-05-05",
+    "title": "Augmented Reality Animatronic Box Head",
+    "url": "https://www.hackster.io/RONDAGDAG/augmented-reality-animatronic-box-head-50e780?utm_source=Hackster.io+newsletter&utm_campaign=b56adf9b7c-2015_4_17_Top_projects4_16_2015&utm_medium=email&utm_term=0_6ff81e3e5b-b56adf9b7c-140252513",
+    "chanel": "general",
+    "language": "en"
+  },
+  {
+    "id": 89,
+    "data": "2017-02-13",
+    "title": "sue445/gitpeach",
+    "url": "https://github.com/sue445/gitpeach",
+    "chanel": "general",
+    "language": "en"
+  },
+  {
+    "id": 91,
+    "data": "2017-10-11",
+    "title": "Create free account | DataCamp",
+    "url": "https://www.datacamp.com/groups/6972b9d360e119d181c0845f07499ca375724e75/invite",
+    "chanel": "general",
+    "language": "en"
+  },
+  {
+    "id": 92,
+    "data": "2016-11-15",
+    "title": "Moscow Internet of Things Community",
+    "url": "http://meetu.ps/e/C7RJV/kKS0j/d",
+    "chanel": "general",
+    "language": "en"
+  },
+  {
+    "id": 93,
+    "data": "2017-03-31",
+    "title": "Grab-a-Word - Android Apps on Google Play",
+    "url": "https://play.google.com/store/apps/details?id=com.uwg_mobile",
+    "chanel": "general",
+    "language": "en"
+  },
+  {
+    "id": 94,
+    "data": "2017-11-16",
+    "title": "Welcome to HTCSense.com",
+    "url": "https://www.htcsense.com/login/saml?request=ewogICJJRCIgOiAiYmY4ZGI1YmQtY2Y2ZS00Mzc0LTlmOGEtZWNmZjRkNjgzYjAwIiwKICAiSXNzdWVyIiA6ICJhY2NvdW50Lmh0Y3NlbnNlLmNvbSIsCiAgInRpbWVzdGFtcCIgOiAiMjAxNy0xMS0xNlQxMzoyNjowNFoiLAogICJOb3RPbk9yQWZ0ZXIiIDogIjIwMTctMTEtMTZUMTM6Mjg6MDRaIiwKICAiU2VydmljZVByb3ZpZGVyIiA6ICJjMTY5MTY5OC1jMTU5LTQ5ODgtOWVhNS0zNGMwMTAzZTM0MDEiLAogICJBdXRob3JpdGllcyIgOiBudWxsLAogICJGaWVsZHMiIDogImZuPTEsbG49MSIsCiAgIkNhbGxiYWNrIiA6ICJodHRwczovL3d3dy5odGNzZW5zZS5jb20vJFJBTSQvJFdTJC9TZXJ2aWNlcy9PQXV0aC9BdXRob3JpemUiLAogICJEZXN0aW5hdGlvbiIgOiAiaHR0cHM6Ly93d3cuaHRjc2Vuc2UuY29tL2xvZ2luL3NhbWwiLAogICJWZXJzaW9uIiA6IDIsCiAgIlJlbGF5U3RhdGUiIDogImlpVHZjZVNFY1NIRW16SHNlaVFBbjEvakRlZHNsR0xPNkFLem5pVnFYQkIyRmthSXFicHpSKzEyY3BYY2pnMjllVUtIZE0vNVY5QzQ1VmhFQUtPcmxtdlQ1UTFpSHJTVnBQbmQ4MUZIZFVZPSIsCiAgIkkxOG5JZCIgOiAiaHRjdml2ZWh1YiIsCiAgIlZpZXdUeXBlIiA6ICJyZWRpcmVjdCIKfQ%3D%3D&sigalg=SHA1withRSA&signature=XAIyl5ydxD1DoikbSDUJLE2Zi9oJjtXdjggmEo3bA83CH02a%2FjRUmR304hNsRMfZYm2WAiy%2BjDzJg%2BuBVhSs%2FVyk7aS8E81V%2B%2BYxNHGcO%2BdgyF1lG5f3nH3mQJnyl4SuvbLVNcQ%2B5LW8G2zuDZkXa%2F%2B7dUFFLLGda8tgSwq2iWH99VIWAUTE%2BgV9RoGB2pjU2pVWWN0YV5ekCLPthCA5hwXWFZsCA5Qj0R9%2BaO3aJpsg2fBF1SkZIlat7HRSRGPCjmexCie71EyXGyOoHnP%2F%2Fq%2FRzWsCN6GzkuYY7qKFk27rpkhBK0MUdGIOefUPdBtWZzZNvePNiJGAC%2B2JGGVq3A%3D%3D",
+    "chanel": "general",
+    "language": "en"
+  },
+  {
+    "id": 95,
+    "data": "2017-04-02",
+    "title": "MATLAB R2014b (8.04) 150421 (x64) MAC OS :: RuTracker.org",
+    "url": "https://rutracker.org/forum/viewtopic.php?t=4887900",
+    "chanel": "general",
+    "language": "en"
+  },
+  {
+    "id": 97,
+    "data": "2018-04-06",
+    "title": "Substance in Unity - Asset Store",
+    "url": "https://assetstore.unity.com/packages/tools/utilities/substance-in-unity-110555?utm_campaign=as_global_newsletter_180406-A%24-Newsletter-P05&utm_content=180406-glb-as-news-%2305-em&utm_medium=email&utm_source=Eloqua",
+    "chanel": "cg",
+    "language": "en"
+  },
+  {
+    "id": 99,
+    "data": "2017-12-19",
+    "title": "The Ultimate Guide to Learning 3D – Prototypr",
+    "url": "https://blog.prototypr.io/the-ultimate-guide-to-learning-3d-e69a3a64231e",
+    "chanel": "cg",
+    "language": "en"
+  },
+  {
+    "id": 100,
+    "data": "2017-10-12",
+    "title": "Real-Time Graphics in Pixar Film Production",
+    "url": "https://vimeo.com/180966864",
+    "chanel": "cg",
+    "language": "en"
+  },
+  {
+    "id": 101,
+    "data": "2018-04-15",
+    "title": "AI stuntpeople could lead to more realistic video games",
+    "url": "https://www.engadget.com/amp/2018/04/11/ai-teaches-itself-stunts/",
+    "chanel": "cg",
+    "language": "en"
+  },
+  {
+    "id": 102,
+    "data": "2018-01-17",
+    "title": "Book of the Dead",
+    "url": "https://unity3d.com/ru/book-of-the-dead",
+    "chanel": "cg",
+    "language": "en"
+  },
+  {
+    "id": 105,
+    "data": "2018-03-16",
+    "title": "Joost Vanhoutte on Cubebrush.co",
+    "url": "https://cubebrush.co/joost",
+    "chanel": "cg",
+    "language": "en"
+  },
+  {
+    "id": 106,
+    "data": "2018-02-21",
+    "title": "HQ Modular Pipe Pack - Asset Store",
+    "url": "https://assetstore.unity.com/packages/3d/props/industrial/hq-modular-pipe-pack-70776",
+    "chanel": "cg",
+    "language": "en"
+  },
+  {
+    "id": 107,
+    "data": "2017-04-21",
+    "title": "Ops 4.0: Fueling the next 20 percent productivity rise with digital analytics",
+    "url": "https://goo.gl/QhaV5l",
+    "chanel": "business",
+    "language": "en"
+  },
+  {
+    "id": 109,
+    "data": "2017-04-29",
+    "title": "The Early Pitch Decks Of 10 Startups Before They Became Billion-Dollar Companies",
+    "url": "https://www.cbinsights.com/blog/billion-dollar-startup-pitch-decks/",
+    "chanel": "business",
+    "language": "en"
+  },
+  {
+    "id": 111,
+    "data": "2017-04-04",
+    "title": "Everything Is Digital: Ten HR and Talent Predictions for 2020",
+    "url": "https://www.slideshare.net/mobile/jbersin/everything-is-digital-ten-hr-and-talent-predictions-for-2020",
+    "chanel": "business",
+    "language": "en"
+  },
+  {
+    "id": 112,
+    "data": "2017-05-21",
+    "title": "60+ science fiction books on virtual reality – Haptical",
+    "url": "https://haptic.al/best-virtual-reality-science-fiction-books-7cf05dba0b9a",
+    "chanel": "books",
+    "language": "en"
+  },
+  {
+    "id": 113,
+    "data": "2017-12-08",
+    "title": "ANSYS Discovery Live: Instant Simulation Results",
+    "url": "http://www.ansys.com/products/3d-design/ansys-discovery-live?mkt_tok=eyJpIjoiWVRnek9HUTRaR0psT0dNeCIsInQiOiI3TFhMYmxjeVwvSU1iZzhpZVNZVVRlYW5zTmYzalNtd1BGVkhpbFNIbFN3NGZ0MTRXNkhaQXZYY1pnbU5ERUdrR0NNeHlQN3dDUUtoOXR2d000N0grZzBnUmRKRnpwMWNkSEo2ZkJwcUxqbXliVkVSMmtCSFE5RWdRZllnQXdRTFQifQ%3D%3D",
+    "chanel": "math",
+    "language": "en"
+  },
+  {
+    "id": 114,
+    "data": "2018-02-06",
+    "title": "How_to_write_a_maths_article_in_English.doc",
+    "url": "https://yadi.sk/i/1M65pZSU3SAMP4/",
+    "chanel": "math",
+    "language": "en"
+  },
+  {
+    "id": 115,
+    "data": "2018-01-27",
+    "title": "The Art of Effective Visualization of Multi-dimensional Data",
+    "url": "https://towardsdatascience.com/the-art-of-effective-visualization-of-multi-dimensional-data-6c7202990c57",
+    "chanel": "math",
+    "language": "en"
+  },
+  {
+    "id": 116,
+    "data": "2017-12-04",
+    "title": "iOS Tutorial: Want your Swift app to scroll in two directions, like Netflix? Here's how. - Thorn Technologies",
+    "url": "https://www.thorntech.com/2015/08/want-your-swift-app-to-scroll-in-two-directions-like-netflix-heres-how/",
+    "chanel": "dev-ios",
+    "language": "en"
+  },
+  {
+    "id": 117,
+    "data": "2018-04-10",
+    "title": "olucurious/Awesome-ARKit",
+    "url": "https://github.com/olucurious/Awesome-ARKit",
+    "chanel": "dev-ios",
+    "language": "en"
+  },
+  {
+    "id": 118,
+    "data": "2018-04-26",
+    "title": "Progressive Web Apps on iOS are here :rocket: – Maximiliano Firtman – Medium",
+    "url": "https://medium.com/@firt/progressive-web-apps-on-ios-are-here-d00430dee3a7",
+    "chanel": "dev-ios",
+    "language": "en"
+  },
+  {
+    "id": 119,
+    "data": "2018-04-17",
+    "title": "Machine Learning for iOS",
+    "url": "http://alexsosn.github.io/ml/2015/11/05/iOS-ML.html",
+    "chanel": "dev-ios",
+    "language": "en"
+  },
+  {
+    "id": 120,
+    "data": "2018-02-12",
+    "title": "27 iOS open source libraries to skyrocket your development.",
+    "url": "https://medium.com/app-coder-io/27-ios-open-source-libraries-to-skyrocket-your-development-301b67d3124c",
+    "chanel": "dev-ios",
+    "language": "en"
+  },
+  {
+    "id": 121,
+    "data": "2017-11-08",
+    "title": "Swift Functional Programming Tutorial - Ray Wenderlich",
+    "url": "https://www.raywenderlich.com/82599/swift-functional-programming-tutorial",
+    "chanel": "dev-ios",
+    "language": "en"
+  },
+  {
+    "id": 122,
+    "data": "2017-12-10",
+    "title": "How to create constraints in code.",
+    "url": "https://theswiftlibrary.com/create-constraints-in-code?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=AppCoda",
+    "chanel": "dev-ios",
+    "language": "en"
+  },
+  {
+    "id": 123,
+    "data": "2018-04-24",
+    "title": "hanleyweng/Gesture-Recognition-101-CoreML-ARKit",
+    "url": "https://github.com/hanleyweng/Gesture-Recognition-101-CoreML-ARKit",
+    "chanel": "dev-ios",
+    "language": "en"
+  },
+  {
+    "id": 124,
+    "data": "2018-02-22",
+    "title": "Lens Studio - Lens Studio by Snap Inc.",
+    "url": "https://lensstudio.snapchat.com/",
+    "chanel": "hackathon",
+    "language": "en"
+  },
+  {
+    "id": 126,
+    "data": "2017-05-20",
+    "title": "Minimalistic Learning Path to Become a Data Scientist",
+    "url": "https://hackernoon.com/minimalistic-learning-path-to-become-a-data-scientist-c0a4f614bd09",
+    "chanel": "ml",
+    "language": "en"
+  },
+  {
+    "id": 129,
+    "data": "2018-01-28",
+    "title": "10 Machine Learning Algorithms You need to Know – Towards Data Science",
+    "url": "https://towardsdatascience.com/10-machine-learning-algorithms-you-need-to-know-77fb0055fe0",
+    "chanel": "ml",
+    "language": "en"
+  },
+  {
+    "id": 130,
+    "data": "2018-02-03",
+    "title": "Pinterest’s Visual Lens: How computer vision explores your taste",
+    "url": "https://towardsdatascience.com/pinterests-visual-lens-how-computer-vision-explores-your-taste-5470f87502ad",
+    "chanel": "ml",
+    "language": "en"
+  },
+  {
+    "id": 131,
+    "data": "2017-05-17",
+    "title": "Neural network-based technology helps smartphones augment any object",
+    "url": "https://haptic.al/neural-network-based-technology-helps-smartphones-augment-any-object-f16e1e41195f?utm_content=buffer91684&gi=5a6427064395",
+    "chanel": "ml",
+    "language": "en"
+  },
+  {
+    "id": 132,
+    "data": "2017-10-22",
+    "title": "AlphaGo Zero: Learning from scratch | DeepMind",
+    "url": "https://deepmind.com/blog/alphago-zero-learning-scratch/",
+    "chanel": "ml",
+    "language": "en"
+  },
+  {
+    "id": 134,
+    "data": "2017-06-16",
+    "title": "Machine Learning Automation for Predictive Modeling | DataRobot",
+    "url": "https://www.datarobot.com/",
+    "chanel": "ml",
+    "language": "en"
+  },
+  {
+    "id": 135,
+    "data": "2017-05-06",
+    "title": "The Simple, Economic Value of Artificial Intelligence",
+    "url": "http://blog.irvingwb.com/blog/2017/04/predictions-judgement-and-decisions.html",
+    "chanel": "ml",
+    "language": "en"
+  },
+  {
+    "id": 136,
+    "data": "2017-05-10",
+    "title": "A list of artificial intelligence tools you can use today — for personal use (1/3)",
+    "url": "https://hackernoon.com/a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-1-3-7f1b60b6c94f?source=linkShare-b47df72bd1ed-1494446011",
+    "chanel": "ml",
+    "language": "en"
+  },
+  {
+    "id": 137,
+    "data": "2018-02-12",
+    "title": "Performance Trends in AI",
+    "url": "https://srconstantin.wordpress.com/2017/01/28/performance-trends-in-ai/",
+    "chanel": "ml",
+    "language": "en"
+  },
+  {
+    "id": 139,
+    "data": "2017-06-20",
+    "title": "Google’s Tensor2Tensor makes it easier to conduct deep learning experiments",
+    "url": "https://techcrunch.com/2017/06/19/tensor2tensor/?ncid=rss&utm_source=tcfbpage&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29&utm_content=FaceBook&sr_share=facebook",
+    "chanel": "ml",
+    "language": "en"
+  },
+  {
+    "id": 140,
+    "data": "2017-06-21",
+    "title": "The Neural Network Zoo - The Asimov Institute",
+    "url": "http://www.asimovinstitute.org/neural-network-zoo/",
+    "chanel": "ml",
+    "language": "en"
+  },
+  {
+    "id": 142,
+    "data": "2018-03-28",
+    "title": "Expressive Speech Synthesis with Tacotron",
+    "url": "https://research.googleblog.com/2018/03/expressive-speech-synthesis-with.html",
+    "chanel": "ml",
+    "language": "en"
+  },
+  {
+    "id": 143,
+    "data": "2018-05-01",
+    "title": "Data Augmentation | How to use Deep Learning when you have Limited Data — Part 2",
+    "url": "https://medium.com/nanonets/how-to-use-deep-learning-when-you-have-limited-data-part-2-data-augmentation-c26971dc8ced",
+    "chanel": "ml",
+    "language": "en"
+  },
+  {
+    "id": 144,
+    "data": "2017-10-12",
+    "title": "Competitive Self-Play",
+    "url": "https://blog.openai.com/competitive-self-play/",
+    "chanel": "ml",
+    "language": "en"
+  },
+  {
+    "id": 147,
+    "data": "2018-03-07",
+    "title": "AI Platform for Windows Developers - Windows Developer Blog",
+    "url": "https://blogs.windows.com/buildingapps/2018/03/07/ai-platform-windows-developers",
+    "chanel": "ml",
+    "language": "en"
+  },
+  {
+    "id": 148,
+    "data": "2017-12-20",
+    "title": "15 Trending Data Science GitHub Repositories you can not miss in 2017",
+    "url": "https://www.analyticsvidhya.com/blog/2017/12/15-data-science-repositories-github-2017/",
+    "chanel": "ml",
+    "language": "en"
+  },
+  {
+    "id": 149,
+    "data": "2017-08-10",
+    "title": "Deep Learning | Coursera",
+    "url": "https://www.coursera.org/specializations/deep-learning",
+    "chanel": "ml",
+    "language": "en"
+  },
+  {
+    "id": 150,
+    "data": "2017-07-23",
+    "title": "Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning &amp; Big Data",
+    "url": "https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463",
+    "chanel": "ml",
+    "language": "en"
+  },
+  {
+    "id": 152,
+    "data": "2017-05-08",
+    "title": "OpenAI Gym: A toolkit for developing and comparing reinforcement learning algorithms",
+    "url": "https://gym.openai.com/",
+    "chanel": "ml",
+    "language": "en"
+  },
+  {
+    "id": 153,
+    "data": "2017-10-26",
+    "title": "Facebook research automatically creates an avatar from a photo",
+    "url": "https://techcrunch.com/2017/10/23/facebook-research-automatically-creates-an-avatar-from-a-photo/?utm_content=bufferc6218&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer",
+    "chanel": "ml",
+    "language": "en"
+  },
+  {
+    "id": 154,
+    "data": "2017-04-08",
+    "title": "Google DeepMind open sources Sonnet so you can build neural networks in TensorFlow even quicker",
+    "url": "https://techcrunch.com/2017/04/07/google-deepmind-open-sources-sonnet-so-you-can-build-neural-networks-in-tensorflow-even-quicker/?ncid=rss&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29&utm_content=FaceBook&sr_share=facebook",
+    "chanel": "ml",
+    "language": "en"
+  },
+  {
+    "id": 155,
+    "data": "2017-07-02",
+    "title": "mattatz/unity-teddy",
+    "url": "https://github.com/mattatz/unity-teddy",
+    "chanel": "ml",
+    "language": "en"
+  },
+  {
+    "id": 156,
+    "data": "2017-10-10",
+    "title": "Create free account | DataCamp",
+    "url": "https://www.datacamp.com/groups/6972b9d360e119d181c0845f07499ca375724e75/invite",
+    "chanel": "ml",
+    "language": "en"
+  },
+  {
+    "id": 157,
+    "data": "2018-03-17",
+    "title": "Hardware for Deep Learning. Part 3: GPU – Intento",
+    "url": "https://medium.com/@moocaholic/hardware-for-deep-learning-part-3-gpu-8906c1644664",
+    "chanel": "ml",
+    "language": "en"
+  },
+  {
+    "id": 158,
+    "data": "2018-01-11",
+    "title": "Turning Design Mockups Into Code With Deep Learning - FloydHub Blog",
+    "url": "https://blog.floydhub.com/turning-design-mockups-into-code-with-deep-learning/",
+    "chanel": "ml",
+    "language": "en"
+  },
+  {
+    "id": 162,
+    "data": "2017-04-11",
+    "title": "Blockchain MeetUP: IBCG &amp; Moscow IOT Community (Интернет вещей) / События на TimePad.ru",
+    "url": "https://goo.gl/U72fDm",
+    "chanel": "tech-meetups",
+    "language": "en"
+  },
+  {
+    "id": 165,
+    "data": "2017-07-12",
+    "title": "2017 Games for Change Festival | July 31 - Aug. 2 | NYC",
+    "url": "http://festival.gamesforchange.org/",
+    "chanel": "tech-meetups",
+    "language": "en"
+  },
+  {
+    "id": 167,
+    "data": "2017-07-11",
+    "title": "Metrics for programmers automatically generated from your coding activity",
+    "url": "https://wakatime.com/",
+    "chanel": "dev",
+    "language": "en"
+  },
+  {
+    "id": 169,
+    "data": "2017-05-21",
+    "title": "Object Oriented Tricks: #6 SLAP your functions – Hacker Noon",
+    "url": "https://hackernoon.com/object-oriented-tricks-6-slap-your-functions-a13d25a7d994",
+    "chanel": "dev",
+    "language": "en"
+  },
+  {
+    "id": 170,
+    "data": "2017-04-30",
+    "title": "JetBrains Rider - Alternative to Visual Studio - The Knights of Unity - Blog of Knowledge - Index",
+    "url": "http://blog.theknightsofunity.com/jetbrains-rider-alternative-visual-studio/",
+    "chanel": "dev",
+    "language": "en"
+  },
+  {
+    "id": 171,
+    "data": "2017-04-26",
+    "title": "Composition vs. Inheritance: How to Choose?",
+    "url": "https://www.thoughtworks.com/insights/blog/composition-vs-inheritance-how-choose",
+    "chanel": "dev",
+    "language": "en"
+  },
+  {
+    "id": 172,
+    "data": "2017-08-09",
+    "title": "Why Programmers Need Limits – Charles Scalfani – Medium",
+    "url": "https://medium.com/@cscalfani/why-programmers-need-limits-3d96e1a0a6db",
+    "chanel": "dev",
+    "language": "en"
+  },
+  {
+    "id": 173,
+    "data": "2017-05-09",
+    "title": "Object Oriented Tricks: #2 Law of Demeter – Hacker Noon",
+    "url": "https://hackernoon.com/object-oriented-tricks-2-law-of-demeter-4ecc9becad85",
+    "chanel": "dev",
+    "language": "en"
+  },
+  {
+    "id": 174,
+    "data": "2018-03-30",
+    "title": "The most important skill in software development",
+    "url": "https://www.johndcook.com/blog/2015/06/18/most-important-skill-in-software/",
+    "chanel": "dev",
+    "language": "en"
+  },
+  {
+    "id": 175,
+    "data": "2017-12-21",
+    "title": "Zapier | The easiest way to automate your work",
+    "url": "https://zapier.com/",
+    "chanel": "dev",
+    "language": "en"
+  },
+  {
+    "id": 176,
+    "data": "2017-09-30",
+    "title": "Server Side Swift vs. The Other Guys — 2: Speed – Qutheory – Medium",
+    "url": "https://medium.com/@qutheory/server-side-swift-vs-the-other-guys-2-speed-ca65b2f79505",
+    "chanel": "dev",
+    "language": "en"
+  },
+  {
+    "id": 177,
+    "data": "2018-04-25",
+    "title": "WebAssembly &amp; The Death of the App Store – Hacker Noon",
+    "url": "https://hackernoon.com/webassembly-the-death-of-the-app-store-c9bc3f9557c8",
+    "chanel": "dev",
+    "language": "en"
+  },
+  {
+    "id": 178,
+    "data": "2017-06-05",
+    "title": "phygitalism/c-sharp-style-guide",
+    "url": "https://github.com/phygitalism/c-sharp-style-guide",
+    "chanel": "dev",
+    "language": "en"
+  },
+  {
+    "id": 180,
+    "data": "2018-01-08",
+    "title": "Unity - Optimisation for VR in Unity",
+    "url": "https://unity3d.com/ru/learn/tutorials/topics/virtual-reality/optimisation-vr-unity",
+    "chanel": "dev-unity",
+    "language": "en"
+  },
+  {
+    "id": 181,
+    "data": "2017-11-02",
+    "title": "10000 Update() calls – Unity Blog",
+    "url": "https://blogs.unity3d.com/2015/12/23/1k-update-calls/",
+    "chanel": "dev-unity",
+    "language": "en"
+  },
+  {
+    "id": 182,
+    "data": "2018-02-02",
+    "title": "Asset Store: A year in review – Unity Blog",
+    "url": "https://blogs.unity3d.com/2017/12/18/asset-store-a-year-in-review/",
+    "chanel": "dev-unity",
+    "language": "en"
+  },
+  {
+    "id": 183,
+    "data": "2018-05-07",
+    "title": "RyanNielson/awesome-unity",
+    "url": "https://github.com/RyanNielson/awesome-unity",
+    "chanel": "dev-unity",
+    "language": "en"
+  },
+  {
+    "id": 185,
+    "data": "2018-02-23",
+    "title": "Unity News",
+    "url": "https://t.me/unity_news",
+    "chanel": "dev-unity",
+    "language": "en"
+  },
+  {
+    "id": 186,
+    "data": "2018-03-13",
+    "title": "GameDev Architecture",
+    "url": "https://t.me/gamedev_architecture",
+    "chanel": "dev-unity",
+    "language": "en"
+  },
+  {
+    "id": 187,
+    "data": "2018-03-29",
+    "title": "Unity - Unity 2017.4.0f1",
+    "url": "https://unity3d.com/ru/unity/whats-new/unity-2017.4.0",
+    "chanel": "dev-unity",
+    "language": "en"
+  },
+  {
+    "id": 188,
+    "data": "2018-03-09",
+    "title": "Multiplatform Game UI Middleware Based On XAML | NoesisGUI",
+    "url": "https://www.noesisengine.com",
+    "chanel": "dev-unity",
+    "language": "en"
+  },
+  {
+    "id": 189,
+    "data": "2018-02-05",
+    "title": "ARKit Remote: Now With Face Tracking! – Unity Blog",
+    "url": "https://blogs.unity3d.com/2018/01/16/arkit-remote-now-with-face-tracking/",
+    "chanel": "dev-unity",
+    "language": "en"
+  },
+  {
+    "id": 190,
+    "data": "2017-11-13",
+    "title": "Unity - Manual: Script compilation and assembly definition files",
+    "url": "https://docs.unity3d.com/2017.3/Documentation/Manual/ScriptCompilationAssemblyDefinitionFiles.html",
+    "chanel": "dev-unity",
+    "language": "en"
+  },
+  {
+    "id": 192,
+    "data": "2018-04-15",
+    "title": "Data-Oriented Design (Or Why You Might Be Shooting Yourself in The Foot With OOP)",
+    "url": "http://gamesfromwithin.com/data-oriented-design",
+    "chanel": "dev-unity",
+    "language": "en"
+  },
+  {
+    "id": 193,
+    "data": "2018-02-27",
+    "title": "Introduction to Shader Graph: Build your shaders with a visual editor – Unity Blog",
+    "url": "https://blogs.unity3d.com/2018/02/27/introduction-to-shader-graph-build-your-shaders-with-a-visual-editor/",
+    "chanel": "dev-unity",
+    "language": "en"
+  },
+  {
+    "id": 195,
+    "data": "2018-02-20",
+    "title": "IBM and Unity are teaming up to bring Watson's AI to VR and AR games",
+    "url": "https://thenextweb.com/artificial-intelligence/2018/02/20/ibm-and-unity-are-teaming-up-to-bring-watsons-ai-to-vr-and-ar-games/",
+    "chanel": "dev-unity",
+    "language": "en"
+  },
+  {
+    "id": 197,
+    "data": "2018-02-16",
+    "title": "craigkj312/unity-arkit-portal",
+    "url": "https://github.com/craigkj312/unity-arkit-portal",
+    "chanel": "dev-unity",
+    "language": "en"
+  },
+  {
+    "id": 198,
+    "data": "2018-02-21",
+    "title": "Unity3D Assets",
+    "url": "https://t.me/unity3d_assets",
+    "chanel": "dev-unity",
+    "language": "en"
+  },
+  {
+    "id": 199,
+    "data": "2017-03-29",
+    "title": "Moscow Internet of Things Community",
+    "url": "https://www.meetup.com/Moscow-Internet-of-Things-Community/events/238780542/",
+    "chanel": "meetings",
+    "language": "en"
+  },
+  {
+    "id": 200,
+    "data": "2017-02-14",
+    "title": "Windows 10 Creators Update",
+    "url": "https://events.techdays.ru/Creators-Update/2017-02/schedule",
+    "chanel": "meetings",
+    "language": "en"
+  },
+  {
+    "id": 203,
+    "data": "2017-11-22",
+    "title": "Apple acquired augmented reality headset startup Vrvana for $30M",
+    "url": "https://techcrunch.com/2017/11/21/apple-acquires-mixed-reality-headset-startup-vrvana-for-30m/",
+    "chanel": "random",
+    "language": "en"
+  },
+  {
+    "id": 205,
+    "data": "2018-03-14",
+    "title": "Welcome to Light Fields on Steam",
+    "url": "http://store.steampowered.com/app/771310/Welcome_to_Light_Fields/",
+    "chanel": "random",
+    "language": "en"
+  },
+  {
+    "id": 207,
+    "data": "2017-10-29",
+    "title": "Scientists use HTC Vive controllers to operate this rescue robot like a puppet",
+    "url": "https://www.theverge.com/2017/10/24/16507456/rescue-robot-puppet-htc-vive-controllers",
+    "chanel": "random",
+    "language": "en"
+  },
+  {
+    "id": 213,
+    "data": "2017-05-31",
+    "title": "Applied Machine Learning in Python | Coursera",
+    "url": "https://www.coursera.org/learn/python-machine-learning",
+    "chanel": "random",
+    "language": "en"
+  },
+  {
+    "id": 215,
+    "data": "2018-03-12",
+    "title": "Announcing VDA2 Nominees - VIVE Blog",
+    "url": "https://blog.vive.com/us/2018/03/06/announcing-vda2-nominees/",
+    "chanel": "random",
+    "language": "en"
+  },
+  {
+    "id": 217,
+    "data": "2018-04-18",
+    "title": "The Eminem AR show",
+    "url": "https://techcrunch.com/2018/04/16/the-eminem-ar-show/",
+    "chanel": "random",
+    "language": "en"
+  },
+  {
+    "id": 218,
+    "data": "2017-02-21",
+    "title": "Crazy Fishing - When technology fails you in Virtual Reality",
+    "url": "https://imgur.com/gallery/fGuiUQx",
+    "chanel": "random",
+    "language": "en"
+  },
+  {
+    "id": 221,
+    "data": "2017-12-26",
+    "title": "Save 35% on MasterpieceVR on Steam",
+    "url": "http://store.steampowered.com/app/504650/MasterpieceVR/",
+    "chanel": "random",
+    "language": "en"
+  },
+  {
+    "id": 222,
+    "data": "2018-02-20",
+    "title": "Where is Starman going to be in the future",
+    "url": "http://www.whereisroadster.com/charts.html",
+    "chanel": "random",
+    "language": "en"
+  },
+  {
+    "id": 223,
+    "data": "2017-04-03",
+    "title": "Strange Beasts",
+    "url": "https://vimeo.com/209070629",
+    "chanel": "random",
+    "language": "en"
+  },
+  {
+    "id": 224,
+    "data": "2018-04-29",
+    "title": "Apple is reportedly building an insane ’16K’ VR headset",
+    "url": "https://techcrunch.com/2018/04/27/apple-is-reportedly-building-an-insane-16k-vr-headset/?utm_source=tctwreshare&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29&amp;sr_share=twitter",
+    "chanel": "random",
+    "language": "en"
+  },
+  {
+    "id": 229,
+    "data": "2017-05-13",
+    "title": "«Intel® Nervana™ AI Summit Moscow 2017» | Seminars.softline.ru",
+    "url": "http://events.softline.ru/event/10902/detail?utm_source=FB&utm_medium=cpc&utm_campaign=intel_Nervana_moscow_16may",
+    "chanel": "events",
+    "language": "en"
+  },
+  {
+    "id": 230,
+    "data": "2017-01-11",
+    "title": "Microsoft Kinect Sensor 2.0",
+    "url": "https://www.avito.ru/moskva/igry_pristavki_i_programmy/microsoft_kinect_sensor_2.0_703746259",
+    "chanel": "project-int-mirror2",
+    "language": "en"
+  },
+  {
+    "id": 231,
+    "data": "2018-03-14",
+    "title": "The Hitchhiker’s Guide to Machine Learning in Python",
+    "url": "https://medium.freecodecamp.org/the-hitchhikers-guide-to-machine-learning-algorithms-in-python-bfad66adb378",
+    "chanel": "mlx",
+    "language": "en"
+  },
+  {
+    "id": 232,
+    "data": "2018-03-22",
+    "title": "nGraph: A New Open Source Compiler for Deep Learning Systems - Intel AI",
+    "url": "https://goo.gl/rvR6ZH",
+    "chanel": "mlx",
+    "language": "en"
+  },
+  {
+    "id": 233,
+    "data": "2018-03-18",
+    "title": "The Data Scientist’s Toolbox | Coursera",
+    "url": "https://www.coursera.org/learn/data-scientists-tools#syllabus",
+    "chanel": "mlx",
+    "language": "en"
+  },
+  {
+    "id": 234,
+    "data": "2018-03-28",
+    "title": "Statistics and Machine Learning Toolbox",
+    "url": "https://www.mathworks.com/products/statistics.html",
+    "chanel": "mlx",
+    "language": "en"
+  },
+  {
+    "id": 235,
+    "data": "2018-05-01",
+    "title": "Software 2.0 – Andrej Karpathy – Medium",
+    "url": "https://medium.com/@karpathy/software-2-0-a64152b37c35",
+    "chanel": "mlx",
+    "language": "en"
+  },
+  {
+    "id": 236,
+    "data": "2018-03-12",
+    "title": "IBM Watson Unity SDK - Asset Store",
+    "url": "https://assetstore.unity.com/packages/tools/ai/ibm-watson-unity-sdk-108831?utm_campaign=as_global_newsletter_180309-A%24-Newsletter-P04&utm_content=180309-glb-as-news-%2304-em&utm_medium=email&utm_source=Eloqua",
+    "chanel": "mlx",
+    "language": "en"
+  },
+  {
+    "id": 237,
+    "data": "2018-03-31",
+    "title": "Best Machine Learning Tools Software - 2018 Reviews of the Most Popular",
+    "url": "https://stackshare.io/machine-learning-tools",
+    "chanel": "mlx",
+    "language": "en"
+  },
+  {
+    "id": 238,
+    "data": "2018-03-10",
+    "title": "Introducing the winners of the first ML-Agents challenge – Unity Blog",
+    "url": "https://blogs.unity3d.com/2018/02/28/introducing-the-winners-of-the-first-ml-agents-challenge/",
+    "chanel": "mlx",
+    "language": "en"
+  },
+  {
+    "id": 239,
+    "data": "2018-03-01",
+    "title": "Now on GitHub: The Autonomous Driving Cookbook from Microsoft",
+    "url": "https://open.microsoft.com/2018/02/27/autonomous-driving-cookbook-github/",
+    "chanel": "mlx",
+    "language": "en"
+  },
+  {
+    "id": 241,
+    "data": "2018-03-31",
+    "title": "Fact vs. Feeling (Paid Post by OppenheimerFunds From NYTimes.com)",
+    "url": "https://paidpost.nytimes.com/oppenheimerfunds/fact-vs-feeling.html",
+    "chanel": "project-tzup",
+    "language": "en"
+  }
+]
