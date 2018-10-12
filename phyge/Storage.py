@@ -1,9 +1,6 @@
-
-
 import json
 import os
 from scipy import sparse
-
 from gensim import corpora, models
 
 from PhygeVariables import PhyVariables
