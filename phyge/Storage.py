@@ -1,12 +1,14 @@
 import json
 import os
+from scipy import sparse
 from gensim import corpora, models
 
 from PhygeVariables import PhyVariables
 from DBController import DBController
-from TematicModels import BaseModel, LsiModel, LdaModel, D2vModel
+from TematicModels import BaseModel, LsiModel, LdaModel, D2vModel, FastTextModel
 from Models.TrainingSample import TrainingSample
 from Models.PhygeArticle import BaseArticle
+
 
 
 class Storage:
@@ -15,9 +17,11 @@ class Storage:
     def save_model(cls, model: BaseModel, path: str):
         if not os.path.exists(path):
             os.makedirs(path)
-        if model.type is not 'd2v':
+        if model.type != 'd2v':
             model.dictionary.save(os.path.join(path, f'{model.name}.dict'))
             corpora.MmCorpus.serialize(os.path.join(path, f'{model.name}.mm'), model.corpus)
+        if model.type == 'ft':
+            sparse.save_npz(os.path.join(path, f'{model.name}.mat'), model.similarity_matrix)
         model.model.save(os.path.join(path, f'{model.name}.{model.type}'))
         cls.save_articles_id(model.training_sample.articles, path)
 
@@ -27,7 +31,8 @@ class Storage:
         if model_type != 'd2v':
             dictionary = corpora.Dictionary.load(os.path.join(path, f'{model_name}.dict'))
             corpus = corpora.MmCorpus(os.path.join(path, f'{model_name}.mm'))
-
+        if model_type == 'ft':
+            similarity_matrix = sparse.load_npz(os.path.join(path, f'{model_name}.mat.npz'))
         articles_id = cls.load_articles_id(path)
         articles = DBController.get_all_articles({'serial_id': {'$in': articles_id}})
         training_sample = TrainingSample(articles)
@@ -45,6 +50,11 @@ class Storage:
                 model = models.doc2vec.Doc2Vec.load(model_path)
                 return D2vModel.trained(name=model_name, model=model, corpus=None, dictionary=None,
                                         training_sample=training_sample)
+            elif model_type == 'ft':
+                model = models.FastText.load(model_path)
+                #similarity_matrix = sparse.load_npz(os.path.join(path, f'{model_name}.mat.npz'))
+                return FastTextModel.trained(name=model_name, model=model, corpus=corpus, dictionary=dictionary,
+                                             similarity_matrix=similarity_matrix, training_sample=training_sample)
         model = load_func(os.path.join(path, f'{model_name}.{model_type}'), model_type=model_type)
         print('Loaded')
 
