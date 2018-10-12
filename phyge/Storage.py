@@ -1,8 +1,5 @@
-
-
 import json
 import os
-
 from gensim import corpora, models
 
 from PhygeVariables import PhyVariables

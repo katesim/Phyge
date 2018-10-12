@@ -6,15 +6,15 @@ import numpy as np
 
 
 class TrainingSample:
-    #LIMIT = 10
+    LIMIT = 9000
 
     def __init__(self,articles):
         self.articles_id = self.get_articles_id(articles)
         self.articles = self.get_articles()
         self.dictionary = self.build_dictionary()
         self.corpus = self.get_corpus()
-    
-    def get_articles_id(self,articles):
+
+    def get_articles_id(self, articles):
         articles_id = []
         for article in articles:
             articles_id.append(article['serial_id'])
@@ -36,28 +36,29 @@ class TrainingSample:
 
 
 class IterArticles:
-    def __init__(self,articles_id):
+    def __init__(self, articles_id):
         self.articles_id = articles_id
-    
+
     def __len__(self):
         return len(self.articles_id)
-    
-    def __getitem__(self,key):
-        if isinstance(key,slice):
-            return [BaseArticle(DBController.get_article(self.articles_id[ii])) 
-                for ii in range(*key.indices(len(self)))]
+
+    def __getitem__(self, key):
+        if isinstance(key, slice):
+            return [BaseArticle(DBController.get_article(self.articles_id[ii]))
+                    for ii in range(*key.indices(len(self)))]
         elif np.issubdtype(type(key), np.integer):
             if key < 0:
                 key += len(self)
             if key < 0 or key >= len(self):
                 raise IndexError("The index {} is out of range.".format(key))
-            return BaseArticle(DBController.get_article(self.articles_id[key])) 
+            return BaseArticle(DBController.get_article(self.articles_id[key]))
         else:
             raise TypeError("Invalid argument type.")
 
     def __iter__(self):
         for id in self.articles_id:
             yield BaseArticle(DBController.get_article(id))
+
 
 class IterDict:
     def __init__(self, my_articles):

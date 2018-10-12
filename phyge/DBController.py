@@ -2,7 +2,7 @@ import pymongo
 from pymongo import MongoClient
 
 from Models.PhygeArticle import BaseArticle, PhyWebArticle, PhyPdfArticle
-
+from Models.PhygeBook import PhyBook
 
 class DBController:
 
@@ -49,6 +49,13 @@ class DBController:
         filter_fields = dict(**filter_fields, **pdf_article_filter) if filter_fields else pdf_article_filter
         articles = cls.articles.find(filter_fields).sort('serial_id', pymongo.ASCENDING)
         return [PhyPdfArticle(obj) for obj in articles]
+
+    @classmethod
+    def get_all_books(cls, filter_fields=None) -> [PhyBook]:
+        book_filter = {'type': 'book'}
+        filter_fields = dict(**filter_fields, **book_filter) if filter_fields else book_filter
+        phy_books = cls.articles.find(filter_fields).sort('serial_id', pymongo.ASCENDING)
+        return [PhyBook(obj) for obj in phy_books]
 
     @classmethod
     def get_article(cls, serial) -> dict:
